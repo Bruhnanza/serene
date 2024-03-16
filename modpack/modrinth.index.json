@@ -759,15 +759,15 @@
             "fileSize": 174028
         },
         {
-            "path": "mods/TES-fabric-1.20.4-1.4.5.jar",
+            "path": "mods/TES-fabric-1.20.4-1.5.jar",
             "hashes": {
-                "sha1": "cd5099bc6de8c53cd2241f0c5c4960bae8f1ed01",
-                "sha512": "245e08272735b3604321f2f9c526f89edce08bea7f80329d8552af093ef78c9617aa96fd1d683dcdf9492037de9956d8795fedbfd5d8bcce9dec988e68380dd9"
+                "sha1": "4f591eb8116906914e49b1cd883ceb4ae413d5b9",
+                "sha512": "98330e79c81fc0d461be0c8b21b19e3f4f771623aa69b9255296afe44b86bd5c790ceaac8b7d1d748460e26cbb24ec104bd6b82ecbfe2cfc06bec28aebec01e9"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4A86JsDZ/versions/z1ZWgr5A/TES-fabric-1.20.4-1.4.5.jar"
+                "https://cdn.modrinth.com/data/4A86JsDZ/versions/xxp4N9kL/TES-fabric-1.20.4-1.5.jar"
             ],
-            "fileSize": 181721
+            "fileSize": 183046
         },
         {
             "path": "mods/waveycapes-fabric-1.4.4-mc1.20.4.jar",
@@ -836,15 +836,15 @@
             "fileSize": 989010
         },
         {
-            "path": "mods/BiomesOPlenty-fabric-1.20.4-19.0.0.67.jar",
+            "path": "mods/BiomesOPlenty-fabric-1.20.4-19.0.0.68.jar",
             "hashes": {
-                "sha1": "bd3448b8675547f444f8fa53da049154b632d2de",
-                "sha512": "f72a4cfbce534f944eabb40471892b8fe50d6fca2912189539f3687cfcd28c3641d842ca870adfc5eba1bccb6ebe9e331a72e4f1eaaa826056961dfafd779df2"
+                "sha1": "9b0c69618bc79e5857fbfceacc0a4efc98bd196e",
+                "sha512": "5d416f0f9feb09b391593984407b3f6ea600f19c963137e346d1e0ea30a23d6339b945ed0d7e76e04d225f173866a16ae5dd8d2255978f237d82453db85a1429"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HXF82T3G/versions/lqUqQ45a/BiomesOPlenty-fabric-1.20.4-19.0.0.67.jar"
+                "https://cdn.modrinth.com/data/HXF82T3G/versions/TlWu2csN/BiomesOPlenty-fabric-1.20.4-19.0.0.68.jar"
             ],
-            "fileSize": 22483837
+            "fileSize": 22484213
         },
         {
             "path": "mods/Bookshelf-Fabric-1.20.4-23.0.5.jar",
