@@ -1056,6 +1056,17 @@
             "fileSize": 327425
         },
         {
+            "path": "mods/glide-1.0.1.jar",
+            "hashes": {
+                "sha1": "f21db217f51be03e48aa81804fb1a8e17bd196ea",
+                "sha512": "c9f97feb2cc09519139843f094b8dac50e5d5f9da11c325df1be4c92b3309f5777bdd4fd5a70d46f542b2a468cfe9d0081b0018e80bd1bdf4d1e520d4c9cf4af"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/P0qoVWgC/versions/SSgjgT31/glide-1.0.1.jar"
+            ],
+            "fileSize": 806001
+        },
+        {
             "path": "mods/handcrafted-fabric-1.20.4-3.2.1.jar",
             "hashes": {
                 "sha1": "38155528650c81f98d9e4795153fe36bb42027c2",
