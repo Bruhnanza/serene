@@ -1342,6 +1342,17 @@
             "fileSize": 240884
         },
         {
+            "path": "mods/veinmining-fabric-3.0.1+1.20.4.jar",
+            "hashes": {
+                "sha1": "a781617d5b84e3aa6bcf69b3d19437104b6da0e6",
+                "sha512": "e04984774ab9c055fe0e63392d6bb9226dfba652b922bd4665212e58ce04f6c6896c713ef441b03bb58dd8071a232f6731d19ab3a5f2681ea679ee6eecdffe18"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/bRAPbNyF/versions/uGlsyTng/veinmining-fabric-3.0.1%2B1.20.4.jar"
+            ],
+            "fileSize": 421014
+        },
+        {
             "path": "mods/waystones-fabric-1.20.4-16.0.4.jar",
             "hashes": {
                 "sha1": "b58413004db420f11f8f9788bc71d8c06277fd04",
