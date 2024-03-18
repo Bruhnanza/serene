@@ -10,7 +10,7 @@ This pack aims to replicate the aspirations of other packs such as [Bliss](https
 - Overhauled World Generation (Biomes O' Plenty, Regions Unexplored, Terralith)
 - New & Renewed Structures (Explorify, Towns & Towers, YUNG's Mods)
 - MCA Reborn revamps villagers with interaction, marriage, genetics, and more!
-- Lots of QoL Improvements (Comforts, Leinent Death, Waystones)
+- Lots of QoL Improvements (Comforts, Glide, Waystones)
 - Cosmetics & Decorations (Handcrafted, Simple Hats, Stormilla)
 
 
