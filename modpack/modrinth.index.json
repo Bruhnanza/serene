@@ -704,6 +704,17 @@
             "fileSize": 51262
         },
         {
+            "path": "mods/MouseTweaks-fabric-mc1.20-2.25.jar",
+            "hashes": {
+                "sha1": "21ae6dd81324543e77c10bbb2b928320d71b6750",
+                "sha512": "04f017920be9e982c945df0d27ef93a4cace730b7bc6fd46a82c028c50f7d6819ec0a4c28a4454bc681b4591eeddb08b74c330cb577d7a697a2391fcc11d925d"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/aC3cM3Vq/versions/m0Dd8Cjy/MouseTweaks-fabric-mc1.20-2.25.jar"
+            ],
+            "fileSize": 77342
+        },
+        {
             "path": "mods/noisium-1.0.2+mc1.20.x.jar",
             "hashes": {
                 "sha1": "509c144a11659c638267fe5090fe5923c019f7d7",
@@ -735,6 +746,17 @@
                 "https://cdn.modrinth.com/data/rcTfTZr3/versions/ji7wRvVK/PresenceFootsteps-1.11.2.jar"
             ],
             "fileSize": 7322791
+        },
+        {
+            "path": "mods/shulkerboxtooltip-fabric-4.0.8+1.20.4.jar",
+            "hashes": {
+                "sha1": "170972b46c2758567f2d3beb93a72b095bf5cafb",
+                "sha512": "867e0d093eec8e37163a45d785e4b5016cd51a55bda338b5a9ede1515426561e58c033db88071c88dd7f04fd84d1a442239b33e869d8ce06dde460fa44fe3371"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/2M01OLQq/versions/R23hymvz/shulkerboxtooltip-fabric-4.0.8%2B1.20.4.jar"
+            ],
+            "fileSize": 1215852
         },
         {
             "path": "mods/skinlayers3d-fabric-1.6.2-mc1.20.4.jar",
@@ -977,6 +999,17 @@
                 "https://cdn.modrinth.com/data/j2HhbEE7/versions/ihis4OcC/emitrades-fabric-1.3.0%2Bmc1.20.4.jar"
             ],
             "fileSize": 54352
+        },
+        {
+            "path": "mods/enchantedshulkers-mc1.20.4-v1.2.4.jar",
+            "hashes": {
+                "sha1": "515327372af72ed1ba78bfa76f94444551b7c56d",
+                "sha512": "c5e3f0d304513eecbc48a0a87560e72b82c86d77152e98ae8797e257dd6ec6ea84d437b6bdb0a3d0b1a212768df5a663ae772fae8a1caabbce6436459970d16c"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/vUi6HFie/versions/DbiMJZZz/enchantedshulkers-mc1.20.4-v1.2.4.jar"
+            ],
+            "fileSize": 1583696
         },
         {
             "path": "mods/ExplorersCompass-1.20.4-2.2.3-fabric.jar",
