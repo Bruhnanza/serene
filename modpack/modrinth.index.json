@@ -979,6 +979,17 @@
             "fileSize": 54352
         },
         {
+            "path": "mods/ExplorersCompass-1.20.4-2.2.3-fabric.jar",
+            "hashes": {
+                "sha1": "39ddf3733220e83be43fa8edbe0f3a500af29785",
+                "sha512": "ce00751dbee2db66641519144cb11cfc2fba4d238202836f7242da3209ecb96a9d40c9e1538df7a227a2a4114922f88e96c66521d3db68225b843afce8f2ce8f"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/RV1qfVQ8/versions/PfGCVLCo/ExplorersCompass-1.20.4-2.2.3-fabric.jar"
+            ],
+            "fileSize": 164218
+        },
+        {
             "path": "mods/explorify-v1.3.0-mc1.20.jar",
             "hashes": {
                 "sha1": "01b221413273cdf373a92499b8f0295dec1cd324",
@@ -1318,17 +1329,6 @@
                 "https://cdn.modrinth.com/data/8oi3bsk5/versions/zA1qYB0L/Terralith_1.20.4_v2.4.11_FABRIC.jar"
             ],
             "fileSize": 2446398
-        },
-        {
-            "path": "mods/TravelersTitles-1.20.4-Fabric-4.4.0.jar",
-            "hashes": {
-                "sha1": "a171eeda728d4dd9127effc04027400535103ae3",
-                "sha512": "cad7895f4d93a154b011b6fa3b3b1001a7457142969a463da3158a7041980bb015edf7250861d510fe322a4a9bd3d1343ef84c1bf2bc6dd095991d107fcb44ec"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/JtifUr64/versions/zbwk2CBy/TravelersTitles-1.20.4-Fabric-4.4.0.jar"
-            ],
-            "fileSize": 340423
         },
         {
             "path": "mods/trinkets-3.8.1.jar",
