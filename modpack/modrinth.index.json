@@ -358,15 +358,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.14.0+mc1.20.4.jar",
+            "path": "mods/modernfix-fabric-5.15.0+mc1.20.4.jar",
             "hashes": {
-                "sha1": "3e01e37697c90971cf36f25dc281ba0f96ccae18",
-                "sha512": "d00a879ccbb5f2ed34157baa59845e84fad6e2acbdff2530e9cb80eee5e45279a28debb6f0bde9a7e8c5b85f9f9cf7ef255a08b2e8010f1989b1631afe16c4f9"
+                "sha1": "dbbb4d797bb89ac02eb6fd7fb310872ef37c23d1",
+                "sha512": "fa163194316f7129d275064bc4ac4e29395673f046c45625f7ce5933318d411c08a2538675a61a19db147324ba76fec44fe6dbd7279be34c62b3f7adeceb072c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/o6bFEv8x/modernfix-fabric-5.14.0%2Bmc1.20.4.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/lQs9avbD/modernfix-fabric-5.15.0%2Bmc1.20.4.jar"
             ],
-            "fileSize": 434857
+            "fileSize": 440683
         },
         {
             "path": "mods/modmenu-9.0.0.jar",
@@ -1363,15 +1363,15 @@
             "fileSize": 2252109
         },
         {
-            "path": "mods/t_and_t-1.12.1.jar",
+            "path": "mods/t_and_t-1.12.1.1.jar",
             "hashes": {
-                "sha1": "1a5aa5273b41883a7db1cb2b772dced4ebd4aa8a",
-                "sha512": "6b5dbe1f2fd981ab6785582a04a77ff0ba6a76026df234bc4b9e6cbfdc804cc65bf45d8c3a1ec67a2b96e46e824a0e663af04b0f883eb1caf8a03ce63bca3ae9"
+                "sha1": "7120a6305799a028c371acc61e495e6c4cfba5f6",
+                "sha512": "47899818053231832bbc16348cb89b5806185cdc8f954cd5339402c19f1dec76956ad81d6a88ce2c3ffd26a788dd1e9fbe84c32334d6e517db62cfc6408bf0e0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DjLobEOy/versions/e5a9WzpA/t_and_t-1.12.1.jar"
+                "https://cdn.modrinth.com/data/DjLobEOy/versions/bwfVhUnU/t_and_t-1.12.1.1.jar"
             ],
-            "fileSize": 3494908
+            "fileSize": 3522384
         },
         {
             "path": "mods/TerraBlender-fabric-1.20.4-3.3.0.12.jar",
