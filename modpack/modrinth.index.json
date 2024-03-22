@@ -52,6 +52,17 @@
             "fileSize": 209297
         },
         {
+            "path": "mods/cit-1.0.0+1.20.4.jar",
+            "hashes": {
+                "sha1": "a1fcebee28c2153233068799b7f8cda623b77724",
+                "sha512": "ecf348562f0e8d6691e0d5e108476879468075421902cd9a5c9220c7a2c9978a33bb16228fd7c18759bc0b470ce09ac72628275026992753ffe250193f32674a"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/G2Ib5c56/versions/TpqaM4ju/cit-1.0.0%2B1.20.4.jar"
+            ],
+            "fileSize": 397171
+        },
+        {
             "path": "mods/cloth-config-13.0.121-fabric.jar",
             "hashes": {
                 "sha1": "e20f396a937a09b686aa986c802643b9adbb311e",
@@ -325,16 +336,15 @@
             "fileSize": 36039
         },
         {
-            "path": "mods/ModDetectionPreventer+1.20.4-1.1.0.jar",
+            "path": "mods/ModDetectionPreventer+1.20.4-1.2.0.jar",
             "hashes": {
-                "sha1": "e5f8b13d0632df9dea85c8d98fd4845d857a9730",
-                "sha512": "5d86c1bce1bb73490ef3ce39f06b414d8c7b2be6cd40493e8a878dc9244936db5249ae0d6e1d09bebe8aa518bd50ea70ccb3693b272d71c1d52dff0dc1e37647"
+                "sha1": "155dfba649bb6fedf15c706aced78eb0ced5b097",
+                "sha512": "1eafdd0d86f5e597110b01f8539d2786a7f6e5a821e3f0abb9bd7c42abb8c1a65c52562e0b4f5b072a41e854e36da191fb241850d930ea379b0876c0fc111013"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/lnxQbnYZ/versions/r2Smj2SL/ModDetectionPreventer%2B1.20.4-1.1.0.jar",
-                "https://github.com/JustAlittleWolf/ModDetectionPreventer/releases/download/1.1.0/ModDetectionPreventer%2B1.20.4-1.1.0.jar"
+                "https://cdn.modrinth.com/data/lnxQbnYZ/versions/F2xrsB2S/ModDetectionPreventer%2B1.20.4-1.2.0.jar"
             ],
-            "fileSize": 50427
+            "fileSize": 52814
         },
         {
             "path": "mods/modelfix-1.14-fabric.jar",
@@ -539,15 +549,15 @@
             "fileSize": 127415
         },
         {
-            "path": "mods/betterstats-3.9.3+fabric-1.20.4.jar",
+            "path": "mods/betterstats-3.9.4+fabric-1.20.4.jar",
             "hashes": {
-                "sha1": "98a9a1ff86e7890f0962442f618d2ffcd6d0b6e7",
-                "sha512": "417cda05616f5c00d584002ac44af40f24470f242a8314d1c1d8e329a14752053b70743cc25891691b4069b425d89344e53b054071d191bb0c8beab516575822"
+                "sha1": "4610bb1d77eb35ae70d0cf1286b11f6eada3a0d8",
+                "sha512": "e931d55f3f27ec0c47cfa679fed81fba3f127fe25e45feae0db5db1a1f9ed63e0294d0a718e71b77660aff85ecc3098b2ae723a7d0a777adcca34364850f164e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/n6PXGAoM/versions/7E0ghj2a/betterstats-3.9.3%2Bfabric-1.20.4.jar"
+                "https://cdn.modrinth.com/data/n6PXGAoM/versions/fA72myNS/betterstats-3.9.4%2Bfabric-1.20.4.jar"
             ],
-            "fileSize": 1065629
+            "fileSize": 1065674
         },
         {
             "path": "mods/BetterThirdPerson-Fabric-1.20-1.9.0.jar",
@@ -669,6 +679,17 @@
                 "https://cdn.modrinth.com/data/WhbRG4iK/versions/KpvXCE2X/fallingleaves-1.15.4%2B1.20.1.jar"
             ],
             "fileSize": 153985
+        },
+        {
+            "path": "mods/fastpaintings-1.20.4-1.2.9-fabric.jar",
+            "hashes": {
+                "sha1": "d85662d0451b84146cad81c2cb0b7ee5cb370f01",
+                "sha512": "e9dc93ee68168caa812c80d623c5f29235ab0058485a68f94b22af41d35a6b1c4f38c819e581911f6ba632d80efe2e65594dd12278182e2b9576be9835b67a7c"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/z3TzcquW/versions/VxB8EM3v/fastpaintings-1.20.4-1.2.9-fabric.jar"
+            ],
+            "fileSize": 150255
         },
         {
             "path": "mods/holdthatchunk-2.1.0+1.20.2.jar",
@@ -825,15 +846,15 @@
             "fileSize": 944674
         },
         {
-            "path": "mods/architectury-11.1.13-fabric.jar",
+            "path": "mods/architectury-11.1.17-fabric.jar",
             "hashes": {
-                "sha1": "570a9ae5fcdde618e13e1b7c3fbb6fbb7d6dddfd",
-                "sha512": "6cfdf01ca74e5bcb7c294c75127e039c88a563a423d77eb7e5edf82fa8c847b8734a241e24554e6f6209ed3bcbdc866e1565f24d98c81687bb911bd0cbea4475"
+                "sha1": "578b95d1c3631e614739fa4ac1ca773836950540",
+                "sha512": "294112b2db8b5cef2051fede57dfacfb00cc7fce737cbf7db3c2de8b81f0cd17bd29a3e2849c3e05bd9e801fbfa3d14e5a83b6531b3d37e5d7c650cff4714362"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5ofORDt8/architectury-11.1.13-fabric.jar"
+                "https://cdn.modrinth.com/data/lhGA9TYQ/versions/kVjQWX0l/architectury-11.1.17-fabric.jar"
             ],
-            "fileSize": 587419
+            "fileSize": 587429
         },
         {
             "path": "mods/balm-fabric-1.20.4-9.0.6.jar",
@@ -858,15 +879,15 @@
             "fileSize": 989010
         },
         {
-            "path": "mods/BiomesOPlenty-fabric-1.20.4-19.0.0.68.jar",
+            "path": "mods/BiomesOPlenty-fabric-1.20.4-19.0.0.70.jar",
             "hashes": {
-                "sha1": "9b0c69618bc79e5857fbfceacc0a4efc98bd196e",
-                "sha512": "5d416f0f9feb09b391593984407b3f6ea600f19c963137e346d1e0ea30a23d6339b945ed0d7e76e04d225f173866a16ae5dd8d2255978f237d82453db85a1429"
+                "sha1": "3f6d8eb31b0f6f57116d6445ab3c5068e57b9133",
+                "sha512": "b020dda3cebe2cb5f2844983d8692f6dd51b30790107267ffef241df1b1c0751401b5060ac90e467dae653a0c6917762e2cb03be2cd8880be9a10afe57a5e62f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HXF82T3G/versions/TlWu2csN/BiomesOPlenty-fabric-1.20.4-19.0.0.68.jar"
+                "https://cdn.modrinth.com/data/HXF82T3G/versions/ohsYTUNM/BiomesOPlenty-fabric-1.20.4-19.0.0.70.jar"
             ],
-            "fileSize": 22484213
+            "fileSize": 22489603
         },
         {
             "path": "mods/Bookshelf-Fabric-1.20.4-23.0.5.jar",
@@ -913,15 +934,15 @@
             "fileSize": 42945
         },
         {
-            "path": "mods/comforts-fabric-7.2.0+1.20.4.jar",
+            "path": "mods/comforts-fabric-7.2.1+1.20.4.jar",
             "hashes": {
-                "sha1": "30763e6c48db720caefa8407dbb773cd3555f1a5",
-                "sha512": "252b342811517eb6f86f4985a0e4688b0eb294327109fcfc29801211eb028c7bd6132f36eb5c2c6c0a19ee11c0b90672a66435154992e27e63710f47c7d12867"
+                "sha1": "32a96d95065edc423f5a9be256490e60d330ade8",
+                "sha512": "45350fc0930d069361ceb617d0f86bd21f338f89cc605d3dd402fa7992eebfecff8cc228bbe97cfad4b5d305ba3ccab7179826d6f32d909a4da474ed08f98bbf"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/SaCpeal4/versions/7xyPjpyG/comforts-fabric-7.2.0%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/SaCpeal4/versions/DdseSSi9/comforts-fabric-7.2.1%2B1.20.4.jar"
             ],
-            "fileSize": 680195
+            "fileSize": 679750
         },
         {
             "path": "mods/ConfigurableEverything-1.1.1-Fabric+1.20.4.jar",
@@ -1386,15 +1407,15 @@
             "fileSize": 240884
         },
         {
-            "path": "mods/veinmining-fabric-3.0.1+1.20.4.jar",
+            "path": "mods/veinmining-fabric-3.1.0+1.20.4.jar",
             "hashes": {
-                "sha1": "a781617d5b84e3aa6bcf69b3d19437104b6da0e6",
-                "sha512": "e04984774ab9c055fe0e63392d6bb9226dfba652b922bd4665212e58ce04f6c6896c713ef441b03bb58dd8071a232f6731d19ab3a5f2681ea679ee6eecdffe18"
+                "sha1": "d96cdd6271806843e266e41948c8b9491e9143ab",
+                "sha512": "994377f12628855b1d08de8100fbd140966f5395be6959f1ff0f511dbfcbf693ca9aa98027aecf0ecabfca748fa2f97959b2d2378f2a616ad6f884234c982e73"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/bRAPbNyF/versions/uGlsyTng/veinmining-fabric-3.0.1%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/bRAPbNyF/versions/QKCaSOAs/veinmining-fabric-3.1.0%2B1.20.4.jar"
             ],
-            "fileSize": 421014
+            "fileSize": 423337
         },
         {
             "path": "mods/waystones-fabric-1.20.4-16.0.4.jar",
@@ -1441,15 +1462,15 @@
             "fileSize": 911421
         },
         {
-            "path": "mods/YungsBetterEndIsland-1.20.4-Fabric-2.4.0.jar",
+            "path": "mods/YungsBetterEndIsland-1.20.4-Fabric-2.4.1.jar",
             "hashes": {
-                "sha1": "ea08cc930fcb5b95fb7813e65d301aa9a604bfe0",
-                "sha512": "dfbf338ec600f7510a7a709804bca4e842b76dc5cc1d461119b2c2237e6b186afc71d24946374531256e866cf897d2804c14fb7d4c75a579f5c36793fdcdd933"
+                "sha1": "c6702a5a396d9294cc1dd34d1d47eef767a34615",
+                "sha512": "2b78a1ce4edeae577ec5165f6363bedefe0bbbaed25b434c9df6b8593bd6ca1a32974e4d625a6e1dc171900e98c185d144a7c9e9c69d269d2ad9cf81c8bc2648"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/2BwBOmBQ/versions/mRCm0pL5/YungsBetterEndIsland-1.20.4-Fabric-2.4.0.jar"
+                "https://cdn.modrinth.com/data/2BwBOmBQ/versions/sPWRtsih/YungsBetterEndIsland-1.20.4-Fabric-2.4.1.jar"
             ],
-            "fileSize": 502501
+            "fileSize": 508679
         },
         {
             "path": "mods/YungsBetterJungleTemples-1.20.4-Fabric-2.4.0.jar",
@@ -1474,15 +1495,15 @@
             "fileSize": 612634
         },
         {
-            "path": "mods/YungsBetterNetherFortresses-1.20.4-Fabric-2.4.0.jar",
+            "path": "mods/YungsBetterNetherFortresses-1.20.4-Fabric-2.4.2.jar",
             "hashes": {
-                "sha1": "20599c571f22c430185a16ff0f48f67c9d9a4912",
-                "sha512": "841cc7aa512361630695ca40a092863fff3ec02268cf059d6f150aa70f1cd66cc1b24004bc70341a8411f4be84d9322058be8d2ce149a53505cdf570dfffc09c"
+                "sha1": "001c9b6c241ac1114316000ba82cce4213246629",
+                "sha512": "181797e88043c0d01b940aa139748c7df5895ea31c85e2cf56fed5ecf878f92927ce6cf8f4f11ca462e07563c2bd1374220cbc48f13bd8506075161320264562"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Z2mXHnxP/versions/QplnGAIz/YungsBetterNetherFortresses-1.20.4-Fabric-2.4.0.jar"
+                "https://cdn.modrinth.com/data/Z2mXHnxP/versions/W7R83Bhr/YungsBetterNetherFortresses-1.20.4-Fabric-2.4.2.jar"
             ],
-            "fileSize": 740415
+            "fileSize": 740159
         },
         {
             "path": "mods/YungsBetterOceanMonuments-1.20.4-Fabric-3.4.0.jar",
