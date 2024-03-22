@@ -1,1 +1,2 @@
-
+- Updated Architectury API, Better Statistics Screen, Biomes O' Plenty, Comforts, Mod Detection Preventer, Vein Mining, YUNG's Better End Island, YUNG's Better Nether Fortresses
+- Added CIT, Fast Paintings
