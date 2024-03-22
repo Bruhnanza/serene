@@ -28,18 +28,6 @@
             "fileSize": 21587
         },
         {
-            "path": "mods/borderless-mining-1.1.9+1.20.2.jar",
-            "hashes": {
-                "sha1": "cf26d4615041f2db6df6b6906c5475fac05030e0",
-                "sha512": "8b58ab2c2ada9f8267aaf127ba7886c3fa8e915194e95c187fb52c11bb3c0a63d6c6455fc14e5bba2694c848e09c426350b3b00a2267dd0248e9ce670fe2e70a"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/kYq5qkSL/versions/r2hHx4zB/borderless-mining-1.1.9%2B1.20.2.jar",
-                "https://github.com/comp500/BorderlessMining/releases/download/1.1.9%2B1.20.2/borderless-mining-1.1.9%2B1.20.2.jar"
-            ],
-            "fileSize": 121765
-        },
-        {
             "path": "mods/capes-1.5.3+1.20.2-fabric.jar",
             "hashes": {
                 "sha1": "c1a62a847753d9ae039bff35050326a081d2e500",
@@ -95,6 +83,18 @@
                 "https://github.com/isXander/Controlify/releases/download/1.8.1%2B1.20.4/Controlify-1.8.1%2B1.20.4.jar"
             ],
             "fileSize": 2127904
+        },
+        {
+            "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
+            "hashes": {
+                "sha1": "e54a2c4b4817efb93a2ce7cb78bf8a2d1136b6cd",
+                "sha512": "25aeed75a51668271649fe67c265caa47318eeb221e3535a1ebc8df8d2220be933505b158517099f9ae3ffb1ca4d2f5df3f466442e371f42afba1dc866945221"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ETlrkaYF/versions/IQtaUFAv/cubes-without-borders-1.1.0%2B1.20.jar",
+                "https://github.com/Kir-Antipov/cubes-without-borders/releases/download/1.1.0%2B1.20/cubes-without-borders-1.1.0%2B1.20.jar"
+            ],
+            "fileSize": 39258
         },
         {
             "path": "mods/Debugify-1.20.4+1.0.jar",
