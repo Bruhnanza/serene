@@ -40,15 +40,15 @@
             "fileSize": 209297
         },
         {
-            "path": "mods/cit-1.0.0+1.20.4.jar",
+            "path": "mods/citresewn-1.1.5+1.20.4.jar",
             "hashes": {
-                "sha1": "a1fcebee28c2153233068799b7f8cda623b77724",
-                "sha512": "ecf348562f0e8d6691e0d5e108476879468075421902cd9a5c9220c7a2c9978a33bb16228fd7c18759bc0b470ce09ac72628275026992753ffe250193f32674a"
+                "sha1": "fd9917d408f2377af9ec5c9b84fa05b0db2e8666",
+                "sha512": "cc29f8daa31b7c173b60d12db6c1a6d8f4b89b0ddae7538cab75f6be9fef062331d37ef8177c782371f470790074e452b891942ba304876baaa59722b4ee58f2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/G2Ib5c56/versions/TpqaM4ju/cit-1.0.0%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/otVJckYQ/versions/MU5nRGAS/citresewn-1.1.5%2B1.20.4.jar"
             ],
-            "fileSize": 397171
+            "fileSize": 391814
         },
         {
             "path": "mods/cloth-config-13.0.121-fabric.jar",
@@ -679,17 +679,6 @@
                 "https://cdn.modrinth.com/data/WhbRG4iK/versions/PNG0Dp43/fallingleaves-1.15.5%2B1.20.1.jar"
             ],
             "fileSize": 154889
-        },
-        {
-            "path": "mods/fastpaintings-1.20.4-1.2.9-fabric.jar",
-            "hashes": {
-                "sha1": "d85662d0451b84146cad81c2cb0b7ee5cb370f01",
-                "sha512": "e9dc93ee68168caa812c80d623c5f29235ab0058485a68f94b22af41d35a6b1c4f38c819e581911f6ba632d80efe2e65594dd12278182e2b9576be9835b67a7c"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/z3TzcquW/versions/VxB8EM3v/fastpaintings-1.20.4-1.2.9-fabric.jar"
-            ],
-            "fileSize": 150255
         },
         {
             "path": "mods/holdthatchunk-2.1.0+1.20.2.jar",
