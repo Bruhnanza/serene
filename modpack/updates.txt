@@ -1,4 +1,1 @@
-- Updated Architectury API, Better Statistics Screen, Biomes O' Plenty, Comforts, Concurrent Chunk Management Engine, Controlify, Debugify, Eating Animation, Elytra Trims, EMI, Entity Culling, Falling Leaves, ImmediatelyFast, Mod Detection Preventer, ModernFix, PandaLib, Towns & Towers, Vein Mining, YUNG's Better End Island, YUNG's Better Nether Fortresses, Xaero's Minimap, Zoomify
-- Added Bountiful Fares, CIT, Cubes Without Borders, Fast Paintings
-- Removed Borderless Mining
-- Included additional config files
+
