@@ -1066,15 +1066,15 @@
             "fileSize": 62991126
         },
         {
-            "path": "mods/fallingtrees-0.10-fabric-1.20.jar",
+            "path": "mods/fallingtrees-0.11-fabric-1.20.jar",
             "hashes": {
-                "sha1": "d64600aca69c05322e061641ffb69daf83362527",
-                "sha512": "29e59800e082d087ba7317d50d3aa354d00a75ede40bfd5e90bce95877bd94275ff108785dd569d866849d798ce6e400da6f1d0ddaa138704a8e0bebf6445ceb"
+                "sha1": "a249ae9c42af42b1274702af48a66ad75745aa63",
+                "sha512": "05c7a6087f6d3ddae6db203a0247dd7b7fd564fe423cd48614029f23cdcf26dfa42f598230ea2cdc901c6802279b2f500fd9df3e774b149c6cebd4469f930755"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/i2kUe4lq/versions/1BfQ8hn8/fallingtrees-0.10-fabric-1.20.jar"
+                "https://cdn.modrinth.com/data/i2kUe4lq/versions/NvBB1Emt/fallingtrees-0.11-fabric-1.20.jar"
             ],
-            "fileSize": 3996641
+            "fileSize": 4004692
         },
         {
             "path": "mods/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar",
@@ -1165,15 +1165,15 @@
             "fileSize": 4185038
         },
         {
-            "path": "mods/indypets-1.3.3-1.20.1.jar",
+            "path": "mods/indypets-1.3.4-1.20.1.jar",
             "hashes": {
-                "sha1": "3bf68fe86098222fbbd73869bec59b60f871b579",
-                "sha512": "cf35602f1983f4e307d16e39fe575e7c557ef10d1d30d6edd0cf25ffca8e9475bbe85f67e5b21c566ea9df21f8263ab70c39da01b8ff3756de9cac9befadf17b"
+                "sha1": "b3cf44ea6181efa737041cc716fdcd32b6c17b95",
+                "sha512": "7b501b6c03a301c510077c7fdd461515096b5018470beb03b6a64f056d57129d50e9d996165694f22f4f23d2808033f7be9f75e80b4f15654429c589eb065d06"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/SVJhmJvx/versions/zIj5S3MI/indypets-1.3.3-1.20.1.jar"
+                "https://cdn.modrinth.com/data/SVJhmJvx/versions/IQzbczjG/indypets-1.3.4-1.20.1.jar"
             ],
-            "fileSize": 176002
+            "fileSize": 183893
         },
         {
             "path": "mods/Kambrik-7.0.0+1.20.4-fabric.jar",
