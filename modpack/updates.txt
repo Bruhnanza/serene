@@ -1,2 +1,3 @@
+- Updated IndyPets, Panda's Falling Tree's
 - Added CIT Resewn
 - Removed CIT, Fast Paintings
