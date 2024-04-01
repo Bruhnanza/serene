@@ -549,15 +549,15 @@
             "fileSize": 127415
         },
         {
-            "path": "mods/betterstats-3.9.4+fabric-1.20.4.jar",
+            "path": "mods/betterstats-3.9.5+fabric-1.20.4.jar",
             "hashes": {
-                "sha1": "4610bb1d77eb35ae70d0cf1286b11f6eada3a0d8",
-                "sha512": "e931d55f3f27ec0c47cfa679fed81fba3f127fe25e45feae0db5db1a1f9ed63e0294d0a718e71b77660aff85ecc3098b2ae723a7d0a777adcca34364850f164e"
+                "sha1": "d4413564bb11470ae7115ce92de83704f36437c3",
+                "sha512": "707f8fb36aabf2fa9fa876b0afe9adca9a8b2e9064667d249ba9cc937357370de58658c0cb8610f8ab88920b00d19b72fbb8b6606bf055046b1cc1597bbe717d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/n6PXGAoM/versions/fA72myNS/betterstats-3.9.4%2Bfabric-1.20.4.jar"
+                "https://cdn.modrinth.com/data/n6PXGAoM/versions/HyPBt1Fe/betterstats-3.9.5%2Bfabric-1.20.4.jar"
             ],
-            "fileSize": 1065674
+            "fileSize": 1062756
         },
         {
             "path": "mods/BetterThirdPerson-Fabric-1.20-1.9.0.jar",
@@ -626,26 +626,26 @@
             "fileSize": 15189
         },
         {
-            "path": "mods/eating-animation-1.20+1.9.5.jar",
+            "path": "mods/eating-animation-1.20+1.9.61.jar",
             "hashes": {
-                "sha1": "1a5129a1dc83dca6a6c90506fb7db363850d3011",
-                "sha512": "6a23ce2a19f2d17ddc9b29a82abf7ff25bf7de333eca84c7761ce0a857502fc55a98ea75c6df3b4cdd64aa9b4ad592e7e771cc0d273dd3cec93191c59ee0db65"
+                "sha1": "d5a8909b0b864eb1a7a2d62368932d264eb60317",
+                "sha512": "7470cd63b49cd797a21b30fefe11bd53e419ca8ed0eb01f498b801e83222685bbe853e7323f2e310874a3619628fece48ec69ea53cd391dd97a139c64225d077"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/rUgZvGzi/versions/OeBVALjb/eating-animation-1.20%2B1.9.5.jar"
+                "https://cdn.modrinth.com/data/rUgZvGzi/versions/AqXSvu6M/eating-animation-1.20%2B1.9.61.jar"
             ],
-            "fileSize": 1037772
+            "fileSize": 1218710
         },
         {
-            "path": "mods/emi-1.1.3+1.20.4+fabric.jar",
+            "path": "mods/emi-1.1.4+1.20.4+fabric.jar",
             "hashes": {
-                "sha1": "539f32b8e164c54fb9118d99458cb98c915ac66c",
-                "sha512": "8f87dd91b58e1bd93beda6cd3464e848aa8e28e26c3aac4bc2be1a7bc3eb216345f351a4c9244456c4b03a4c84778d810dce136526a91bb05738a76616707c2d"
+                "sha1": "fb50757aa2cdbb30ce47525b721929d983ad14bc",
+                "sha512": "a9be82530377d5b6ce95781b714ea993635c2fb4d095fe6d174ebc8f879b070a436dd959c6cbd95957940298126cc2e814d5e0a9d92ff86ce14abd2b3f8f7483"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/fRiHVvU7/versions/gI8Bw8ak/emi-1.1.3%2B1.20.4%2Bfabric.jar"
+                "https://cdn.modrinth.com/data/fRiHVvU7/versions/BzLRE7QI/emi-1.1.4%2B1.20.4%2Bfabric.jar"
             ],
-            "fileSize": 978153
+            "fileSize": 977477
         },
         {
             "path": "mods/enhanced_attack_indicator-1.0.4+1.20.3.jar",
@@ -670,15 +670,15 @@
             "fileSize": 113600
         },
         {
-            "path": "mods/fallingleaves-1.15.4+1.20.1.jar",
+            "path": "mods/fallingleaves-1.15.5+1.20.1.jar",
             "hashes": {
-                "sha1": "5101bd05c678a874c1fa40c3363d1c127f7074d5",
-                "sha512": "60bdf742d75a7836809087fed4e92da23dd24a09a2f222e5d2807a0fe6f1dfeff9c42c1a3cb84d20d93b3c8045b349f805d3b7b4eee4278dfe5bfe3b9bd2ebc1"
+                "sha1": "147ef536b167f71e9fecdf9eb41ecdcb57695790",
+                "sha512": "916d609dabf8151cf05691e5988babdad4f5fc53f011595ede31ad4c7d4ebfa47e8d0b6b2548aa0ae6881b92a726e0d87f09e4007d6dd4a3a246f05b63ae487d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/WhbRG4iK/versions/KpvXCE2X/fallingleaves-1.15.4%2B1.20.1.jar"
+                "https://cdn.modrinth.com/data/WhbRG4iK/versions/PNG0Dp43/fallingleaves-1.15.5%2B1.20.1.jar"
             ],
-            "fileSize": 153985
+            "fileSize": 154889
         },
         {
             "path": "mods/fastpaintings-1.20.4-1.2.9-fabric.jar",
@@ -824,15 +824,15 @@
             "fileSize": 355443
         },
         {
-            "path": "mods/Xaeros_Minimap_24.0.2_Fabric_1.20.4.jar",
+            "path": "mods/Xaeros_Minimap_24.0.3_Fabric_1.20.4.jar",
             "hashes": {
-                "sha1": "cf82e3637e1f5129540ed3ab16ceb5d3ea2e4d58",
-                "sha512": "2a6cdd0f55bdc1c9c17c41f3676571ad889f6153e47d7f9115468fca78317fbde30dc7178f3098f851895aa1afde66798c3ecf7b2108b3cecef435db09a844a9"
+                "sha1": "657a637e6c441d17c04c561f382e614009c261d7",
+                "sha512": "cbb308f95dd2df2c696fc64f218a835cdd835152029a48845ffaa3f3d2bf060ea7c91ab933b2cd1346ae56ad95e38feb75eaace361b332bcd6167ba922bf717a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1bokaNcj/versions/Gwys2mC6/Xaeros_Minimap_24.0.2_Fabric_1.20.4.jar"
+                "https://cdn.modrinth.com/data/1bokaNcj/versions/N5jBKzC0/Xaeros_Minimap_24.0.3_Fabric_1.20.4.jar"
             ],
-            "fileSize": 1450380
+            "fileSize": 1450377
         },
         {
             "path": "mods/XaerosWorldMap_1.38.1_Fabric_1.20.4.jar",
@@ -879,15 +879,15 @@
             "fileSize": 989010
         },
         {
-            "path": "mods/BiomesOPlenty-fabric-1.20.4-19.0.0.70.jar",
+            "path": "mods/BiomesOPlenty-fabric-1.20.4-19.0.0.75.jar",
             "hashes": {
-                "sha1": "3f6d8eb31b0f6f57116d6445ab3c5068e57b9133",
-                "sha512": "b020dda3cebe2cb5f2844983d8692f6dd51b30790107267ffef241df1b1c0751401b5060ac90e467dae653a0c6917762e2cb03be2cd8880be9a10afe57a5e62f"
+                "sha1": "517beef40c7617d163baa996a303ec014e89a49f",
+                "sha512": "91cb756863b7be7a8be149d26271ee58074019fe71b93ec1e70f3946dd243bea1eda1c450d43eff0c61336658c850eaa2fbbc5cfba2b588a69dc0e58bb8a7061"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HXF82T3G/versions/ohsYTUNM/BiomesOPlenty-fabric-1.20.4-19.0.0.70.jar"
+                "https://cdn.modrinth.com/data/HXF82T3G/versions/sl4amlLF/BiomesOPlenty-fabric-1.20.4-19.0.0.75.jar"
             ],
-            "fileSize": 22489603
+            "fileSize": 22491072
         },
         {
             "path": "mods/Bookshelf-Fabric-1.20.4-23.0.5.jar",
@@ -912,6 +912,17 @@
             "fileSize": 606772
         },
         {
+            "path": "mods/bountifulfares-1.0.1-1.20.4.jar",
+            "hashes": {
+                "sha1": "40a4867ed31bee254825742c4d41d45a2295b981",
+                "sha512": "3d7dd99847afd3621952bca9787c6987beafbe7c6c48744ec4af12147615e6e2b4e431a1c879dcce4fc357c0b6b548b7d911f6c92b9639af94d223edf43e13f4"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/YgrSDjlb/versions/eXdkKxJE/bountifulfares-1.0.1-1.20.4.jar"
+            ],
+            "fileSize": 2205973
+        },
+        {
             "path": "mods/carryon-fabric-1.20.4-2.1.3.13.jar",
             "hashes": {
                 "sha1": "99dc3be0ab27380872dbaac54dfa745c5ff672a2",
@@ -934,15 +945,15 @@
             "fileSize": 42945
         },
         {
-            "path": "mods/comforts-fabric-7.2.1+1.20.4.jar",
+            "path": "mods/comforts-fabric-7.2.2+1.20.4.jar",
             "hashes": {
-                "sha1": "32a96d95065edc423f5a9be256490e60d330ade8",
-                "sha512": "45350fc0930d069361ceb617d0f86bd21f338f89cc605d3dd402fa7992eebfecff8cc228bbe97cfad4b5d305ba3ccab7179826d6f32d909a4da474ed08f98bbf"
+                "sha1": "061dbc3c851550c6cca241155bd5d63628723d8e",
+                "sha512": "c09827132c399599fa62bea12134907c3992078b5710b6b483bfeee1c3169b43b04c1932c9330769d9b07735d22413390357eec3bb5f746d388e94460bc30aa0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/SaCpeal4/versions/DdseSSi9/comforts-fabric-7.2.1%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/SaCpeal4/versions/9qOe1XXv/comforts-fabric-7.2.2%2B1.20.4.jar"
             ],
-            "fileSize": 679750
+            "fileSize": 681077
         },
         {
             "path": "mods/ConfigurableEverything-1.1.1-Fabric+1.20.4.jar",
@@ -1000,15 +1011,15 @@
             "fileSize": 672027
         },
         {
-            "path": "mods/elytratrims-fabric-2.0.3+1.20.4.jar",
+            "path": "mods/elytratrims-fabric-2.1.1+1.20.4.jar",
             "hashes": {
-                "sha1": "a4f67f8c0a3a7d4e1e8d2ead73c6f87bed5b68b5",
-                "sha512": "f9dbe3d170ab7170e9adf0601e60d4f75f2f420e2af9ea5fb7aeefd7c1022447fc910ff393035b207f0677032019122df6e948525cda32411294dc2df21f1b7f"
+                "sha1": "a7a71a1437794bc0f69c572c0d1d85620346e36a",
+                "sha512": "178e335d0c997cbfb5e7863b9b985b954aeb1c37166f78cdb4ca6091ac4e404390b24805d07a63a44255bd8d79d4c8828aeea92b1e9c8e5ef4948a5f37538ee4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XpzGz7KD/versions/9RT9DAyf/elytratrims-fabric-2.0.3%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/XpzGz7KD/versions/JxtAySBt/elytratrims-fabric-2.1.1%2B1.20.4.jar"
             ],
-            "fileSize": 188622
+            "fileSize": 165356
         },
         {
             "path": "mods/emitrades-fabric-1.3.0+mc1.20.4.jar",
@@ -1275,15 +1286,15 @@
             "fileSize": 1368415
         },
         {
-            "path": "mods/pandalib-0.1-fabric-1.20.jar",
+            "path": "mods/pandalib-0.2-fabric-1.20.jar",
             "hashes": {
-                "sha1": "4b36c24e0f764abdf45b0909b3d617ed462ee5d1",
-                "sha512": "eb0c44059051af5f59c10c28a5c2b6dc4c1ce9040cfa9e22ab2e00c3b2a74c05aacb35caea9fabc866d8339ea65063cf5e0e0200b9a096518c7bfc0e4ef59635"
+                "sha1": "5752dc1172631440e476610ecae853e5121f0249",
+                "sha512": "9366aca084316227daff18a92eb891652d790df8d150ebe5c9d39d1bff1b234165e72ece991b2278bedf48d817e008042b6b8b770891b2dda93a635bc6f0e755"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mEEGbEIu/versions/PhYESCw9/pandalib-0.1-fabric-1.20.jar"
+                "https://cdn.modrinth.com/data/mEEGbEIu/versions/JEuVEVRF/pandalib-0.2-fabric-1.20.jar"
             ],
-            "fileSize": 68177
+            "fileSize": 42749
         },
         {
             "path": "mods/RegionsUnexploredFabric-0.5.5+1.20.4.jar",
