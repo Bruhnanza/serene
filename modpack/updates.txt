@@ -1,3 +1,3 @@
-- Updated IndyPets, Panda's Falling Tree's
-- Added CIT Resewn
+- Updated Biomes O' Plenty, Bountiful Fares, Concurrent Chunk Management Engine, Do a Barrel Roll, Falling Leaves, IndyPets, Mouse Tweaks, Open Parties and Claims, Panda's Falling Tree's, Presence Footsteps
+- Added CIT Resewn, JamLib, Polytone, Utility Belt
 - Removed CIT, Fast Paintings
