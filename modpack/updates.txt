@@ -1,3 +1,3 @@
-- Updated Biomes O' Plenty, Bountiful Fares, Concurrent Chunk Management Engine, Do a Barrel Roll, Falling Leaves, IndyPets, Mouse Tweaks, Open Parties and Claims, Panda's Falling Tree's, Presence Footsteps
-- Added CIT Resewn, JamLib, Polytone, Utility Belt
+- Updated Balm, Better Archeology, Better Statistics Screen, Biomes O' Plenty, Bountiful Fares, ChoiceTheorem's Overhauled Village, Concurrent Chunk Management Engine, Controlify, Do a Barrel Roll, Elytra Trims, Entity Model Features, Entity Texture Features, Falling Leaves, IndyPets, ModernFix, More Culling, Mouse Tweaks, No Chat Reports, Noisium, Open Parties and Claims, Panda's Falling Tree's, Presence Footsteps, Remove Reloading Screen, Repurposed Structures, TslatEntityStatus, Waystones, Xaero's Minimap, Xaero's World Map, YUNG's Better Dungeons
+- Added Advanced Netherite, CIT Resewn, JamLib, Polytone, Soulbound Enchantment, Utility Belt
 - Removed CIT, Fast Paintings
