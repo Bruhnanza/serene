@@ -24,7 +24,7 @@ If you encounter any issues or wish to give feedback, submit them here.
 - Add in-depth documentation to help guide less familiar players
 - Create better title screen with mods like [FancyMenu](https://modrinth.com/mod/fancymenu)
 - Custom rules to limit mob spawning and activity
-- Enhance multiplayer compatibility[*](https://modrinth.com/modpack/craftycrew) & usability via mods like [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
+- Support for serverside pack[*](https://modrinth.com/modpack/craftycrew)
 - Reward hats for certain achievements or [bounties](https://modrinth.com/mod/bountiful)
 - Work on modded compatibility for [Stormilla Dark Mode](https://modrinth.com/resourcepack/stormilla-dark-mode) & adding other packs
 </details>
