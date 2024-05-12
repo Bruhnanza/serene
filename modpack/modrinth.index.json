@@ -109,15 +109,15 @@
             "fileSize": 270096
         },
         {
-            "path": "mods/dynamic-fps-3.4.1+minecraft-1.20.4-fabric.jar",
+            "path": "mods/dynamic-fps-3.4.3+minecraft-1.20.0-fabric.jar",
             "hashes": {
-                "sha1": "04c581d562417a6f4add8af0c55ba66d165eabaf",
-                "sha512": "b71bab29f90bc7462a683220fa78b578372f5520d8879cdf1fa467f57528b1dc3a40f9bfd6440d43aeff7b5adfdf89ba6e46bdaf8688066ae9e35782b136b7e0"
+                "sha1": "30b60a63c1dc1688f16ac3a8ef97d76b71397d97",
+                "sha512": "ab9cac5578b3636a47ca972823f7adcecf2233a5590cfcca5197fdca7aa51514e5a51b9fdd5e07c36354900104cc8bba59460424579a90b3f7d23c172e5996fd"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/akci2PEc/dynamic-fps-3.4.1%2Bminecraft-1.20.4-fabric.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/48hFxWw7/dynamic-fps-3.4.3%2Bminecraft-1.20.0-fabric.jar"
             ],
-            "fileSize": 94005
+            "fileSize": 99715
         },
         {
             "path": "mods/e4mc-4.0.1+1.19.4-fabric.jar",
@@ -359,15 +359,15 @@
             "fileSize": 458056
         },
         {
-            "path": "mods/modmenu-9.1.0-beta.1.jar",
+            "path": "mods/modmenu-9.2.0-beta.2.jar",
             "hashes": {
-                "sha1": "0417da163e6e9692c08c113117a1bd39337a7a03",
-                "sha512": "03efc2e7a0ef2b4128c16f648feaaadf4df1c747f2d2d3dbe918b15a5b6bbd8204c0e1f6e2c42e9104fad991cb6fe61553379bc02893ddc3f7e153c37ae7593b"
+                "sha1": "ae50f27e17e1c6b9da1293c391729f4bd5e63f65",
+                "sha512": "e8a73596f6ed279a9c4da7d2c0e9c5f08a8deb563626dcc47380be93f15cfcff9c12e2973317f6306cd53842b1eb0cdd62f4dbd75f580edb00476b3e4435331e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/w3icASIi/modmenu-9.1.0-beta.1.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/ybV7vGT5/modmenu-9.2.0-beta.2.jar"
             ],
-            "fileSize": 724448
+            "fileSize": 742941
         },
         {
             "path": "mods/morechathistory-1.3.0.jar",
@@ -493,16 +493,16 @@
             "fileSize": 949085
         },
         {
-            "path": "mods/yet-another-config-lib-fabric-3.3.2+1.20.4.jar",
+            "path": "mods/YetAnotherConfigLib-3.4.2+1.20.4-fabric.jar",
             "hashes": {
-                "sha1": "9cbb8f3401160ec4422630bbf930208a898fe320",
-                "sha512": "597073b3835ce1d4c0f9e4ba835bd565871fa49a8feee41b90213480a76d251e2a57a71729f132e4b908ef50a5602cff90c330da229db605014e26e856cfcbc8"
+                "sha1": "a67986e7683bb6e5e71c55911b1badbb6d0d7c4c",
+                "sha512": "e2c0109f6f048b1e107e3df48c69fe4a314b994f937f856add21a13072b3a770a2c0151dc9db46647653ac7cdeceb6120a38cc7ca6627a3c42769c901cb9118d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/StXMrAsz/yet-another-config-lib-fabric-3.3.2%2B1.20.4.jar",
-                "https://github.com/isXander/YetAnotherConfigLib/releases/download/3.3.2%2B1.20.4/yet-another-config-lib-fabric-3.3.2%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/EkAJiIZH/YetAnotherConfigLib-3.4.2%2B1.20.4-fabric.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/3.4.2%2B1.20.4-fabric/YetAnotherConfigLib-3.4.2+1.20.4-fabric.jar"
             ],
-            "fileSize": 979275
+            "fileSize": 1073637
         },
         {
             "path": "mods/yosbr-0.1.2.jar",
@@ -725,16 +725,16 @@
             "fileSize": 77943
         },
         {
-            "path": "mods/noisium-fabric-2.0.2+mc1.20.2-1.20.4.jar",
+            "path": "mods/noisium-fabric-2.0.3+mc1.20.2-1.20.4.jar",
             "hashes": {
-                "sha1": "6c7ca6c6075c50f7f9bc6631cfc098fa3976a38b",
-                "sha512": "8bc599d66e5d8bd4a7a3aa119b242262b9148b40bfcacd44ffdfe5e4f49332338d21c269916b85acea5e66dbb2819e72eb25f91d0cee12398fab54da63830948"
+                "sha1": "17d17b58adea358d867e3c4bf3de364ae7392338",
+                "sha512": "55a73e9df7b51ef7632b14955faa0a536a75fedfc8bbf7a4fea02d082e121f989480ba9276f3e2461b787dd79e98c439402f7d5355c0b0d27f15b38189448698"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZgEmwDsG/noisium-fabric-2.0.2%2Bmc1.20.2-1.20.4.jar",
-                "https://github.com/Steveplays28/noisium/releases/download/v2.0.2%2Bmc1.20.2-1.20.4/noisium-fabric-2.0.2+mc1.20.2-1.20.4.jar"
+                "https://cdn.modrinth.com/data/KuNKN7d2/versions/Eie3f6ki/noisium-fabric-2.0.3%2Bmc1.20.2-1.20.4.jar",
+                "https://github.com/Steveplays28/noisium/releases/download/v2.0.3%2Bmc1.20.2-1.20.4/noisium-fabric-2.0.3+mc1.20.2-1.20.4.jar"
             ],
-            "fileSize": 217589
+            "fileSize": 217554
         },
         {
             "path": "mods/notenoughanimations-fabric-1.7.3-mc1.20.4.jar",
@@ -770,15 +770,15 @@
             "fileSize": 1215852
         },
         {
-            "path": "mods/skinlayers3d-fabric-1.6.2-mc1.20.4.jar",
+            "path": "mods/skinlayers3d-fabric-1.6.4-mc1.20.4.jar",
             "hashes": {
-                "sha1": "dbc550d6f979c78ce3a2bc8d0cd1c62162a5367f",
-                "sha512": "02c27c19210498566d6e726221851ad7da198fffe03fbf741b1119a1f7f1256e967f4f2723f35e77332e66b6972f6b0825766b1733f6175b51bfc0e70bfaf471"
+                "sha1": "88859ecf64059d0f623387763d9ef7bcd35bb90f",
+                "sha512": "3149b24cee7212055fe2b23628b1e052475fe47f600ad8fa91db273f8b53f82a4e42f30740367251a82375d25c567b733ec7dcb69a14d03f7463680f1a43566b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/zV5r3pPn/versions/kJmEO0xO/skinlayers3d-fabric-1.6.2-mc1.20.4.jar"
+                "https://cdn.modrinth.com/data/zV5r3pPn/versions/3a5RPvFY/skinlayers3d-fabric-1.6.4-mc1.20.4.jar"
             ],
-            "fileSize": 466054
+            "fileSize": 471289
         },
         {
             "path": "mods/sound-physics-remastered-fabric-1.20.4-1.3.1.jar",
@@ -814,15 +814,15 @@
             "fileSize": 8125442
         },
         {
-            "path": "mods/waveycapes-fabric-1.4.4-mc1.20.4.jar",
+            "path": "mods/waveycapes-fabric-1.4.6-mc1.20.4.jar",
             "hashes": {
-                "sha1": "d113b55c480279f2acb6837591d0fd3ffc22c5c8",
-                "sha512": "e9069b05f27d78c1fb696cbd5d625536900e6dfb2c9a70089f3ad6bf47f6ea42be3cea57323aaf4d8f7e69b0090263ecd04036da1cd60caf0b3739b5989d0b58"
+                "sha1": "74e4d760c30d0410f8081036f97e85d2b14d5297",
+                "sha512": "c7161e84b517d6fe71a002dfdec5dc0de2b012f747ce72fa75fbd9f2735d7a5a04a51cb968570e1fa2c05f5634c112f5e59a4968cd82242f45bd4acbbdc4d712"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/kYuIpRLv/versions/3Ky3FTbO/waveycapes-fabric-1.4.4-mc1.20.4.jar"
+                "https://cdn.modrinth.com/data/kYuIpRLv/versions/dXnBpCoW/waveycapes-fabric-1.4.6-mc1.20.4.jar"
             ],
-            "fileSize": 355443
+            "fileSize": 357708
         },
         {
             "path": "mods/Xaeros_Minimap_24.1.1_Fabric_1.20.4.jar",
@@ -1685,6 +1685,6 @@
     ],
     "dependencies": {
         "minecraft": "1.20.4",
-        "fabric-loader": "0.15.7"
+        "fabric-loader": "0.15.10"
     }
 }
