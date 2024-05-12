@@ -1,3 +1,3 @@
 - Updated Balm, Biomes O' Plenty, Bountiful Fares, Chunky, Concurrent Chunk Management Engine, Configurable Everything, Controlify, Do a Barrel Roll, Dynamic FPS, Elytra Trims, EMI, Entity Model Features, Entity Texture Features, Fabric Kotlin Extensions, Fabric Language Kotlin, Hopo Better Ruined Portals, ImmediatelyFast, JamLib, ModernFix, Mod Menu, Noisium, Not Enough Animations, PandaLib, Panda's Falling Tree's, Polytone, Repurposed Structures, Terralith, Vein Mining, Wavey Capes, YetAnotherConfigLib, YUNG's API, YUNG's Better Desert Temples, YUNG's Better Dungeons, YUNG's Better End Island, YUNG's Better Jungle Temples, YUNG's Better Mineshafts, YUNG's Better Nether Fortresses, YUNG's Better Ocean Monuments, YUNG's Better Strongholds, YUNG's Better Witch Huts, Zoomify, 3D Skin Layers
-- Added CICADA, Crate Delight, Wolf Port
+- Added Artifacts, CICADA, Crate Delight, Wolf Port
 - Removed Mod Detection Preventer
