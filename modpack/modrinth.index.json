@@ -869,6 +869,17 @@
             "fileSize": 587429
         },
         {
+            "path": "mods/artifacts-fabric-10.0.5.jar",
+            "hashes": {
+                "sha1": "1bb86d04eef589eae2cf1596eec26d0236dae3d5",
+                "sha512": "f28ad215719c50628b21ad9063502b31e23684047b3658aa80f633cc9b7f91e72e9f287396c59984a74bc2dbc19e0cfbee0dfe5c724287fdf79cb7bf5d0a304c"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/X75XmT50/artifacts-fabric-10.0.5.jar"
+            ],
+            "fileSize": 922504
+        },
+        {
             "path": "mods/balm-fabric-1.20.4-9.0.9.jar",
             "hashes": {
                 "sha1": "129d8a8319cb369de0cac15f747c74f3f24eb4cf",
