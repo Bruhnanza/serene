@@ -300,16 +300,16 @@
             "fileSize": 568669
         },
         {
-            "path": "mods/language-reload-1.5.10+1.20.3.jar",
+            "path": "mods/language-reload-1.5.11+1.20.4.jar",
             "hashes": {
-                "sha1": "65ca8e5379306733f90e76d497d0f34597ca61e7",
-                "sha512": "423dfa3802ed1c9e1caaea8934af7cf24c9fba84695a9e8f5479a4f1a100a3abf8d07add87352ec69cb861cdb31db4b2b233c2c9d64acbe3fdc71612fe59a1bc"
+                "sha1": "d21438a6e84447abd40a31fe74be0f1a7094a06a",
+                "sha512": "1ee78ca91126ec5ee0dbde43bdef179456f3be6d550165aaf593f1c4decedaceaaee2e4e533f4fe7660b83aa44f1548c6fd929f20b0d8da4ea4fa72fa7e64887"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/SSvudGpI/language-reload-1.5.10%2B1.20.3.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.10%2B1.20.3/language-reload-1.5.10%2B1.20.3.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/c7LFNVce/language-reload-1.5.11%2B1.20.4.jar",
+                "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.11%2B1.20.4/language-reload-1.5.11+1.20.4.jar"
             ],
-            "fileSize": 200750
+            "fileSize": 71034
         },
         {
             "path": "mods/lithium-fabric-mc1.20.4-0.12.1.jar",
@@ -426,15 +426,15 @@
             "fileSize": 70974
         },
         {
-            "path": "mods/polytone-1.20.4-1.18.7-fabric.jar",
+            "path": "mods/polytone-1.20.4-1.18.8-fabric.jar",
             "hashes": {
-                "sha1": "ff4ecdc1a382850a7b6ac9aed5b32a870dc9e091",
-                "sha512": "f31e2f61987a9f5ac644b88d442fe4d1ebb521d3e50b403a219b2280f2d6ff3c759509a897d4946952f33069df667b24e1aafb40e0ee227cd4ddcde64dcde1fa"
+                "sha1": "d1574756fceb1c2039e8941f0e712f99d905dac1",
+                "sha512": "a4290b83f7cf907dbc851604dd3f8ce398899cb828b71f0dba5061a3f4ab0eb1fdd78055dced2ac6b63bcfa89cf9cdcc809224469cccfcc79001b0354d017786"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/tfSAWwie/polytone-1.20.4-1.18.7-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/9E3hk7Zx/polytone-1.20.4-1.18.8-fabric.jar"
             ],
-            "fileSize": 429057
+            "fileSize": 438070
         },
         {
             "path": "mods/puzzle-1.6.1+1.20.4.jar",
@@ -538,15 +538,15 @@
             "fileSize": 1077002
         },
         {
-            "path": "mods/better-suggestions-1.20.4-1.2.4.jar",
+            "path": "mods/better-suggestions-1.20.4-1.2.5.jar",
             "hashes": {
-                "sha1": "dfb8e9ccd602d3754985301939df92572255c5da",
-                "sha512": "704cff3a0880001fad158aa4aa4b3017b844150a0fd77b8f7924a9ffd33750b700f5d837ed4e412733147ffd7bcac0ef86ff9eb06bc7cfc62ef3a6003a5ec011"
+                "sha1": "6bfedacd348ccb7f56f29afe6e1caa78cd933780",
+                "sha512": "179bc59bc39c59e9e30f24cfa2622093259d1aaad86ff5cbeb43c21005aea479b2dd0de5dad868fda1114bfe2fbe4a79f81ccedb7974775ed296a30d03958088"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HfZKWsjM/versions/u1zZ3s9p/better-suggestions-1.20.4-1.2.4.jar"
+                "https://cdn.modrinth.com/data/HfZKWsjM/versions/pUfaqiB8/better-suggestions-1.20.4-1.2.5.jar"
             ],
-            "fileSize": 127415
+            "fileSize": 127590
         },
         {
             "path": "mods/betterstats-3.9.7+fabric-1.20.4.jar",
@@ -957,15 +957,15 @@
             "fileSize": 348426
         },
         {
-            "path": "mods/cat_jam-fabric-mc1.20-1.2.1.jar",
+            "path": "mods/cat_jam-fabric-mc1.20-1.2.2.jar",
             "hashes": {
-                "sha1": "a4e6e1cd2e2f427bfe69701578d2ee159f87a438",
-                "sha512": "5f2ccae8e1b9e9e8d4087ae419bca1d7893c3331881fb00931efe051f3d5c840165ddf4abba178d2bc0acaee42f31253c42efa63efd68b0342dd3c4178926338"
+                "sha1": "f9fa47f3e91ab486d94507f13eb83c32063c8abe",
+                "sha512": "0478dae350fae7dee887fcd749302fcbbf454f58357ee4d6d200640d1855e9c7e8534f42e64a4cafc18a6a53d7bb69ca0c802e33d537ce6cd66cf1186ff5be40"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/x3s69afN/versions/D5INFJwK/cat_jam-fabric-mc1.20-1.2.1.jar"
+                "https://cdn.modrinth.com/data/x3s69afN/versions/yL4xn8Kt/cat_jam-fabric-mc1.20-1.2.2.jar"
             ],
-            "fileSize": 42945
+            "fileSize": 43348
         },
         {
             "path": "mods/cicada-lib-0.7.2+1.20.2-1.20.4.jar",
@@ -1056,15 +1056,15 @@
             "fileSize": 502498
         },
         {
-            "path": "mods/elytratrims-fabric-3.1.4+1.20.4.jar",
+            "path": "mods/elytratrims-fabric-3.1.5+1.20.4.jar",
             "hashes": {
-                "sha1": "6879c6f3b6344bff461dd8bb0b6354960d0b94de",
-                "sha512": "8e6a7a3a13a243f372a6fde2f0c5bebe79c2757875106f6e85e5803afda333c660efd38da37b95519b861b4da0bc7efb12698692bc5c2ef976c45dde0d7de08b"
+                "sha1": "94d6abe48c9a6218812bba97d0f48f8efe2d8fb2",
+                "sha512": "9fd63267e2250278a4687339594a13f6a03fdb7f66d580c84bc78dad8832de96684c5a05faed0a1bcde9832cc032ffb0c3c048d4dc898bd3aaf4f0a0b513d5da"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XpzGz7KD/versions/sO340cek/elytratrims-fabric-3.1.4%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/XpzGz7KD/versions/M6Umk1nn/elytratrims-fabric-3.1.5%2B1.20.4.jar"
             ],
-            "fileSize": 529686
+            "fileSize": 530086
         },
         {
             "path": "mods/emitrades-fabric-1.3.0+mc1.20.4.jar",
