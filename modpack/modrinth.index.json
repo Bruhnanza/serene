@@ -300,16 +300,16 @@
             "fileSize": 568669
         },
         {
-            "path": "mods/language-reload-1.5.11+1.20.4.jar",
+            "path": "mods/language-reload-1.6.1+1.20.4.jar",
             "hashes": {
-                "sha1": "d21438a6e84447abd40a31fe74be0f1a7094a06a",
-                "sha512": "1ee78ca91126ec5ee0dbde43bdef179456f3be6d550165aaf593f1c4decedaceaaee2e4e533f4fe7660b83aa44f1548c6fd929f20b0d8da4ea4fa72fa7e64887"
+                "sha1": "8e443ef4503bb172bd3f1a6fc9fba7219c22c826",
+                "sha512": "ce8dfd01ca770b6c72ca38bae4942f31080ba44943d9d9ca61e8e667e77c605b446bc8e7b415393babd3cd9e14bef0fc47a08ad03e98dd3fd14ec6e84dda26c6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/c7LFNVce/language-reload-1.5.11%2B1.20.4.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.11%2B1.20.4/language-reload-1.5.11+1.20.4.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/x824YAov/language-reload-1.6.1%2B1.20.4.jar",
+                "https://github.com/Jerozgen/LanguageReload/releases/download/1.6.1%2B1.20.4/language-reload-1.6.1+1.20.4.jar"
             ],
-            "fileSize": 71034
+            "fileSize": 69902
         },
         {
             "path": "mods/lithium-fabric-mc1.20.4-0.12.1.jar",
@@ -891,15 +891,15 @@
             "fileSize": 397505
         },
         {
-            "path": "mods/betterarcheology-1.1.8-1.20.4.jar",
+            "path": "mods/betterarcheology-1.1.9-1.20.4.jar",
             "hashes": {
-                "sha1": "fbd2704b6f7c0ab43a7bd91d1cc324e6e9169802",
-                "sha512": "bb25d0a8afbe7265ec1674cc2b4b8e4b7349fe770c454d7fbbf16c2355c255ea5b6f6e7d18ee234f6d190fa56b90fef5f5418ef1b57440d14bea154b5c36165a"
+                "sha1": "9a5fb7e6bc9cd9d84ad81b15575a891cff3818ef",
+                "sha512": "100b7d78187c091a8c4d0955ec041f6301f07ed659b524ac9f7c9cbb906a80fea351bc35888c20176f7272b3ba049039e6bdd41b32352215b094a9881aae58a8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/zCh7omyG/versions/lh7aMzAa/betterarcheology-1.1.8-1.20.4.jar"
+                "https://cdn.modrinth.com/data/zCh7omyG/versions/vUlUODyr/betterarcheology-1.1.9-1.20.4.jar"
             ],
-            "fileSize": 994340
+            "fileSize": 998363
         },
         {
             "path": "mods/BiomesOPlenty-fabric-1.20.4-19.0.0.89.jar",
