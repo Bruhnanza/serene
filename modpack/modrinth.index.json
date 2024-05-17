@@ -62,15 +62,15 @@
             "fileSize": 1142084
         },
         {
-            "path": "mods/continuity-3.0.0-beta.4+1.20.2.jar",
+            "path": "mods/continuity-3.0.0-beta.5+1.20.2.jar",
             "hashes": {
-                "sha1": "f9eaa5fc75d2747dbe14818dfde04eaf7152ae3c",
-                "sha512": "e8fde231301571ee75695bcd8ceb69db77192551217d8c65d8587d4f114b241112f06b39f82d84c3a13c98c42be6666a9a207890340413441fbe91237f56fbcf"
+                "sha1": "1604e431b7ece673fff7b5d5c15ea0385ce9b33a",
+                "sha512": "e86ca6386b3be5f1d95845b85cada2341258bc7fe71f82ae7fd13bf4b7e889ec048ee7e564f0ab6de8a777e44026d9539866da677fe1c774ce87e2deedbd0292"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1IjD5062/versions/JXhQlDZl/continuity-3.0.0-beta.4%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/1IjD5062/versions/Ox1racg8/continuity-3.0.0-beta.5%2B1.20.2.jar"
             ],
-            "fileSize": 1050675
+            "fileSize": 1009401
         },
         {
             "path": "mods/Controlify-2.0.0-beta.8+1.20.4.jar",
@@ -748,15 +748,15 @@
             "fileSize": 420410
         },
         {
-            "path": "mods/PresenceFootsteps-1.11.3.jar",
+            "path": "mods/PresenceFootsteps-1.9.4+1.20.4.jar",
             "hashes": {
-                "sha1": "8b8170219a5c6e376e32f03179f94f583dd226f6",
-                "sha512": "f55c6a3962992c9b85b2f9b294b2fd019096e3388073791db3a0b61c0a7432f701e27b37bc51426fa1993f20e59e20f0e054788b07f42bb196cc24c1d85f76fd"
+                "sha1": "c2bd74e5f23d182634ec50d472fd63ccfb3afbcd",
+                "sha512": "db1ae551ff160e95e74b6bbd4d5a9b3c41fc9a302d8a31d11de9331384757c447bcbf9634d877733f1e764d8ae5eeac4ae148495c98e63921173457cc90d9251"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/rcTfTZr3/versions/hHJWBGur/PresenceFootsteps-1.11.3.jar"
+                "https://cdn.modrinth.com/data/rcTfTZr3/versions/HcfMgmXT/PresenceFootsteps-1.9.4%2B1.20.4.jar"
             ],
-            "fileSize": 5733444
+            "fileSize": 5734479
         },
         {
             "path": "mods/shulkerboxtooltip-fabric-4.0.8+1.20.4.jar",
@@ -814,15 +814,15 @@
             "fileSize": 8125442
         },
         {
-            "path": "mods/waveycapes-fabric-1.4.6-mc1.20.4.jar",
+            "path": "mods/waveycapes-fabric-1.4.7-mc1.20.4.jar",
             "hashes": {
-                "sha1": "74e4d760c30d0410f8081036f97e85d2b14d5297",
-                "sha512": "c7161e84b517d6fe71a002dfdec5dc0de2b012f747ce72fa75fbd9f2735d7a5a04a51cb968570e1fa2c05f5634c112f5e59a4968cd82242f45bd4acbbdc4d712"
+                "sha1": "9d45d3a51aa77ceb709b0d3a096f33212d30ca20",
+                "sha512": "0c172fb1230fdba01553a8f6bf6411848bbc056ff90a98e24e96199d8f1691296ac7d5d9f44425e7b36df5e67d12c04b12270c452da21778950095391384ef71"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/kYuIpRLv/versions/dXnBpCoW/waveycapes-fabric-1.4.6-mc1.20.4.jar"
+                "https://cdn.modrinth.com/data/kYuIpRLv/versions/xmDYAuBB/waveycapes-fabric-1.4.7-mc1.20.4.jar"
             ],
-            "fileSize": 357708
+            "fileSize": 357597
         },
         {
             "path": "mods/Xaeros_Minimap_24.1.1_Fabric_1.20.4.jar",
@@ -990,26 +990,26 @@
             "fileSize": 681077
         },
         {
-            "path": "mods/ConfigurableEverything-1.1.2-Fabric+1.20.4.jar",
+            "path": "mods/ConfigurableEverything-1.1.3-Fabric+1.20.4.jar",
             "hashes": {
-                "sha1": "71bd55e61a8db8c1e6d2f043c693f849c443a29d",
-                "sha512": "41907889e38c6ad58ddf83f08e5d6acf2b44003e3c5dc97dbeb19d100fa40748416cd2f8fc38588ac671b484d039542a9565991adf3d795621b383010169cf0c"
+                "sha1": "aea214e168737c283f5e52982f5c0681a7890d69",
+                "sha512": "40e6f7189b27f6e9c8baecdde9612411ec72d5fa1981e7390c4955d2f4c5193219386fe34f706e0aa413a8f0c77ab5dc7037048475d0b6dfc4fc28929833b8df"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/2OtUT3F2/versions/6o9owXI2/ConfigurableEverything-1.1.2-Fabric%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/2OtUT3F2/versions/UxFLoIvN/ConfigurableEverything-1.1.3-Fabric%2B1.20.4.jar"
             ],
-            "fileSize": 2352025
+            "fileSize": 2523506
         },
         {
-            "path": "mods/Continents_1.20.4_v1.1.4.jar",
+            "path": "mods/Continents_1.20.x_v1.1.5.jar",
             "hashes": {
-                "sha1": "ac067d62ccdb97895305d11e03adabfe4172bfaa",
-                "sha512": "2347c5f80c88d278bac3e9b8472ddc18405110b53a365126b3ae4a485c9e416024f125b98dac2ee863a3ced6a0ccc353ff4ad9aa3e1ec5a8197bfd02eb176608"
+                "sha1": "6792f74125a40b2ef7caf8c4c8aa784021078ae1",
+                "sha512": "37929230558aaf52a443c6c7a9a63e5dfd7d166011d8b3a297528faa6577f21eb00884386d105db07bbc43b57745c52d901f50ce4d9d4d6ffd584bca96c82bf2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/bQ5TJA1E/versions/WHW8ec8k/Continents_1.20.4_v1.1.4.jar"
+                "https://cdn.modrinth.com/data/bQ5TJA1E/versions/IM8IL8wv/Continents_1.20.x_v1.1.5.jar"
             ],
-            "fileSize": 58167
+            "fileSize": 59456
         },
         {
             "path": "mods/cratedelight-2024.05.05-1.20-fabric.jar",
@@ -1221,15 +1221,15 @@
             "fileSize": 41734
         },
         {
-            "path": "mods/Incendium_1.20.4_v5.3.4.jar",
+            "path": "mods/Incendium_1.20.x_v5.3.5.jar",
             "hashes": {
-                "sha1": "7339f4da6c9ca9ae73b0a877a0bbaec35fd17961",
-                "sha512": "7dea928bb6c35c1a95fa5f4601cddeea08809c2b1d594159330156fe3e96f133c5047b25b71145199d2ace66411f18321678faa24f7e7b543014b487a7f665e3"
+                "sha1": "484556937b1b2dde2682144e7953e79bff717104",
+                "sha512": "04944dcbf3aa7ee8ea8785549e00f74a417ca17aa5760593e39090733ab0a9e38ebce078e4f5af544030759a5459c371003601ff5a7feebbc09765f8c712bb25"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ZVzW5oNS/versions/BxVLGy3y/Incendium_1.20.4_v5.3.4.jar"
+                "https://cdn.modrinth.com/data/ZVzW5oNS/versions/uUqarp2H/Incendium_1.20.x_v5.3.5.jar"
             ],
-            "fileSize": 4185038
+            "fileSize": 4638945
         },
         {
             "path": "mods/indypets-1.3.4-1.20.1.jar",
@@ -1331,15 +1331,15 @@
             "fileSize": 226199
         },
         {
-            "path": "mods/Nullscape_1.20.4_v1.2.4.jar",
+            "path": "mods/Nullscape_1.20.x_v1.2.5.jar",
             "hashes": {
-                "sha1": "c70810239c6613868c61381dcc4415a9f09c04df",
-                "sha512": "c6012c383432e8ccdac42ed76c13461802e2687657b0a037daa56b81f2e1542ea976451caaffa421f88efb3e3a53d955845f7f0ae54e8826fcaedac9b08005d6"
+                "sha1": "87d1f39ada0de27a0c0983cebf38d3cdedeb0681",
+                "sha512": "c074913dcc1e574951a83fb870037f59dea57846762073e91c01488310c128793551491e057f9a0f1bee19d886b5b7f91d4324a5e3e56768476fed180cd778de"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LPjGiSO4/versions/zO4Fl1np/Nullscape_1.20.4_v1.2.4.jar"
+                "https://cdn.modrinth.com/data/LPjGiSO4/versions/3l2vW51m/Nullscape_1.20.x_v1.2.5.jar"
             ],
-            "fileSize": 319521
+            "fileSize": 406798
         },
         {
             "path": "mods/open-parties-and-claims-fabric-1.20.4-0.22.0.jar",
@@ -1419,15 +1419,15 @@
             "fileSize": 108010
         },
         {
-            "path": "mods/simplehats-fabric-1.20.4-0.2.3.jar",
+            "path": "mods/simplehats-fabric-1.20.4-0.3.0.jar",
             "hashes": {
-                "sha1": "6451724743bc62106442efca6d3babf0501de39a",
-                "sha512": "4529740579adc2b87b9533ceb1ea4424533913ae0ec8d9538d92ada7fc5e79f6b737777aa6bb8e5746142982ed4e22af5b6296154ce4b8a8401966acde4a6d06"
+                "sha1": "6812a13dedee52105df9a6efc878fe82c3330e62",
+                "sha512": "97b0b65fd9c08c3a63f3f99b3923eaa446287ca74c51c24e1fc2f3c3c5f7c929f91a32a1a53f9159c2fd28e2124468c75c556a0e1cdfd9bb40db924cb6fa9882"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/iSkQCp6b/versions/PBcUyiSR/simplehats-fabric-1.20.4-0.2.3.jar"
+                "https://cdn.modrinth.com/data/iSkQCp6b/versions/SUGnVyDS/simplehats-fabric-1.20.4-0.3.0.jar"
             ],
-            "fileSize": 1299204
+            "fileSize": 1490962
         },
         {
             "path": "mods/SnowUnderTrees-2.2.0+1.20.4.jar",
@@ -1474,15 +1474,15 @@
             "fileSize": 330892
         },
         {
-            "path": "mods/Terralith_1.20_v2.5.0.jar",
+            "path": "mods/Terralith_1.20_v2.5.1.jar",
             "hashes": {
-                "sha1": "764fdbf6f57caa9ec68b8df3c6d2743acf927b9e",
-                "sha512": "3fee331308ef67846c620c1c426c067454cda15ef68bcc5d98c21641d65dfd6ecdf7eefcecec27561495a8d91de12ab2a7e33138e96cc4c3cfc457a9c1325bd7"
+                "sha1": "e95f3b0fe7b2f3f2475da8009f4491e48edc4b60",
+                "sha512": "459fec3da3474011195dff101c8303a5d9d8f1e431d99b4398cc087d0c4045fd42b49b16720ca4ea17e18180e9bc9d19a327361a58fe0ebae7a3f7f6db34b5d1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/8oi3bsk5/versions/owDSctxm/Terralith_1.20_v2.5.0.jar"
+                "https://cdn.modrinth.com/data/8oi3bsk5/versions/rWmFwtGy/Terralith_1.20_v2.5.1.jar"
             ],
-            "fileSize": 3193506
+            "fileSize": 3197597
         },
         {
             "path": "mods/trinkets-3.8.1.jar",
@@ -1529,15 +1529,15 @@
             "fileSize": 686729
         },
         {
-            "path": "mods/wolf_port-1.0.2-1.20.4.jar",
+            "path": "mods/wolf_port-1.0.3-1.20.4.jar",
             "hashes": {
-                "sha1": "7c1c48c4edc0a68b5cebeaadab57f62df3700192",
-                "sha512": "fbdadd227835d6398074b356bbad85c14e0146408dd7a933c818f1c71b5e588425cc02f522bd3826e92c06e0c34093a2bb4e9885bf08ca992286a8f3531bb1df"
+                "sha1": "6b3a3e6ca229429d40e7397e46cf74a192ac112a",
+                "sha512": "e62368a4ed2d3726de3fc48713dbcde32eb9c69aed148e139dccb84622801c143977a8a212e68d0e0814bd5f70c6771bc1f8db870a357e4dc36cbf1d62fe6acd"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLZglE65/versions/X6tQNTUj/wolf_port-1.0.2-1.20.4.jar"
+                "https://cdn.modrinth.com/data/uLZglE65/versions/vsa7BXDE/wolf_port-1.0.3-1.20.4.jar"
             ],
-            "fileSize": 77275
+            "fileSize": 77246
         },
         {
             "path": "mods/YungsApi-1.20.4-Fabric-4.4.3.jar",
@@ -1551,48 +1551,48 @@
             "fileSize": 1213129
         },
         {
-            "path": "mods/YungsBetterDesertTemples-1.20.4-Fabric-3.4.2.jar",
+            "path": "mods/YungsBetterDesertTemples-1.20.4-Fabric-3.4.4.jar",
             "hashes": {
-                "sha1": "b277473524cb96653f0a1f32e91ec5ad4957bb6d",
-                "sha512": "500c7f238d0b0ebb7b1a6609e27526d4c5f95b4f4906f3d7f92cb1d906beb13e6eeac11903e2399d96443b015fa1de2089f5e67c48556ba3ee4f8ec8eacd0de4"
+                "sha1": "520e2fd5ed19edacedba4eed677e8bc0198be17c",
+                "sha512": "1619efe1327590f458c714fe8c201b0c5e572e829a38df0660f8ad6d75ce51ddfbfba8d5e45b6dc2b968a138b7b2ad54b87bbcc6c4581deb235a00a30aad9a6b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XNlO7sBv/versions/PPFN6otn/YungsBetterDesertTemples-1.20.4-Fabric-3.4.2.jar"
+                "https://cdn.modrinth.com/data/XNlO7sBv/versions/wCG6Lqw9/YungsBetterDesertTemples-1.20.4-Fabric-3.4.4.jar"
             ],
-            "fileSize": 1037963
+            "fileSize": 1049561
         },
         {
-            "path": "mods/YungsBetterDungeons-1.20.4-Fabric-4.4.3.jar",
+            "path": "mods/YungsBetterDungeons-1.20.4-Fabric-4.4.4.jar",
             "hashes": {
-                "sha1": "713846abc8cdae30c866dcf3adc68596862106fe",
-                "sha512": "94284427539bb2672e3920b6da3a7d0173befa110c8ea5128ac2fbbc50e812361e3d3629285fc90e9d57b28934b796041e9ab4bedbb5c8bf1017a95620d9d147"
+                "sha1": "24b116fd90bbd23f7c2e230a933d9edf9a9ddd30",
+                "sha512": "ba84f6ad5eeb0435be6fdb7b85ee9d63c6c190fb9a1f8a9f3cd0914cf1e79d939f58c82ae92efd5dcb4ddc5e78bcd1eb2337828474dcbd410a058b19b8505f81"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/o1C1Dkj5/versions/60GnmH9u/YungsBetterDungeons-1.20.4-Fabric-4.4.3.jar"
+                "https://cdn.modrinth.com/data/o1C1Dkj5/versions/ISvARzqL/YungsBetterDungeons-1.20.4-Fabric-4.4.4.jar"
             ],
-            "fileSize": 911861
+            "fileSize": 911573
         },
         {
-            "path": "mods/YungsBetterEndIsland-1.20.4-Fabric-2.4.2.jar",
+            "path": "mods/YungsBetterEndIsland-1.20.4-Fabric-2.4.3.jar",
             "hashes": {
-                "sha1": "cdfa551da74c9adb665c14cbad19c570f6ffea94",
-                "sha512": "d47c8378873fdfdedc944481b9e2e20556c1def2751bfcf5afc557cf41094c1db9c0663e6839f0d1297faadc911d6151b21a39dc699188d6cbcb7429ecb21821"
+                "sha1": "8127ff948ca9e043e4881f099e4c0f9ff5f1d132",
+                "sha512": "2449a74b12490239d921fc88e08f19e3d998493f4037f021208f3954b3fe0f9799554eedd531d4a0a196e9619cdd232090e3c9cefd70335b9f1d7b576a2e48ba"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/2BwBOmBQ/versions/C69Ea0wV/YungsBetterEndIsland-1.20.4-Fabric-2.4.2.jar"
+                "https://cdn.modrinth.com/data/2BwBOmBQ/versions/xAXIqv7e/YungsBetterEndIsland-1.20.4-Fabric-2.4.3.jar"
             ],
-            "fileSize": 508681
+            "fileSize": 508055
         },
         {
-            "path": "mods/YungsBetterJungleTemples-1.20.4-Fabric-2.4.3.jar",
+            "path": "mods/YungsBetterJungleTemples-1.20.4-Fabric-2.4.4.jar",
             "hashes": {
-                "sha1": "d935df7908295be771890b69fd8bfb8969878044",
-                "sha512": "4bdfa10a4a2a0fc0c5cc81faac52f079b2e44ddc10af813a8d80d660cbaf5baad92bebbd2bf384b6ad45762096d416a67af1f1cafcf4d0bee05a46ea2a7e3c7d"
+                "sha1": "348d5fe3bb892087d9d528e9e505ef8044591fc3",
+                "sha512": "a7ca2249ce84836cb9db2f367b0f2246d534bbca8086a92c4165deaaec684da12260de01fa8aa83a2f7c9d973715fcfb24fb265d293ebeac13530bc447bd4429"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/z9Ve58Ih/versions/Hno4zjlG/YungsBetterJungleTemples-1.20.4-Fabric-2.4.3.jar"
+                "https://cdn.modrinth.com/data/z9Ve58Ih/versions/Iq0fDEMt/YungsBetterJungleTemples-1.20.4-Fabric-2.4.4.jar"
             ],
-            "fileSize": 928721
+            "fileSize": 930520
         },
         {
             "path": "mods/YungsBetterMineshafts-1.20.4-Fabric-4.4.2.jar",
@@ -1606,59 +1606,59 @@
             "fileSize": 612634
         },
         {
-            "path": "mods/YungsBetterNetherFortresses-1.20.4-Fabric-2.4.3.jar",
+            "path": "mods/YungsBetterNetherFortresses-1.20.4-Fabric-2.4.4.jar",
             "hashes": {
-                "sha1": "911e484d6d9c8ab5bba76538cb4cdaa26628f634",
-                "sha512": "0afb55b4fc5c8b36be868558914f1a31dcf48dadc66b254c877f734d9c59dd2649124cbd1a277308f53ade4a7fdc0a174a5d6243e1563efba2a3228c15ba3e9d"
+                "sha1": "088cd9ca69b1acca85f5e03cd67f563206187598",
+                "sha512": "3fd1afda6250a310b7bbfc225ee4aaf9f40ae9591fd653ed026c1282e3db6233882aeabb441385d78724aac9df1d2cb07289ed995420ea24dc4963a64f361876"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Z2mXHnxP/versions/BxEPEvgo/YungsBetterNetherFortresses-1.20.4-Fabric-2.4.3.jar"
+                "https://cdn.modrinth.com/data/Z2mXHnxP/versions/VYtNUWOc/YungsBetterNetherFortresses-1.20.4-Fabric-2.4.4.jar"
             ],
-            "fileSize": 740159
+            "fileSize": 742309
         },
         {
-            "path": "mods/YungsBetterOceanMonuments-1.20.4-Fabric-3.4.2.jar",
+            "path": "mods/YungsBetterOceanMonuments-1.20.4-Fabric-3.4.3.jar",
             "hashes": {
-                "sha1": "994f59575399acbfa7223f9bfadf1144c65ed8f9",
-                "sha512": "ed25ca8bf1417efa8e8489da01f60d2ab5f913d9548bcd4b061b2b9f287777fdd18355524e379413626545a70d04c753709950b853f5b15fc60e0b7916e39f02"
+                "sha1": "1d263d2200ade187fb8122b2c5dfc7bd8054e8d7",
+                "sha512": "f4f7e2f1fc8570af9f88548604156a17fffad38e2e45a8ceb8c3bad983a2bc1086372371708fe3f91ea01cec141a06e03b38ba7202e78337cecf3a5034c0447c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3dT9sgt4/versions/JWN07yAs/YungsBetterOceanMonuments-1.20.4-Fabric-3.4.2.jar"
+                "https://cdn.modrinth.com/data/3dT9sgt4/versions/un603qNR/YungsBetterOceanMonuments-1.20.4-Fabric-3.4.3.jar"
             ],
-            "fileSize": 1154065
+            "fileSize": 1155772
         },
         {
-            "path": "mods/YungsBetterStrongholds-1.20.4-Fabric-4.4.2.jar",
+            "path": "mods/YungsBetterStrongholds-1.20.4-Fabric-4.4.3.jar",
             "hashes": {
-                "sha1": "ec973beb7bfb296d6126533a8e26446711e08aad",
-                "sha512": "3e7ada6db22830e8a2b81d106a552dd37610373a4960e86e4d194fbcbf13abb8b07abdf84be84bf95d59f744df6605e228d0b9bebaec7110299e7e6765d5a786"
+                "sha1": "32cac935b9c943dfee914525869c7999576126e2",
+                "sha512": "8cf36c24bb68ea922c16bd4ec77fb50dfdfe66e48d132079e28bcf40f907cefd01272f0005ef4b93d7e926a70be36fe4a52858b944cb9347833b7aa998096bf7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/kidLKymU/versions/s54qs5Zb/YungsBetterStrongholds-1.20.4-Fabric-4.4.2.jar"
+                "https://cdn.modrinth.com/data/kidLKymU/versions/kI0BeaJx/YungsBetterStrongholds-1.20.4-Fabric-4.4.3.jar"
             ],
-            "fileSize": 595180
+            "fileSize": 596557
         },
         {
-            "path": "mods/YungsBetterWitchHuts-1.20.4-Fabric-3.4.2.jar",
+            "path": "mods/YungsBetterWitchHuts-1.20.4-Fabric-3.4.3.jar",
             "hashes": {
-                "sha1": "3d1fdb47e2313b488364cdcf1c4658ae8db79c98",
-                "sha512": "3098e43d90f5d8e0b3539eb9633d2a48d7674282001276ac09a12e3e52ed267c6bfee077c1609f138f0f117d75f402c2f2cad61b4179670c6279a9712f8ed6a6"
+                "sha1": "06adaee6230d1963db16b05e998bc172cfb497c1",
+                "sha512": "0d4188f727a662569ea8356d645e5b0b15c62b90d8524fa879e9bae351a874237fd806cc77b92e33e6c37875fcb073c7d6a334b671858ab6e233716e59f12017"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/t5FRdP87/versions/BIMTws7n/YungsBetterWitchHuts-1.20.4-Fabric-3.4.2.jar"
+                "https://cdn.modrinth.com/data/t5FRdP87/versions/ZtIhxDv1/YungsBetterWitchHuts-1.20.4-Fabric-3.4.3.jar"
             ],
-            "fileSize": 300648
+            "fileSize": 300705
         },
         {
-            "path": "resourcepacks/Stormilla-v2.9.2(1.20.4).zip",
+            "path": "mods/Stormilla-v2.10.zip",
             "hashes": {
-                "sha1": "a694b2c55f0f8ed43ca5a65fd7ebd9bc654cd68f",
-                "sha512": "34a8aed6bdd137c92ca405988e5dfb7c27147254c2990972d170024c30fa77f48f1facf8dc39601922422d104ac6e0131b7a83192942714fcba25da34ba4b260"
+                "sha1": "e0d2c5a64e52a0a7350a52abe4e0f3e93ce31993",
+                "sha512": "91f1f578cd36840e230256a95b4793b5b754454d0e2a4851440cec1c497eaa65515f4e0a550f044b5e59f7f1574ecc04cab1fba873d57085ce8d15a004b77193"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/wJkMxmyK/versions/4wrZRiC1/Stormilla-v2.9.2%281.20.4%29.zip"
+                "https://cdn.modrinth.com/data/wJkMxmyK/versions/Zlu79Mik/Stormilla-v2.10.zip"
             ],
-            "fileSize": 5729651
+            "fileSize": 6430663
         },
         {
             "path": "resourcepacks/StormillaDarkMode-v2.5(1.20.4).zip",
