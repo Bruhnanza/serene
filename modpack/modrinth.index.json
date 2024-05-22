@@ -187,15 +187,15 @@
             "fileSize": 2187067
         },
         {
-            "path": "mods/fabric-language-kotlin-1.10.20+kotlin.1.9.24.jar",
+            "path": "mods/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
             "hashes": {
-                "sha1": "8a7e6a0cf1f31c0d2a819819ba78a0609e1577f9",
-                "sha512": "1cae905fe4a051a3a1c6c60d292ad7455d4564f1754b362318d7be3807b45673f4933f3a27e6cc4bc9b2fe94708daf54bd70a7c226d39e132dc48aaa356184dc"
+                "sha1": "4f5b3f0d773c4cc9e79d2f5ede3a637e78737f6d",
+                "sha512": "afc292e199869b982f18bbad208fed4a1d95b2f4292e0cc422ee8116d1da1d91132f554ac0608e7c87959d7ede37c20293133c811986dcfc80a8648f29d13028"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/a7MqDLdC/fabric-language-kotlin-1.10.20%2Bkotlin.1.9.24.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar"
             ],
-            "fileSize": 6734770
+            "fileSize": 7015315
         },
         {
             "path": "mods/fabricskyboxes-0.7.3+mc1.20.2.jar",
@@ -803,15 +803,15 @@
             "fileSize": 183236
         },
         {
-            "path": "mods/voicechat-fabric-1.20.4-2.5.14.jar",
+            "path": "mods/voicechat-fabric-1.20.4-2.5.15.jar",
             "hashes": {
-                "sha1": "fffa213b5e5dc2fb8dc1dac3eef0e9e991c5510a",
-                "sha512": "688a396350dd49447057d65039ffa6aa09adff1b8bb319645ea24102961221f7f8e5c2c3cc7a041e546b8ad7794fca4d03e2364b0bb4ea4e521b8c21c79416c2"
+                "sha1": "fc30c13206918b63596c2374a9020c47f32b193b",
+                "sha512": "8cb250f6236f2d2f5c62450a82c38f981b0acbda270c53412ff2d9484cae6715afad75138fb45b84b50479f5e5faf41e5b2828077768d9ba053b67c1f54cac85"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9eGKb6K1/versions/dfM3PsPw/voicechat-fabric-1.20.4-2.5.14.jar"
+                "https://cdn.modrinth.com/data/9eGKb6K1/versions/D6flU7di/voicechat-fabric-1.20.4-2.5.15.jar"
             ],
-            "fileSize": 8125442
+            "fileSize": 8125443
         },
         {
             "path": "mods/waveycapes-fabric-1.4.7-mc1.20.4.jar",
@@ -1056,15 +1056,15 @@
             "fileSize": 502498
         },
         {
-            "path": "mods/elytratrims-fabric-3.1.7+1.20.4.jar",
+            "path": "mods/elytratrims-fabric-3.1.8+1.20.4.jar",
             "hashes": {
-                "sha1": "61be521ac0ea0e850b924a29625f2882acf1f570",
-                "sha512": "cf7ce05cf8c7928d75c2f42649c3f83bc6946152d826a9e0f4d67f1b720486a749a74338c493f90056ff2c9d6e96050530af62c780382c66f5ad49f2f1cfae11"
+                "sha1": "0abd3b23f1e26e63ae696bec651e88f79b1e56d3",
+                "sha512": "ef79990a2b5c24f8a5be3c606b8a64b5ac181dbff1abe1e94cdd31c9a10d2970c3e782abe975661acad5a32c7a8e547408339dcaed357ffab234a78a1978eab2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XpzGz7KD/versions/nI4En1F0/elytratrims-fabric-3.1.7%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/XpzGz7KD/versions/JYWfcB0a/elytratrims-fabric-3.1.8%2B1.20.4.jar"
             ],
-            "fileSize": 530294
+            "fileSize": 530305
         },
         {
             "path": "mods/emitrades-fabric-1.3.0+mc1.20.4.jar",
@@ -1496,15 +1496,15 @@
             "fileSize": 240884
         },
         {
-            "path": "mods/utility-belt-fabric-2.0.1+1.20.4.jar",
+            "path": "mods/utility-belt-fabric-2.1.1+1.20.4.jar",
             "hashes": {
-                "sha1": "d7a7758ccda8a0b5d2023a5022ccda046241c629",
-                "sha512": "76d0dcd94e3bd44a93fe9dbfc9dd06e824e65a8167bbc8530d07e379aee467f10649603d67669593b99b5224a91124de74b5d8890e646e2e99ab2c38de1678c0"
+                "sha1": "aaa9c03547b5636c2e7b582ea0a0e51d1da86a9d",
+                "sha512": "f2ba0568b33e67968c32ed72b6246484db2b67ccd77206a20f2325174deebf873a1d6baef7e13a962cdc1c8fdd9aaf391197226f3f3f44f05118a7f3aa5cb879"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9ewe2JHJ/versions/OQazGXJy/utility-belt-fabric-2.0.1%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/9ewe2JHJ/versions/Yd9rxguD/utility-belt-fabric-2.1.1%2B1.20.4.jar"
             ],
-            "fileSize": 290576
+            "fileSize": 279143
         },
         {
             "path": "mods/veinmining-fabric-3.1.1+1.20.4.jar",
