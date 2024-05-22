@@ -193,7 +193,8 @@
                 "sha512": "afc292e199869b982f18bbad208fed4a1d95b2f4292e0cc422ee8116d1da1d91132f554ac0608e7c87959d7ede37c20293133c811986dcfc80a8648f29d13028"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.11.0%2Bkotlin.2.0.0/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar"
             ],
             "fileSize": 7015315
         },
@@ -692,6 +693,17 @@
             "fileSize": 25292
         },
         {
+            "path": "mods/libjf-3.14.3.jar",
+            "hashes": {
+                "sha1": "cb4130523f41eea7f99f09062b49b268184b6d3f",
+                "sha512": "6c648e7a634733b71b978993cadff25e216b49b1a8b6c68a6ee642aa5c72d20a499719bb46be08b2b54f359866b1432da95e80d23b4cfbf169e2f3902827ce29"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/WKwQAwke/versions/ZMOELGJg/libjf-3.14.3.jar"
+            ],
+            "fileSize": 1281702
+        },
+        {
             "path": "mods/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "hashes": {
                 "sha1": "784bbbe9c64ac9d3d4ad19786c02291e607fcf4e",
@@ -759,6 +771,17 @@
             "fileSize": 5734479
         },
         {
+            "path": "mods/respackopts-4.7.2.jar",
+            "hashes": {
+                "sha1": "56fa561f2af708d100a88081aa116486aba2408e",
+                "sha512": "77419b4e51152e20a144f311ec1773904fe6655d408a78e61294cd2d8e4e8355870ed8e8419ceeeac0d8fc21ed85f1a4a707677ed424a7b05e006d371a2529ab"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/TiF5QWZY/versions/8U9GGpeV/respackopts-4.7.2.jar"
+            ],
+            "fileSize": 430721
+        },
+        {
             "path": "mods/shulkerboxtooltip-fabric-4.0.8+1.20.4.jar",
             "hashes": {
                 "sha1": "170972b46c2758567f2d3beb93a72b095bf5cafb",
@@ -768,6 +791,17 @@
                 "https://cdn.modrinth.com/data/2M01OLQq/versions/R23hymvz/shulkerboxtooltip-fabric-4.0.8%2B1.20.4.jar"
             ],
             "fileSize": 1215852
+        },
+        {
+            "path": "mods/simple-hud-enhanced+1.20-1.20.4-4.6.1.jar",
+            "hashes": {
+                "sha1": "d127cc61d438e7842b86fda17e2b203d38d655ad",
+                "sha512": "6b7f3575fdf1801fce82c913759da4bf71b7a907a2ddc0dfd99a58c80e442aa65cf065dc3e72652ecc46196ebfb5f87afb9f10f2bce29b4570827a41f8d58caf"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/PE656UHx/versions/OlTMCIjj/simple-hud-enhanced%2B1.20-1.20.4-4.6.1.jar"
+            ],
+            "fileSize": 1121476
         },
         {
             "path": "mods/skinlayers3d-fabric-1.6.4-mc1.20.4.jar",
