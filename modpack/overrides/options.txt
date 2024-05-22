@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -38,7 +38,7 @@ simulationDistance:6
 entityDistanceScaling:1.0
 guiScale:3
 particles:1
-maxFps:260
+maxFps:90
 graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
