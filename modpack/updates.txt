@@ -1,1 +1,3 @@
 - Updated Better Archeology, Better Suggestions, cat_jam, Configurable Everything, Continents, Continuity, Elytra Trims, Fabric Language Kotlin, ImmediatelyFast, Incendium, Language Reload, Nullscape, Presence Footsteps, Polytone, Simple Hats, Simple Voice Chat, Snow Under Trees, Stormilla, Terralith, Utility Belt, Wavey Capes, Wolf Port, 8 of YUNG's mods
+- Added LibJF, Respackopts, Simple HUD Enhanced
+- Removed Inventory HUD+
