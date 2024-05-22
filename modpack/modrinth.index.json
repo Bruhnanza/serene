@@ -1695,17 +1695,6 @@
             "fileSize": 6430663
         },
         {
-            "path": "resourcepacks/StormillaDarkMode-v2.5(1.20.4).zip",
-            "hashes": {
-                "sha1": "40246318163017d6ea44917d2da5bb206b905748",
-                "sha512": "6b8959fee556d386fb74eb07e39acd39f83c3f958cb68c3cc5ad1a120f22d56800cd3d2240e2e4fe5a66a99fa0c2e18fe76ec3d7012ef03f2b001154534b0618"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/PTB4Km9g/versions/evyA66HP/StormillaDarkMode-v2.5%281.20.4%29.zip"
-            ],
-            "fileSize": 482739
-        },
-        {
             "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip",
             "hashes": {
                 "sha1": "8738d99d8a78b7e7ea71b5c15a3432bc04eba715",
