@@ -682,6 +682,17 @@
             "fileSize": 156773
         },
         {
+            "path": "mods/fasterrandom-4.1.0.jar",
+            "hashes": {
+                "sha1": "3016fd72219fe99afd7f2114c8c4fdddcb13c583",
+                "sha512": "d4498754672aeb95757213b418749f221197a373740345cfc12cf528d03b71899e9b300bc0fff129b2ebc7aa57e49f6767a9e12f4891bdc8f9411b01d8ec3b8d"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/RfFxanNh/versions/I8jy69I9/fasterrandom-4.1.0.jar"
+            ],
+            "fileSize": 16620
+        },
+        {
             "path": "mods/holdthatchunk-2.1.0+1.20.2.jar",
             "hashes": {
                 "sha1": "cbf40afbc0c288b8ea7f6f5e9043fdbc75b3040e",
@@ -1156,15 +1167,15 @@
             "fileSize": 63035130
         },
         {
-            "path": "mods/fallingtrees-0.12-fabric-1.20.jar",
+            "path": "mods/fallingtrees-0.12.1-fabric-1.20.jar",
             "hashes": {
-                "sha1": "08f3f26228b75b0dab315dd9ea664c0a1e9cc570",
-                "sha512": "6f74db640dede699b5b367049543b76ce6e8670303e979becd343d86b05ad97674c94b303afd374a60d66a608568b85edde4f9ce74dfb44aa0728cfd8b4e4e1e"
+                "sha1": "fc059f1b40e1aef40aabec89ab0c365655ac97e7",
+                "sha512": "16515d03cbbbbfc18866dde37fe8d76ca7ef96a10f2a18457c154d09b629a1146320aa1b2fecae86b83b57f4884b06861ef82946e76d7c74678b4ad49485071f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/i2kUe4lq/versions/LRdBCtvl/fallingtrees-0.12-fabric-1.20.jar"
+                "https://cdn.modrinth.com/data/i2kUe4lq/versions/sW1aVE2R/fallingtrees-0.12.1-fabric-1.20.jar"
             ],
-            "fileSize": 4005714
+            "fileSize": 4005467
         },
         {
             "path": "mods/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar",
