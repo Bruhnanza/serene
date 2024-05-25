@@ -73,16 +73,16 @@
             "fileSize": 1009401
         },
         {
-            "path": "mods/Controlify-2.0.0-beta.8+1.20.4.jar",
+            "path": "mods/Controlify-2.0.0-beta.9+1.20.4.jar",
             "hashes": {
-                "sha1": "852934980d899cfdd2e8ef6a5d8fb3991fb073f7",
-                "sha512": "95d35f3e3cc2b8fd01e905da46481af3c54e0d8e0f9a106bc89e8d626878f54990b61d7ab64cafb307710f96becdac36baa7663b2f2f6c08c1b3ac0fd4bb6fa2"
+                "sha1": "93f9f2a8e8562074181fa833736ad7e94c2db738",
+                "sha512": "b69c5089ce307538da4418bd0090a8978e2268fa370c6876ec27c1171f927860f3d0e437334271443b489bc23e41d8892a63330ef64fc44fe4d1993416a6b237"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/Q5nQC6JX/Controlify-2.0.0-beta.8%2B1.20.4.jar",
-                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.8%2B1.20.4/Controlify-2.0.0-beta.8+1.20.4.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/mpnMZdQU/Controlify-2.0.0-beta.9%2B1.20.4.jar",
+                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.9%2B1.20.4/Controlify-2.0.0-beta.9+1.20.4.jar"
             ],
-            "fileSize": 2452976
+            "fileSize": 2682984
         },
         {
             "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
@@ -826,15 +826,15 @@
             "fileSize": 471289
         },
         {
-            "path": "mods/sound-physics-remastered-fabric-1.20.4-1.3.1.jar",
+            "path": "mods/sound-physics-remastered-fabric-1.20.4-1.4.0.jar",
             "hashes": {
-                "sha1": "c47fd8ae9737c0495c1456ccd122853425bc1698",
-                "sha512": "5f6df6bb29a90d0d2a45f03e8c6ea530e9870c2cb8afa14f9bdcddce7c0aa6b02228e3f35ce78780a51223f9225b8c81c4ab83828ee11598fdbab85793d28874"
+                "sha1": "6ba9c5ffb124b4c080f9676b78835598029bc4b7",
+                "sha512": "d2831f4e8d250f90459616abf08642990e942c5c7559fa1166d74b401946083d501ad5304e63c866ed9943a935d183874afd2602c41dbf3b0353273002506c08"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qyVF9oeo/versions/th5AIucC/sound-physics-remastered-fabric-1.20.4-1.3.1.jar"
+                "https://cdn.modrinth.com/data/qyVF9oeo/versions/L6oPowRU/sound-physics-remastered-fabric-1.20.4-1.4.0.jar"
             ],
-            "fileSize": 174028
+            "fileSize": 189329
         },
         {
             "path": "mods/TES-fabric-1.20.4-1.5.1.jar",
@@ -1189,15 +1189,15 @@
             "fileSize": 444627
         },
         {
-            "path": "mods/FriendlyFire-Fabric-1.20.4-21.0.3.jar",
+            "path": "mods/FriendlyFire-Fabric-1.20.4-21.0.4.jar",
             "hashes": {
-                "sha1": "6cfdfd74cde7fd56859b7359ed7f02765d2f9580",
-                "sha512": "b01f0a1f1bc87bfa70ce5e08b071a8a928711b93b6891337236c6ca5081eb10d7f81efab3fc326c4c27043ecf5b291190bc7bb150e023b0f07c6d4249eb8b87b"
+                "sha1": "ab4aa750df1c9ef296eab68a0f8032177188201e",
+                "sha512": "bb4b3794cb887d396f71248aaad68cd324a5eae74102cf076306523668d5417e37eef9040e8cf605f3255f79dbc115ca6eeb945ec15d98e1c4062a96ea523eac"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/FTaA4pRW/versions/8XltEhta/FriendlyFire-Fabric-1.20.4-21.0.3.jar"
+                "https://cdn.modrinth.com/data/FTaA4pRW/versions/a5Zo4Zgh/FriendlyFire-Fabric-1.20.4-21.0.4.jar"
             ],
-            "fileSize": 13928
+            "fileSize": 24393
         },
         {
             "path": "mods/GlitchCore-fabric-1.20.4-1.0.0.59.jar",
