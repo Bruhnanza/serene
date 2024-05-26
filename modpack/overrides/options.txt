@@ -44,7 +44,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["presencefootsteps:default_sound_pack","fabric","programmer_art","vanilla","file'Stormilla.zip","file/Stormilla Dark Mode.zip"]
+resourcePacks:["presencefootsteps:default_sound_pack","fabric","programmer_art","vanilla","file'Stormilla-v2.10.zip"]
 incompatibleResourcePacks:["appleskin","balm-fabric","betterdeserttemples","betterdungeons","betterfortresses","betterjungletemples","bettermineshafts","betteroceanmonuments","betterstrongholds","betterwitchhuts","bookshelf","carryon","comforts","ctov","e4mc_minecraft","elytra-trims","friendlyfire","mca","modernfix","reach-entity-attributes","rrls","simplehats","spectrelib","tslatentitystatus","veinmining","waystones"]
 lastServer:
 lang:en_us
@@ -154,7 +154,8 @@ key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.mca.skin_library:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_gui.xaero_pac_key_open_menu:key.keyboard.p
-key_key.presencefootsteps.settings:key.keyboard.unknown
+key_key.presencefootsteps.toggle:key.keyboard.unknown
+key_key.simplehudenhanced.toggle_hud:key.keyboard.unknown
 key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.comma
 key_key.whisper:key.keyboard.unknown
