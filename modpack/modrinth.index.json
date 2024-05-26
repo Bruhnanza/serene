@@ -1157,15 +1157,15 @@
             "fileSize": 157405
         },
         {
-            "path": "mods/FabricKotlinExtensions-1.0.8.jar",
+            "path": "mods/FabricKotlinExtensions-1.0.9.jar",
             "hashes": {
-                "sha1": "ae46e519fde0261f6a7cebd496812069c8192522",
-                "sha512": "c8964b28da040d2ba6cf3042fa4cb7f5d58760d622223e2d0cf782aa75b80cadda57563a7f4a06a90c4a4a4f456f7760c52804c4507d21c4da8972b529321854"
+                "sha1": "30154e996b1c47de60b6693c75fa50c6bcb6736e",
+                "sha512": "d6eafb5df6544df89737c0172da6b69d06f641830cded7b1ea696065a7a654078cab698b23a3413deecabb41f3f16ac5a779459042b5cf48a803dd6466ce174d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/WpZeWuIG/versions/pM8Wtav2/FabricKotlinExtensions-1.0.8.jar"
+                "https://cdn.modrinth.com/data/WpZeWuIG/versions/PXKm43tK/FabricKotlinExtensions-1.0.9.jar"
             ],
-            "fileSize": 63035130
+            "fileSize": 63043793
         },
         {
             "path": "mods/fallingtrees-0.12.1-fabric-1.20.jar",
