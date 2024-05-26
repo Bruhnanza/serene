@@ -142,16 +142,16 @@
             "fileSize": 492605
         },
         {
-            "path": "mods/entityculling-fabric-1.6.4-mc1.20.4.jar",
+            "path": "mods/entityculling-fabric-1.6.5-mc1.20.4.jar",
             "hashes": {
-                "sha1": "ee3804cc07063cc5f67a3c9ed79bd8f2fbefab44",
-                "sha512": "2506bfffb1c6335889d7f33ea8018d7100fbaf5f983b95747894d58d7ef7ed0b4b77ef4f74824b5d798a87cc6acfbc6538dd5fef265625302e159056644b5a00"
+                "sha1": "3cf9da857136df6574c7dbad57c427eb0d2751af",
+                "sha512": "cc1475410e964926e63e2b02e8a23b1f75b2368b4392ca4e1d8371389a3cb95fba306bed95bbe5ed20608b54278196eadbdccc28c67d53a84c6c896db8353036"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NNAgCjsB/versions/7JR5qJ8f/entityculling-fabric-1.6.4-mc1.20.4.jar",
-                "https://github.com/tr7zw/EntityCulling/releases/download/1.6.4-1.20.4/entityculling-fabric-1.6.4-mc1.20.4.jar"
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/hyejM5za/entityculling-fabric-1.6.5-mc1.20.4.jar",
+                "https://github.com/tr7zw/EntityCulling/releases/download/1.6.5/entityculling-fabric-1.6.5-mc1.20.4.jar"
             ],
-            "fileSize": 59582
+            "fileSize": 65011
         },
         {
             "path": "mods/entity_model_features_fabric_1.20.4-2.0.2.jar",
@@ -517,15 +517,16 @@
             "fileSize": 17373
         },
         {
-            "path": "mods/Zoomify-2.13.4+1.20.4.jar",
+            "path": "mods/Zoomify-2.13.5+1.20.4.jar",
             "hashes": {
-                "sha1": "4d01964df2daf172778585b1eaef8d62ff3cf9d3",
-                "sha512": "538caa099e9dae509dcd106f86f4152c1c9dd8ddc458f3860c1a56e934339f026dd559b70410bcc74a5a7fcd2f6ab044e5b86489e80e67cbf7b324894564a58f"
+                "sha1": "92a7290f1b929690c4e44e2209cca51c47a17a74",
+                "sha512": "9a14c645b1d576bad42afd7f1427bdcaa2895f66c816d3d11449642ece67079c07aa4274c3f7258cfd7c4663077f7072664fb67cf21baeb40006875e50f70b30"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/VfWNmPC4/Zoomify-2.13.4%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/OggLUOr6/Zoomify-2.13.5%2B1.20.4.jar",
+                "https://github.com/isXander/Zoomify/releases/download/2.13.5%2B1.20.6/Zoomify-2.13.5+1.20.6.jar"
             ],
-            "fileSize": 1064862
+            "fileSize": 1061997
         },
         {
             "path": "mods/appleskin-fabric-mc1.20.3-2.5.1.jar",
@@ -793,15 +794,15 @@
             "fileSize": 430721
         },
         {
-            "path": "mods/shulkerboxtooltip-fabric-4.0.8+1.20.4.jar",
+            "path": "mods/shulkerboxtooltip-fabric-4.1.0+1.20.4.jar",
             "hashes": {
-                "sha1": "170972b46c2758567f2d3beb93a72b095bf5cafb",
-                "sha512": "867e0d093eec8e37163a45d785e4b5016cd51a55bda338b5a9ede1515426561e58c033db88071c88dd7f04fd84d1a442239b33e869d8ce06dde460fa44fe3371"
+                "sha1": "ddaa2630c2f5f7cea5fcea17441718f0a07aa622",
+                "sha512": "1fd6127a25d76b5fccc52ae9b8c8f54640c2f9bdbfde7b0aa952cc5ac38074bc25c5abb57008578e371e9814a26f8a0bc315869a8243c4d4e688e3e73ceb97a7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/2M01OLQq/versions/R23hymvz/shulkerboxtooltip-fabric-4.0.8%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/2M01OLQq/versions/r6EhfuUa/shulkerboxtooltip-fabric-4.1.0%2B1.20.4.jar"
             ],
-            "fileSize": 1215852
+            "fileSize": 1225846
         },
         {
             "path": "mods/simple-hud-enhanced+1.20-1.20.4-4.6.1.jar",
@@ -815,26 +816,26 @@
             "fileSize": 1121476
         },
         {
-            "path": "mods/skinlayers3d-fabric-1.6.4-mc1.20.4.jar",
+            "path": "mods/skinlayers3d-fabric-1.6.5-mc1.20.4.jar",
             "hashes": {
-                "sha1": "88859ecf64059d0f623387763d9ef7bcd35bb90f",
-                "sha512": "3149b24cee7212055fe2b23628b1e052475fe47f600ad8fa91db273f8b53f82a4e42f30740367251a82375d25c567b733ec7dcb69a14d03f7463680f1a43566b"
+                "sha1": "6b6a5d8735d48b2affd9c6a922c7f23cc29bbe9b",
+                "sha512": "48e15ab1913ceb38136ee262d5c45e9cf4ff9e0686ec664144f85eed0204a9403b4caff596bb722c36ebdfd46b4aa5c5b689ca3372ab54ac97204aeb0f2281bc"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/zV5r3pPn/versions/3a5RPvFY/skinlayers3d-fabric-1.6.4-mc1.20.4.jar"
+                "https://cdn.modrinth.com/data/zV5r3pPn/versions/1lG9wL1E/skinlayers3d-fabric-1.6.5-mc1.20.4.jar"
             ],
-            "fileSize": 471289
+            "fileSize": 471566
         },
         {
-            "path": "mods/sound-physics-remastered-fabric-1.20.4-1.4.0.jar",
+            "path": "mods/sound-physics-remastered-fabric-1.20.4-1.4.1.jar",
             "hashes": {
-                "sha1": "6ba9c5ffb124b4c080f9676b78835598029bc4b7",
-                "sha512": "d2831f4e8d250f90459616abf08642990e942c5c7559fa1166d74b401946083d501ad5304e63c866ed9943a935d183874afd2602c41dbf3b0353273002506c08"
+                "sha1": "ec52b724f0518a01c712925b482d65381226cef0",
+                "sha512": "5be62f9df94e07d5a9901a45c4fa7d41ae27abcd3d7a62ac60e63d7a132ab393d33d929c5833184f40ea8d6f42c4e08f576f5b083b87018b09c4a653f274ab5e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qyVF9oeo/versions/L6oPowRU/sound-physics-remastered-fabric-1.20.4-1.4.0.jar"
+                "https://cdn.modrinth.com/data/qyVF9oeo/versions/3HhMsZ0w/sound-physics-remastered-fabric-1.20.4-1.4.1.jar"
             ],
-            "fileSize": 189329
+            "fileSize": 195283
         },
         {
             "path": "mods/TES-fabric-1.20.4-1.5.1.jar",
@@ -1090,15 +1091,15 @@
             "fileSize": 5058098
         },
         {
-            "path": "mods/do_a_barrel_roll-fabric-3.5.6+1.20.4.jar",
+            "path": "mods/do_a_barrel_roll-fabric-3.6.0+1.20.4.jar",
             "hashes": {
-                "sha1": "31643b28e86fd82f925738cc7179558aa6335a1d",
-                "sha512": "05052930f32b504ca86ba9c69a3bf6b57cd0abb6c063d8ad8f277e2248acf56128227c7ed28a4a6697524b48769cd3ba588e8811b3289f8cb563afa33a4ce9eb"
+                "sha1": "495f83f558d62fd71dc2324e756619962989a913",
+                "sha512": "83a856ecdee691035f430ad81c7f3fdd21eb8f1c0fe2cf118b6b3d350082e2e98758a80b5989bdf853a9d3962f580b74a48da125dfbe270a2166570327794348"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/6FtRfnLg/versions/9xcYWEMM/do_a_barrel_roll-fabric-3.5.6%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/6FtRfnLg/versions/vnywyrWt/do_a_barrel_roll-fabric-3.6.0%2B1.20.4.jar"
             ],
-            "fileSize": 502498
+            "fileSize": 503060
         },
         {
             "path": "mods/elytratrims-fabric-3.1.8-test+1.20.4.jar",
