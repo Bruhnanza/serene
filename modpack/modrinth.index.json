@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "2.2",
+    "versionId": "2.3",
     "name": "Serene",
     "summary": "Kick back, relax, and enjoy a tranquil Minecraft experience.",
     "files": [
@@ -617,15 +617,15 @@
             "fileSize": 344004
         },
         {
-            "path": "mods/CleanF3-mc1.20.x-0.4.4.jar",
+            "path": "mods/CleanF3-mc1.20.x-0.4.5.jar",
             "hashes": {
-                "sha1": "71e968ccdfb4310b3ecb3ca7beedb937dcf0f8a1",
-                "sha512": "60a34854d62789a659dde54ad2bcc8be79be382f287edb12f0a938e4b38a2b55cb78c265a36f2e664dfc33f7db25d5d0df535d5dbeb7e5d1cce605ba4890fac8"
+                "sha1": "f25cac200c9c5990dcbaecd518de42927aff5ccb",
+                "sha512": "a1d9b9d61ddee81f92da3c67b7b67f17792cf52b343c68b6b8801c7e59884386eea84a1ad13fd0c4f3185e6bdbc2c078acf484986b792ef38896fabad976502a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5lvjfaRs/versions/yRsfcmOU/CleanF3-mc1.20.x-0.4.4.jar"
+                "https://cdn.modrinth.com/data/5lvjfaRs/versions/8fZChfSt/CleanF3-mc1.20.x-0.4.5.jar"
             ],
-            "fileSize": 15189
+            "fileSize": 16192
         },
         {
             "path": "mods/eating-animation-1.20+1.9.61.jar",
@@ -827,15 +827,15 @@
             "fileSize": 471566
         },
         {
-            "path": "mods/sound-physics-remastered-fabric-1.20.4-1.4.1.jar",
+            "path": "mods/sound-physics-remastered-fabric-1.20.4-1.4.2.jar",
             "hashes": {
-                "sha1": "ec52b724f0518a01c712925b482d65381226cef0",
-                "sha512": "5be62f9df94e07d5a9901a45c4fa7d41ae27abcd3d7a62ac60e63d7a132ab393d33d929c5833184f40ea8d6f42c4e08f576f5b083b87018b09c4a653f274ab5e"
+                "sha1": "9d6416789e74e5b18362d4af975ff83754404f13",
+                "sha512": "ea707dd80a03d3b73ba0c5b85a5be882b8ec4ea88b87953ee7aa04da124f0b4c355a5ba78e08bce3a5b8fd00e085c88f6933568967be3444e37a9cc25c358aff"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qyVF9oeo/versions/3HhMsZ0w/sound-physics-remastered-fabric-1.20.4-1.4.1.jar"
+                "https://cdn.modrinth.com/data/qyVF9oeo/versions/v82u5BX1/sound-physics-remastered-fabric-1.20.4-1.4.2.jar"
             ],
-            "fileSize": 195283
+            "fileSize": 195169
         },
         {
             "path": "mods/TES-fabric-1.20.4-1.5.1.jar",
@@ -959,15 +959,15 @@
             "fileSize": 22315279
         },
         {
-            "path": "mods/Bookshelf-Fabric-1.20.4-23.0.5.jar",
+            "path": "mods/Bookshelf-Fabric-1.20.4-23.0.8.jar",
             "hashes": {
-                "sha1": "a1c36e59383a763d4ac7eea5787cb508b77dc222",
-                "sha512": "ba7016b61ba4d03518607593c3fd3dcd0fcdf8fa1027f8873444259867075c7b1473a6ff5a6bf9266b84a5b446e89f713f737ea0c96d9b19937dcbaaae489572"
+                "sha1": "23814b8ff852f81d6718e3d45d9cd27056d56fcd",
+                "sha512": "fd37d901153fe139b553073c5e9b0f976d87ea4fc2c7b10a9f716301ef9879d5e4894c2a476af93939fc88d355871bb3bae385821047c71ae9fd3d8977dab6ea"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uy4Cnpcm/versions/LUTchFvc/Bookshelf-Fabric-1.20.4-23.0.5.jar"
+                "https://cdn.modrinth.com/data/uy4Cnpcm/versions/E00CwMTB/Bookshelf-Fabric-1.20.4-23.0.8.jar"
             ],
-            "fileSize": 298309
+            "fileSize": 298310
         },
         {
             "path": "mods/Bountiful-7.0.2+1.20.4-fabric.jar",
@@ -1146,15 +1146,15 @@
             "fileSize": 164218
         },
         {
-            "path": "mods/explorify-v1.3.0-mc1.20.jar",
+            "path": "mods/explorify-v1.4.0.jar",
             "hashes": {
-                "sha1": "01b221413273cdf373a92499b8f0295dec1cd324",
-                "sha512": "31b31542f4f1386e27b846adafcec673083db3927a34a033bc73924257481a210dfa67a294430b2a16b7e3a3687eeb79e0c8931840fa6f7c2b6323842784bd6d"
+                "sha1": "dd28a037daff1ba5785a482cd714fffa4fa40765",
+                "sha512": "fc47ddf8a31553a90615cdc54c2f61f2bdaa916840337cb0182bed41280d119a469d5447993c2472e32315b94bea77a8bbde845fed013798594fc35a21692661"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HSfsxuTo/versions/DFkIejTe/explorify-v1.3.0-mc1.20.jar"
+                "https://cdn.modrinth.com/data/HSfsxuTo/versions/XfMVshu1/explorify-v1.4.0.jar"
             ],
-            "fileSize": 157405
+            "fileSize": 204832
         },
         {
             "path": "mods/FabricKotlinExtensions-1.0.9.jar",
@@ -1355,15 +1355,15 @@
             "fileSize": 12331746
         },
         {
-            "path": "mods/mru-0.4.0+1.20.4.jar",
+            "path": "mods/mru-0.4.2+1.20.4.jar",
             "hashes": {
-                "sha1": "c049d60c2d6a6d0faa3bd9b8d796b8c3f9cf98fb",
-                "sha512": "a2f3fc25ea0548f3a3058ea61f9eb3b90794949f8752ac2975fb57b0fb7ee25ddd1f1eae33fc08ff3cdeb0ed38b6d72edb8287e6c60a8ba8960c2c6a0c3a08a2"
+                "sha1": "1620d2583ad6895773e5e88c4bdec507c96d4b1d",
+                "sha512": "d057596abf8f53f99ac612363cd526922a658ad34cb34f35a0a19be00ebf2ddfee8cd9926ceab78cc41046057dc15651112a91c2c60efaf6c1b1fddf6be5ce6d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/SNVQ2c0g/versions/Qjx3vUgd/mru-0.4.0%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/SNVQ2c0g/versions/ojiMgnPu/mru-0.4.2%2B1.20.4.jar"
             ],
-            "fileSize": 171531
+            "fileSize": 1183358
         },
         {
             "path": "mods/NaturesCompass-1.20.4-2.2.3-fabric.jar",
@@ -1443,15 +1443,15 @@
             "fileSize": 7804701
         },
         {
-            "path": "mods/resourcefullib-fabric-1.20.4-2.4.8.jar",
+            "path": "mods/resourcefullib-fabric-1.20.4-2.4.10.jar",
             "hashes": {
-                "sha1": "6ececb8c905d283490c039f644cd645d91a6e4cf",
-                "sha512": "c2f7ed9685d29ab81a7c574af0245436342a6d1b53d99dd0ee247183b867ef0575034a709b29f19966e1edad89c89cfd17e044b6f79af044121e00bc9e2316eb"
+                "sha1": "f6e47cd60ad0f7ab4228fee01f73c8984c8a1783",
+                "sha512": "fed65173b10510b46728c34e9b8dd85c171a5505d42e2e7e1d90ab34f27475c85ba9b3fc291fb3049ed74340dd45f788b23816446d4f60066cbe55d7faa716ed"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/G1hIVOrD/versions/niLlHvaI/resourcefullib-fabric-1.20.4-2.4.8.jar"
+                "https://cdn.modrinth.com/data/G1hIVOrD/versions/TiIWVg2u/resourcefullib-fabric-1.20.4-2.4.10.jar"
             ],
-            "fileSize": 440248
+            "fileSize": 440662
         },
         {
             "path": "mods/separatedleaves-2.4.0-fabric-1.20.4.jar",
