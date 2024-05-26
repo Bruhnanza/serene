@@ -73,16 +73,16 @@
             "fileSize": 1009401
         },
         {
-            "path": "mods/Controlify-2.0.0-beta.9+1.20.4.jar",
+            "path": "mods/Controlify-2.0.0-beta.8+1.20.4.jar",
             "hashes": {
-                "sha1": "93f9f2a8e8562074181fa833736ad7e94c2db738",
-                "sha512": "b69c5089ce307538da4418bd0090a8978e2268fa370c6876ec27c1171f927860f3d0e437334271443b489bc23e41d8892a63330ef64fc44fe4d1993416a6b237"
+                "sha1": "852934980d899cfdd2e8ef6a5d8fb3991fb073f7",
+                "sha512": "95d35f3e3cc2b8fd01e905da46481af3c54e0d8e0f9a106bc89e8d626878f54990b61d7ab64cafb307710f96becdac36baa7663b2f2f6c08c1b3ac0fd4bb6fa2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/mpnMZdQU/Controlify-2.0.0-beta.9%2B1.20.4.jar",
-                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.9%2B1.20.4/Controlify-2.0.0-beta.9+1.20.4.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/Q5nQC6JX/Controlify-2.0.0-beta.8%2B1.20.4.jar",
+                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.8%2B1.20.4/Controlify-2.0.0-beta.8+1.20.4.jar"
             ],
-            "fileSize": 2682984
+            "fileSize": 2452976
         },
         {
             "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
