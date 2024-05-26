@@ -1,1 +1,3 @@
+- Updated Bookshelf, Clean F3, Explorify, M.R.U, Resourceful Lib, Sound Physics Remastered
 
+- Items to not update: Controlify, Do a Barrel Roll, Iris, Zoomify
