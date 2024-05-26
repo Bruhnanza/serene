@@ -1,5 +1,1 @@
-- Updated Better Archeology, Better Suggestions, cat_jam, Configurable Everything, Continents, Continuity, Controlify, Do a Barrel Roll, Elytra Trims, Entity Culling, Fabric Language Kotlin, Friendly Fire, ImmediatelyFast, Incendium, Language Reload, Nullscape, Panda's Falling Tree's, Presence Footsteps, Polytone, Shulker Box Tooltip, Simple Hats, Simple Voice Chat, Snow Under Trees, Sound Physics Remastered, Stormilla, Terralith, Utility Belt, Wavey Capes, Wolf Port, 8 of YUNG's mods, 3D Skin Layers
-- Added Faster Random, LibJF, Respackopts, Simple HUD Enhanced
-- Removed Inventory HUD+
-- Changed Stormilla Dark Mode to use files within main pack via Respackopts, rendering the separate resource pack unnecessary
-- Updated Fabric Loader to 0.15.11
+
