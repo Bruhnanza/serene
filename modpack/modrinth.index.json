@@ -73,16 +73,16 @@
             "fileSize": 1009401
         },
         {
-            "path": "mods/Controlify-2.0.0-beta.8+1.20.4.jar",
+            "path": "mods/Controlify-2.0.0-beta.10+1.20.4.jar",
             "hashes": {
-                "sha1": "852934980d899cfdd2e8ef6a5d8fb3991fb073f7",
-                "sha512": "95d35f3e3cc2b8fd01e905da46481af3c54e0d8e0f9a106bc89e8d626878f54990b61d7ab64cafb307710f96becdac36baa7663b2f2f6c08c1b3ac0fd4bb6fa2"
+                "sha1": "7d05e9e55317a644b01c1434bc86a76388476e1e",
+                "sha512": "ea615464b82a3d19cab34eccf56ae97e948ccd4bb77741b4e10a9e5b36b6e9a8eff96f003b079365ad745c0fb3f970e1d276adf1f34c2370648b02f11403f9a4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/Q5nQC6JX/Controlify-2.0.0-beta.8%2B1.20.4.jar",
-                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.8%2B1.20.4/Controlify-2.0.0-beta.8+1.20.4.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/zPpBE48u/Controlify-2.0.0-beta.10%2B1.20.4.jar",
+                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.10%2B1.20.4/Controlify-2.0.0-beta.10+1.20.4.jar"
             ],
-            "fileSize": 2452976
+            "fileSize": 2681911
         },
         {
             "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
@@ -494,16 +494,16 @@
             "fileSize": 949085
         },
         {
-            "path": "mods/YetAnotherConfigLib-3.4.2+1.20.4-fabric.jar",
+            "path": "mods/YetAnotherConfigLib-3.4.4+1.20.4-fabric.jar",
             "hashes": {
-                "sha1": "a67986e7683bb6e5e71c55911b1badbb6d0d7c4c",
-                "sha512": "e2c0109f6f048b1e107e3df48c69fe4a314b994f937f856add21a13072b3a770a2c0151dc9db46647653ac7cdeceb6120a38cc7ca6627a3c42769c901cb9118d"
+                "sha1": "d2da93ea3ac054f03234c99fd3277d0eda85b29c",
+                "sha512": "ec167ff40fbb60ff542ef93d09db9dbbe1ae50f72f247fd1db4924b7b273e3a83df4b95b98e49987dc5fd4066a8312f3aee5c20b99792625bf2ca2a4fe2807e9"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/EkAJiIZH/YetAnotherConfigLib-3.4.2%2B1.20.4-fabric.jar",
-                "https://github.com/isXander/YetAnotherConfigLib/releases/download/3.4.2%2B1.20.4-fabric/YetAnotherConfigLib-3.4.2+1.20.4-fabric.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/G2PcCpZl/YetAnotherConfigLib-3.4.4%2B1.20.4-fabric.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/3.4.4%2B1.20.4-fabric/YetAnotherConfigLib-3.4.4+1.20.4-fabric.jar"
             ],
-            "fileSize": 1073637
+            "fileSize": 1074150
         },
         {
             "path": "mods/yosbr-0.1.2.jar",
@@ -517,16 +517,16 @@
             "fileSize": 17373
         },
         {
-            "path": "mods/Zoomify-2.13.4+1.20.4.jar",
+            "path": "mods/Zoomify-2.13.5+1.20.4.jar",
             "hashes": {
-                "sha1": "4d01964df2daf172778585b1eaef8d62ff3cf9d3",
-                "sha512": "538caa099e9dae509dcd106f86f4152c1c9dd8ddc458f3860c1a56e934339f026dd559b70410bcc74a5a7fcd2f6ab044e5b86489e80e67cbf7b324894564a58f"
+                "sha1": "92a7290f1b929690c4e44e2209cca51c47a17a74",
+                "sha512": "9a14c645b1d576bad42afd7f1427bdcaa2895f66c816d3d11449642ece67079c07aa4274c3f7258cfd7c4663077f7072664fb67cf21baeb40006875e50f70b30"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/VfWNmPC4/Zoomify-2.13.4%2B1.20.4.jar",
-                "https://github.com/isXander/Zoomify/releases/download/2.13.4%2B1.20.4/Zoomify-2.13.4+1.20.4.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/OggLUOr6/Zoomify-2.13.5%2B1.20.4.jar",
+                "https://github.com/isXander/Zoomify/releases/download/2.13.5%2B1.20.4/Zoomify-2.13.5+1.20.4.jar"
             ],
-            "fileSize": 1064862
+            "fileSize": 1061997
         },
         {
             "path": "mods/appleskin-fabric-mc1.20.3-2.5.1.jar",
@@ -1091,15 +1091,15 @@
             "fileSize": 5058098
         },
         {
-            "path": "mods/do_a_barrel_roll-fabric-3.5.6+1.20.4.jar",
+            "path": "mods/do_a_barrel_roll-fabric-3.6.0+1.20.4.jar",
             "hashes": {
-                "sha1": "31643b28e86fd82f925738cc7179558aa6335a1d",
-                "sha512": "05052930f32b504ca86ba9c69a3bf6b57cd0abb6c063d8ad8f277e2248acf56128227c7ed28a4a6697524b48769cd3ba588e8811b3289f8cb563afa33a4ce9eb"
+                "sha1": "495f83f558d62fd71dc2324e756619962989a913",
+                "sha512": "83a856ecdee691035f430ad81c7f3fdd21eb8f1c0fe2cf118b6b3d350082e2e98758a80b5989bdf853a9d3962f580b74a48da125dfbe270a2166570327794348"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/6FtRfnLg/versions/9xcYWEMM/do_a_barrel_roll-fabric-3.5.6%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/6FtRfnLg/versions/vnywyrWt/do_a_barrel_roll-fabric-3.6.0%2B1.20.4.jar"
             ],
-            "fileSize": 502498
+            "fileSize": 503060
         },
         {
             "path": "mods/elytratrims-fabric-3.1.8-test+1.20.4.jar",
