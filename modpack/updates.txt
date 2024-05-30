@@ -1,3 +1,3 @@
-- Updated Bookshelf, Clean F3, Controlify, Do a Barrel Roll, Explorify, M.R.U, Resourceful Lib, Sound Physics Remastered, YetAnotherConfigLib, Zoomify
+- Updated Artifacts, Bookshelf, Clean F3, Controlify, Do a Barrel Roll, Explorify, M.R.U, Resourceful Lib, Sound Physics Remastered, YetAnotherConfigLib, Zoomify
 
 - Items to not update: Iris 
