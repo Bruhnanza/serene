@@ -915,15 +915,15 @@
             "fileSize": 587429
         },
         {
-            "path": "mods/artifacts-fabric-10.0.5.jar",
+            "path": "mods/artifacts-fabric-10.0.7.jar",
             "hashes": {
-                "sha1": "1bb86d04eef589eae2cf1596eec26d0236dae3d5",
-                "sha512": "f28ad215719c50628b21ad9063502b31e23684047b3658aa80f633cc9b7f91e72e9f287396c59984a74bc2dbc19e0cfbee0dfe5c724287fdf79cb7bf5d0a304c"
+                "sha1": "bf11ec2dd6d5f3223c067792e0415322f61b83d9",
+                "sha512": "bc73e94d61c6ee5f26bc1a595b8891b527b3d93c94e06028f2458b66242b6ef5f69058f09da703664670c41e88daec679b16ba1926b42f309e93d29ac6a8ff5c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/X75XmT50/artifacts-fabric-10.0.5.jar"
+                "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/2zjahdfM/artifacts-fabric-10.0.7.jar"
             ],
-            "fileSize": 922504
+            "fileSize": 923932
         },
         {
             "path": "mods/balm-fabric-1.20.4-9.0.9.jar",
