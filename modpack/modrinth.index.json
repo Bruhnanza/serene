@@ -981,15 +981,15 @@
             "fileSize": 606772
         },
         {
-            "path": "mods/bountifulfares-1.1.1-1.20.4.jar",
+            "path": "mods/bountifulfares-1.2.0-1.20.4.jar",
             "hashes": {
-                "sha1": "e6cf6d3a0e9aad34b55ee4209ea61b3df0a0dfa2",
-                "sha512": "de14626a1a3337ddc62d37c431d305449b9fc2b8dec95e93a125cf75da35b94317a2e7ab98cbc2456db12edb88edc602f93e9dcf1f418be00bd04d1a56204640"
+                "sha1": "0e78357d75c51e3f93a0e47b846e95221bdb500a",
+                "sha512": "4206a642ff068720f9575d6177f9985c86686a943b9ff39f68d045728b4b666f99aceb198d799452c10efcfe130fbdf1a629e2cafab8621f5187ae924ea9dfd4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YgrSDjlb/versions/82Pwp7gT/bountifulfares-1.1.1-1.20.4.jar"
+                "https://cdn.modrinth.com/data/YgrSDjlb/versions/y3pk94oU/bountifulfares-1.2.0-1.20.4.jar"
             ],
-            "fileSize": 2590682
+            "fileSize": 2850479
         },
         {
             "path": "mods/carryon-fabric-1.20.4-2.1.3.13.jar",
@@ -1408,6 +1408,17 @@
                 "https://cdn.modrinth.com/data/mEEGbEIu/versions/rl4OyHZR/pandalib-0.2.1-fabric-1.20.jar"
             ],
             "fileSize": 44473
+        },
+        {
+            "path": "mods/radiantgear-fabric-3.0.0+1.20.4.jar",
+            "hashes": {
+                "sha1": "eb0751864ccff4bb9e71da3d3f335675852ce382",
+                "sha512": "0c908e90ffc63599422a3cb0281cff60903fa4e9059fa8773d0bfbf0df73fd8f2888e17a4504aa80445db9397eec459ae84f93c2e953e563320ac5a09aca9c5f"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/AtT9wm5O/versions/yDtblpsL/radiantgear-fabric-3.0.0%2B1.20.4.jar"
+            ],
+            "fileSize": 31271
         },
         {
             "path": "mods/RegionsUnexploredFabric-0.5.5+1.20.4.jar",
