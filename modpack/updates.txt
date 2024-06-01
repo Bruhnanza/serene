@@ -1,4 +1,5 @@
-- Updated Artifacts, Bookshelf, Bountiful Fares, Clean F3, Controlify, Do a Barrel Roll, Explorify, ImmediatelyFast, M.R.U, Resourceful Lib, Sound Physics Remastered, YetAnotherConfigLib, Zoomify
-- Added Charged Charms, Radiant Gear
+- Updated Artifacts, Bookshelf, Bountiful Fares, Clean F3, Controlify, Do a Barrel Roll, Explorify, ImmediatelyFast, M.R.U, Resourceful Lib, Sound Physics Remastered, Stormilla, YetAnotherConfigLib, Zoomify
+- Added Charged Charms, owo-lib, Particular, Radiant Gear
+- Removed Falling Leaves
 
 - Items to not update: Iris 
