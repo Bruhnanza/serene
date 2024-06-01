@@ -255,16 +255,16 @@
             "fileSize": 49488
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.2.15+1.20.4.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.2.17+1.20.4.jar",
             "hashes": {
-                "sha1": "02aa552fe1a7037d141264e7431033db3d8a4ae4",
-                "sha512": "637fa7d4d978fe0db2ecee2846e6ea3811ba1710cb4bbbdc8f2789e558dbaea041a239efea50d2d927ea62fcc4f7d1ab5feae96b546274e02becf7720f462769"
+                "sha1": "7c21b91ac4bcd1c7c5c079fdbfb89002a31a24bd",
+                "sha512": "6308e25660d089db3e48c7ddf39b3d01a07854258b1bfb8bfa4ce78fcffc7336358ee00eb28cca6031b6d1604ed3b7ee95c004359677cce7d77e5a2b52c6cd7d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/Rh3MdqnM/ImmediatelyFast-Fabric-1.2.15%2B1.20.4.jar",
-                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.2.15/ImmediatelyFast-Fabric-1.2.15+1.20.4.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/115Ubn3O/ImmediatelyFast-Fabric-1.2.17%2B1.20.4.jar",
+                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.2.17/ImmediatelyFast-Fabric-1.2.17+1.20.4.jar"
             ],
-            "fileSize": 248945
+            "fileSize": 252677
         },
         {
             "path": "mods/indium-1.0.30+mc1.20.4.jar",
@@ -1012,6 +1012,17 @@
                 "https://cdn.modrinth.com/data/x3s69afN/versions/yL4xn8Kt/cat_jam-fabric-mc1.20-1.2.2.jar"
             ],
             "fileSize": 43348
+        },
+        {
+            "path": "mods/chargedcharms-1.20.4-2.0.0.5-FABRIC.jar",
+            "hashes": {
+                "sha1": "a66fd12a817d60ee083182dd9ba91c9b640e0346",
+                "sha512": "b4d80728105c6a47abb69b56e82bfc51a210a49e0f0a40a540007fd633632ccae3129c988a37282a98c210a6284f073cd2ad812742b1386c9afea60a12fbdc99"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/cqzqfZKX/versions/hxr6oRgG/chargedcharms-1.20.4-2.0.0.5-FABRIC.jar"
+            ],
+            "fileSize": 461346
         },
         {
             "path": "mods/cicada-lib-0.7.2+1.20.2-1.20.4.jar",
