@@ -1740,6 +1740,18 @@
             "fileSize": 6519571
         },
         {
+            "path": "resourcepacks/Stormilla-Modded-1.1.zip",
+            "hashes": {
+                "sha1": "af3f901189c6feeb6109757344a946a3cbb6d1e3",
+                "sha512": "c5d987ba3cc17682f6e715548eeabcef5563ceeec354dfcbd7567f096e5983c7913bbecaad043e65397282abecf231e712f0dd6f924c2c076536e359c6b17302"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/GUhItgrQ/versions/2toS3KUQ/Stormilla-Modded-1.1.zip",
+                "https://github.com/Bruhnanza/stormodda/releases/download/1.1/Stormilla-Modded-1.1.zip"
+            ],
+            "fileSize": 284119
+        },
+        {
             "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip",
             "hashes": {
                 "sha1": "8738d99d8a78b7e7ea71b5c15a3432bc04eba715",
