@@ -26,7 +26,7 @@ If you encounter any issues or wish to give feedback, submit them here.
 - Custom rules to limit mob spawning and activity
 - Support for serverside pack[*](https://modrinth.com/modpack/craftycrew)
 - Reward hats for certain achievements or [bounties](https://modrinth.com/mod/bountiful)
-- Work on modded compatibility for [Stormilla Dark Mode](https://modrinth.com/resourcepack/stormilla-dark-mode) & adding other packs
+- ~~Work on modded compatibility for [Stormilla Dark Mode](https://modrinth.com/resourcepack/stormilla-dark-mode)~~ & adding other packs
 </details>
 
 ### Credits
