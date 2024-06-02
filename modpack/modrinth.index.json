@@ -926,15 +926,15 @@
             "fileSize": 587429
         },
         {
-            "path": "mods/artifacts-fabric-10.0.8.jar",
+            "path": "mods/artifacts-fabric-10.0.10.jar",
             "hashes": {
-                "sha1": "2b35ec0c5eb49bb14c1c8b53e4e502869f0e9fcf",
-                "sha512": "c95072ea99aba82e07f8d490e081469be205fa6b8b4adf4cb827211998a84ea12f07ca53f7aa3ca29b58de7241609cd59c2097a00d17893032cc76755c8b2ee6"
+                "sha1": "0c4e2bd2812a109ede9acc7043ef942c9e0b1edb",
+                "sha512": "98c13eeaabb8c4b0dec9e6953fb43363b3560b1e063b5595d952631fc5f9d8c193af59ba2606b9329b1ab8824f9ca77ba41c71805c914d3ef4dc16c831543a8b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/bm5Am3Lg/artifacts-fabric-10.0.8.jar"
+                "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ybdJhvVc/artifacts-fabric-10.0.10.jar"
             ],
-            "fileSize": 923809
+            "fileSize": 924475
         },
         {
             "path": "mods/balm-fabric-1.20.4-9.0.9.jar",
@@ -992,15 +992,15 @@
             "fileSize": 606772
         },
         {
-            "path": "mods/bountifulfares-1.2.0-1.20.4.jar",
+            "path": "mods/bountifulfares-1.2.1-1.20.4.jar",
             "hashes": {
-                "sha1": "0e78357d75c51e3f93a0e47b846e95221bdb500a",
-                "sha512": "4206a642ff068720f9575d6177f9985c86686a943b9ff39f68d045728b4b666f99aceb198d799452c10efcfe130fbdf1a629e2cafab8621f5187ae924ea9dfd4"
+                "sha1": "34a2a295d47e237b127ecafa69c670339c50c489",
+                "sha512": "5671593c985c70931e384119701b94e0cc9e84b4afdff7a8690c75db3a60f7d765facdc000f210b51688748ac62ff86a58575b2dbd43f98a814ed310c2db38ea"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YgrSDjlb/versions/y3pk94oU/bountifulfares-1.2.0-1.20.4.jar"
+                "https://cdn.modrinth.com/data/YgrSDjlb/versions/TbgXPVq9/bountifulfares-1.2.1-1.20.4.jar"
             ],
-            "fileSize": 2850479
+            "fileSize": 2864648
         },
         {
             "path": "mods/carryon-fabric-1.20.4-2.1.3.13.jar",
