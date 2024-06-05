@@ -1,1 +1,3 @@
+- Updated e4mc, Elytra Trims, Enhanced Block Entities, Particular, Xaero's Minimap, Xaero's World Map
+
 - Items to not update: Iris
