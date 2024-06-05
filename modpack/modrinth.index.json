@@ -120,26 +120,26 @@
             "fileSize": 99715
         },
         {
-            "path": "mods/e4mc-4.0.1+1.19.4-fabric.jar",
+            "path": "mods/e4mc_minecraft-5.0.0-fabric.jar",
             "hashes": {
-                "sha1": "458253f15e3c5bb0d5354f42f3eedc5b1a71472c",
-                "sha512": "6dc10427ae9df71562ab948bb6b2502219bb5c37f58cc265390d9e311fc2b442a403440bb63953c6623777792d0c5cbafe0d894faa1c4cac282169d2000b22a3"
+                "sha1": "41f45402c2af136a8654688f23931d6ecde18f3c",
+                "sha512": "6438d6d8f56a426284801818d178a50f9b3a6efbe949326716362c13c3303af4a243f8fe919c4a0ee1e8fe7e7ac5ade423b0a8da5ea35e8fa9aa0fb260b435bb"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qANg5Jrr/versions/vVFlVRt7/e4mc-4.0.1%2B1.19.4-fabric.jar"
+                "https://cdn.modrinth.com/data/qANg5Jrr/versions/bvr50NJe/e4mc_minecraft-5.0.0-fabric.jar"
             ],
-            "fileSize": 275794
+            "fileSize": 304980
         },
         {
-            "path": "mods/enhancedblockentities-0.9.1+1.20.2.jar",
+            "path": "mods/enhancedblockentities-0.10+1.20.4.jar",
             "hashes": {
-                "sha1": "7d40ccbc5355602325ad3e633592441a63a3999a",
-                "sha512": "c6f2c68254624d3add2645766b5ceb467bba9931d5ef357d0d580352b12ed102ce33818be4ca318e97edb34eeb771672b81725f9aee75114e4eb508c8a05396d"
+                "sha1": "66a5203492195454f495ab39ba7d5338fa7f714b",
+                "sha512": "37edd8940be17d3b6dd06ad8cff47d40281eed4c249ed136db876607ce79636f0b31a7e44450bf13094c346813fde9b07ff221a37b4a3805bebdd55dc9d64bd6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/OVuFYfre/versions/eIFo7wvq/enhancedblockentities-0.9.1%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/OVuFYfre/versions/xeHyTMq8/enhancedblockentities-0.10%2B1.20.4.jar"
             ],
-            "fileSize": 492605
+            "fileSize": 330926
         },
         {
             "path": "mods/entityculling-fabric-1.6.5-mc1.20.4.jar",
@@ -772,15 +772,15 @@
             "fileSize": 1080159
         },
         {
-            "path": "mods/particular-1.0.3.jar",
+            "path": "mods/particular-1.0.4.jar",
             "hashes": {
-                "sha1": "c57231e5cee3ed6c0126f799859b22ce4d96b208",
-                "sha512": "ed091ba373768fbb9aafa588a40b2cfdc65187ebe355ad4348b780711759ea664d85e775da4b916e807c67ab48b119273d2f8687f6a180e838e7473a77c51a09"
+                "sha1": "e26f1edd6b609c8f0535033ba8d5dfdcc075f379",
+                "sha512": "92513bf12d5a18d989fc858ce675e30d6c83d7cda04f11c28342abc8ea4ba17db19788f6dbb7e37d948a9504444494397e503a3685663706d528f7caff537c29"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/B1CcCd9h/versions/sxJ5htvQ/particular-1.0.3.jar"
+                "https://cdn.modrinth.com/data/B1CcCd9h/versions/HwLC8irk/particular-1.0.4.jar"
             ],
-            "fileSize": 175206
+            "fileSize": 180475
         },
         {
             "path": "mods/PresenceFootsteps-1.9.4+1.20.4.jar",
@@ -882,26 +882,26 @@
             "fileSize": 357597
         },
         {
-            "path": "mods/Xaeros_Minimap_24.1.1_Fabric_1.20.4.jar",
+            "path": "mods/Xaeros_Minimap_24.2.0_Fabric_1.20.4.jar",
             "hashes": {
-                "sha1": "a1945f9b1cf40da18fc107b2940dbccbaeed0112",
-                "sha512": "56812f07d60048ad2b37469202c0c37947634366ac7db5aec46cea8b7f2d942627039bc248a9e7dff0ba33f37df9e4c7598ed9155f58567c651110502113b911"
+                "sha1": "ade5c8d458e94d6a194b29c5095846b5d28e3731",
+                "sha512": "aa91213b1d72b381d0135acf21e6f02584a92ea550206bd825bc4ddc79a75378dfa8fbc990479d80e02d1d0fd9f899a3ff93d46e77d252448686456dc62be6a7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1bokaNcj/versions/a1aPoO3W/Xaeros_Minimap_24.1.1_Fabric_1.20.4.jar"
+                "https://cdn.modrinth.com/data/1bokaNcj/versions/ebLQ6HBv/Xaeros_Minimap_24.2.0_Fabric_1.20.4.jar"
             ],
-            "fileSize": 1474107
+            "fileSize": 1503234
         },
         {
-            "path": "mods/XaerosWorldMap_1.38.4_Fabric_1.20.4.jar",
+            "path": "mods/XaerosWorldMap_1.38.8_Fabric_1.20.4.jar",
             "hashes": {
-                "sha1": "030eaa1334edaf0b9498410e3f7340cd4529ca89",
-                "sha512": "d26d86161c931f5804cb60af88e10e3807beb8e621ebf035914ec15cb740eadcb8845262d430ae0139d7870a8f969e851a73ed8ffee8b2dca1e01d891fee514c"
+                "sha1": "4a60d202f07292ecfcd3b6c212d9e126be7b902c",
+                "sha512": "6ba1369435e9fa2f463eff8e70cb5d389c81971c4fa90bc2404cdf875e95cae6293171985732693222d7c2efdc37d0bc247f0537be1b8cfde5a6c8e90a962209"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NcUtCpym/versions/ciwrnpWQ/XaerosWorldMap_1.38.4_Fabric_1.20.4.jar"
+                "https://cdn.modrinth.com/data/NcUtCpym/versions/jEhoJmNF/XaerosWorldMap_1.38.8_Fabric_1.20.4.jar"
             ],
-            "fileSize": 944873
+            "fileSize": 949246
         },
         {
             "path": "mods/advancednetherite-fabric-2.1.0-1.20.4.jar",
@@ -1124,15 +1124,15 @@
             "fileSize": 503060
         },
         {
-            "path": "mods/elytratrims-fabric-3.1.8-test+1.20.4.jar",
+            "path": "mods/elytratrims-fabric-3.1.9+1.20.4.jar",
             "hashes": {
-                "sha1": "4e7aea26a59145a96472b845cf5871a7ff5e822c",
-                "sha512": "cfb4427f773eb03d605abe670abae539713b1c6e798664db0bb2635b4a0342719d4323b683703d0ce64164ba803d7883991611815c60570488849466bd393403"
+                "sha1": "07396d52d70d1ab7872c0cd6cc5c5628ce240569",
+                "sha512": "695c71b055d41c7c29df8b8244c7fe1d9ce7dad372d08c31968fc41692886f09131889eb281ee942bc87437955923859b278600c9bde44ea1c25a7b91a6a3e66"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XpzGz7KD/versions/4WO8sCWw/elytratrims-fabric-3.1.8-test%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/XpzGz7KD/versions/AaxuZxCi/elytratrims-fabric-3.1.9%2B1.20.4.jar"
             ],
-            "fileSize": 530419
+            "fileSize": 530386
         },
         {
             "path": "mods/emitrades-fabric-1.3.0+mc1.20.4.jar",
