@@ -1729,15 +1729,15 @@
             "fileSize": 300705
         },
         {
-            "path": "resourcepacks/Stormilla-v2.10.1.zip",
+            "path": "resourcepacks/Stormilla-v2.10.2.zip",
             "hashes": {
-                "sha1": "2344cb77676e85072a65b6de1e8af164aadaa6d8",
-                "sha512": "20aaaf8d385a10e31f301a82e803e160e4b6923d5ff5f0bf1ab66a94a9b9949370a902e4bc50a741d09b1fbcfe3e1d9123534655a010071e1de9829318e1849c"
+                "sha1": "e6e053acc901005f3ef967212a1b0bfd7a8b4b1a",
+                "sha512": "9d204cb20a482cd12c9e7ab9a2ef177b959f9f7e301cfd4a959794499d99a1cb3335adde71f01b3774cc9837b2bc03e29911b2eba27f74fa97c8e7c023cf15ea"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/wJkMxmyK/versions/ghj6utRH/Stormilla-v2.10.1.zip"
+                "https://cdn.modrinth.com/data/wJkMxmyK/versions/NKRUg7g1/Stormilla-v2.10.2.zip"
             ],
-            "fileSize": 6519571
+            "fileSize": 6512016
         },
         {
             "path": "resourcepacks/Stormilla-Modded-1.1.zip",
