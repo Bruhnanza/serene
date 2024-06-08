@@ -816,15 +816,16 @@
             "fileSize": 1225846
         },
         {
-            "path": "mods/simple-hud-enhanced+1.20-1.20.4-4.6.1.jar",
+            "path": "mods/simple-hud-enhanced+1.20-1.20.4-4.6.2.jar",
             "hashes": {
-                "sha1": "d127cc61d438e7842b86fda17e2b203d38d655ad",
-                "sha512": "6b7f3575fdf1801fce82c913759da4bf71b7a907a2ddc0dfd99a58c80e442aa65cf065dc3e72652ecc46196ebfb5f87afb9f10f2bce29b4570827a41f8d58caf"
+                "sha1": "fe1ba554a5913852e5f5e7f51ddca3b04df2a8e6",
+                "sha512": "60f5b6b7ae9b0ca1dd92d9d116f61037992b0d500d95727887d67f929432cd58623af9c2e2dc66f8613083246bb58dc46b456d988e294a12044e21e6aa9f40e1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PE656UHx/versions/OlTMCIjj/simple-hud-enhanced%2B1.20-1.20.4-4.6.1.jar"
+                "https://cdn.modrinth.com/data/PE656UHx/versions/v9eOnBC5/simple-hud-enhanced%2B1.20-1.20.4-4.6.2.jar",
+                "https://github.com/SoRadGaming/Simple-HUD-Enhanced/releases/download/v4.6.2/simple-hud-enhanced+1.20-1.20.4-4.6.2.jar"
             ],
-            "fileSize": 1121476
+            "fileSize": 1121099
         },
         {
             "path": "mods/skinlayers3d-fabric-1.6.5-mc1.20.4.jar",
