@@ -267,16 +267,16 @@
             "fileSize": 252677
         },
         {
-            "path": "mods/indium-1.0.30+mc1.20.4.jar",
+            "path": "mods/indium-1.0.31+mc1.20.4.jar",
             "hashes": {
-                "sha1": "b24233f29c0ce4802c61ea8998e01e6e4580ae60",
-                "sha512": "3b9c9beef42f72bc75094595c92038c38e36fcde75890c73ced01aed4fb2a8a85cddb8edd2aa91ea6ed2dd41f8afedaa3dbca8f70c716197a7f2ee5b26060562"
+                "sha1": "fe6d0513ac332d890f1bd9bb9354a8e240b8f0e5",
+                "sha512": "27b4a73ca990742e27eee4348553c86c96c19fddcd0763892029f67ddbde42dc03c0ac21230403ae6b4ce4da315d0d49f582d3daab413b9ea84fd6d172ee7c4f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/Aouse6P7/indium-1.0.30%2Bmc1.20.4.jar",
-                "https://github.com/comp500/Indium/releases/download/1.0.30%2Bmc1.20.4/indium-1.0.30%2Bmc1.20.4.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/VlLxDisa/indium-1.0.31%2Bmc1.20.4.jar",
+                "https://github.com/comp500/Indium/releases/download/1.0.31%2Bmc1.20.4/indium-1.0.31+mc1.20.4.jar"
             ],
-            "fileSize": 104805
+            "fileSize": 105350
         },
         {
             "path": "mods/iris-mc1.20.4-1.6.17.jar",
@@ -772,15 +772,15 @@
             "fileSize": 1080159
         },
         {
-            "path": "mods/particular-1.0.4.jar",
+            "path": "mods/particular-1.1.1.jar",
             "hashes": {
-                "sha1": "e26f1edd6b609c8f0535033ba8d5dfdcc075f379",
-                "sha512": "92513bf12d5a18d989fc858ce675e30d6c83d7cda04f11c28342abc8ea4ba17db19788f6dbb7e37d948a9504444494397e503a3685663706d528f7caff537c29"
+                "sha1": "f392b6c80edf5518b52ffe7667198202a0bcef8d",
+                "sha512": "a858d77246f1da8ba4e32fa61cad935c5366f422db2a1fc6f07bbf1e3c4fb1a44839d240dc7325964ef840f49d51e78ad3068e872b8153234b225bfa25c29d70"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/B1CcCd9h/versions/HwLC8irk/particular-1.0.4.jar"
+                "https://cdn.modrinth.com/data/B1CcCd9h/versions/19UWxtiZ/particular-1.1.1.jar"
             ],
-            "fileSize": 180475
+            "fileSize": 230403
         },
         {
             "path": "mods/PresenceFootsteps-1.9.4+1.20.4.jar",
@@ -848,6 +848,17 @@
                 "https://cdn.modrinth.com/data/qyVF9oeo/versions/v82u5BX1/sound-physics-remastered-fabric-1.20.4-1.4.2.jar"
             ],
             "fileSize": 195169
+        },
+        {
+            "path": "mods/sushi_bar-0.1.1.jar",
+            "hashes": {
+                "sha1": "6ffb1d977d37fe727a0ddf7dbf8def7863e0d8bd",
+                "sha512": "0813747370ce3734e130bab1ced32df225d96917c0ef4a7f3c2a07001632437bbf4bcf8844ecf63142688377e1f2122cbb108ab7716e0644e8596b2974524cc8"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/tr2Mv6ke/versions/4weQjpht/sushi_bar-0.1.1.jar"
+            ],
+            "fileSize": 74269
         },
         {
             "path": "mods/TES-fabric-1.20.4-1.5.1.jar",
@@ -927,15 +938,15 @@
             "fileSize": 587429
         },
         {
-            "path": "mods/artifacts-fabric-10.0.10.jar",
+            "path": "mods/artifacts-fabric-10.0.11.jar",
             "hashes": {
-                "sha1": "0c4e2bd2812a109ede9acc7043ef942c9e0b1edb",
-                "sha512": "98c13eeaabb8c4b0dec9e6953fb43363b3560b1e063b5595d952631fc5f9d8c193af59ba2606b9329b1ab8824f9ca77ba41c71805c914d3ef4dc16c831543a8b"
+                "sha1": "1849eda930c055742bb68f4838807e91a6f4a003",
+                "sha512": "cd6b66feefe870b36d600b32e6a60aec933fe2b526b9761b11c8950160908f628e0ff7fc535b619a91d1c4643390b022723878550b05c6f7fec9fe973b18f4d9"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ybdJhvVc/artifacts-fabric-10.0.10.jar"
+                "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/EprKTxJ0/artifacts-fabric-10.0.11.jar"
             ],
-            "fileSize": 924475
+            "fileSize": 924497
         },
         {
             "path": "mods/balm-fabric-1.20.4-9.0.9.jar",
@@ -1576,15 +1587,15 @@
             "fileSize": 240884
         },
         {
-            "path": "mods/utility-belt-fabric-2.1.1+1.20.4.jar",
+            "path": "mods/utility-belt-fabric-2.2.0+1.20.4.jar",
             "hashes": {
-                "sha1": "aaa9c03547b5636c2e7b582ea0a0e51d1da86a9d",
-                "sha512": "f2ba0568b33e67968c32ed72b6246484db2b67ccd77206a20f2325174deebf873a1d6baef7e13a962cdc1c8fdd9aaf391197226f3f3f44f05118a7f3aa5cb879"
+                "sha1": "89326c522a708230f3cc46356213179814046f20",
+                "sha512": "7b1aa7eb9e24f98294c81bcac51d99425b6bd6df3a94637504633436b19f49d8bb2d1e28742556ff1a145b082aff5a7a62c67c9134cc7c48ff13f3674c1aa8c8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9ewe2JHJ/versions/Yd9rxguD/utility-belt-fabric-2.1.1%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/9ewe2JHJ/versions/tieEoE9v/utility-belt-fabric-2.2.0%2B1.20.4.jar"
             ],
-            "fileSize": 279143
+            "fileSize": 287777
         },
         {
             "path": "mods/veinmining-fabric-3.1.1+1.20.4.jar",
@@ -1753,26 +1764,28 @@
             "fileSize": 284119
         },
         {
-            "path": "shaderpacks/ComplementaryReimagined_r5.1.1.zip",
+            "path": "shaderpacks/ComplementaryReimagined_r5.2.1.zip",
             "hashes": {
-                "sha1": "8738d99d8a78b7e7ea71b5c15a3432bc04eba715",
-                "sha512": "fb6fda4dfc4851bed754f4f0eddac8f065e69e564cbd7c479963b98c95cb5646d1c527ca0f680bde0fd302d0f3f0eaa66be7526ee5df6bdd9df0379b0b1d8cd5"
+                "sha1": "4ab8734a50018b58ecb1ac75042639f25094cf26",
+                "sha512": "52f87a733c382353e5aa0e07555cf821a31b832f67dca63ab28e56b99d12de77c989ab90926aa452096b14496349c60bae77d9717e89cb3a68e3ac93c3b7495f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HVnmMxH1/versions/D5fox3fg/ComplementaryReimagined_r5.1.1.zip"
+                "https://cdn.modrinth.com/data/HVnmMxH1/versions/6lz4f6iK/ComplementaryReimagined_r5.2.1.zip",
+                "https://github.com/ComplementaryDevelopment/ComplementaryReimagined/releases/download/latest/ComplementaryReimagined_r5.2.1.zip"
             ],
-            "fileSize": 409956
+            "fileSize": 439882
         },
         {
-            "path": "shaderpacks/ComplementaryUnbound_r5.1.1.zip",
+            "path": "shaderpacks/ComplementaryUnbound_r5.2.1.zip",
             "hashes": {
-                "sha1": "65c7ef20fef4b5b03aa44afccbfdfdd82574c193",
-                "sha512": "1610ec72806fdd9b36f3f50cd97f587612fa4d7564d15ddff575265c67e406bc6d8e65ef9e0bd945b79207189cbb6b1e77ba5b3b9c6fb68a2364bd248532143d"
+                "sha1": "ba698efd157df6dcd90164f4be8717d214989408",
+                "sha512": "04252b14ee4c86e801183f150f500b4cab4000115f1a6b224629989e753d23fb15378faac6a9df69f9701ea2699bcb0184cfbd8847725e1743d57d082eb5f250"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/R6NEzAwj/versions/MCqlWur4/ComplementaryUnbound_r5.1.1.zip"
+                "https://cdn.modrinth.com/data/R6NEzAwj/versions/qWTl3wic/ComplementaryUnbound_r5.2.1.zip",
+                "https://github.com/ComplementaryDevelopment/ComplementaryReimagined/releases/download/latest/ComplementaryUnbound_r5.2.1.zip"
             ],
-            "fileSize": 409957
+            "fileSize": 439886
         }
     ],
     "dependencies": {
