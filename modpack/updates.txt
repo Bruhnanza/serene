@@ -1,3 +1,3 @@
-- Updated Artifacts, Complementary Shaders, e4mc, Elytra Trims, Enhanced Block Entities, Indium, Particular, Simple HUD Enhanced, Stormilla, Utility Belt, Xaero's Minimap, Xaero's World Map
+- Updated Animatica, Artifacts, Charged Charms, Complementary Shaders, Configurable Everything, Controlify, e4mc, Elytra Trims, Enhanced Block Entities, Entity Culling, Entity Texture Features, Fabric Kotlin Extensions, ImmediatelyFast, Indium, Lenient Death, Not Enough Animations, Particular, Simple HUD Enhanced, Simple Voice Chat, Stormilla, Utility Belt, Xaero's Minimap, Xaero's World Map, YetAnotherConfigLib, 3D Skin Layers
 - Added Sushi Bar
 - Items to not update: Iris
