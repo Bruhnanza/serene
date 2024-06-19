@@ -73,16 +73,16 @@
             "fileSize": 1009401
         },
         {
-            "path": "mods/Controlify-2.0.0-beta.12+1.20.4-fabric.jar",
+            "path": "mods/Controlify-2.0.0-beta.13+1.20.4-fabric.jar",
             "hashes": {
-                "sha1": "7ffb7ecc1f852935e9a021fc8c499700a8891955",
-                "sha512": "be38ca54a82c9c91b4480cf078034e83b697943f514ab826b9cebc3f28905a32080e25239734275c6261e912a4199057bd0b861f0855dc35e72f2302e55c89e1"
+                "sha1": "529d2b49deb8d44c0de8832453873bafa125e360",
+                "sha512": "91d652c1669cfb144454497f56b09075b23b560ff312f264ba83fd12808958514b9cc54575600890654b72dda49159186acd8fad13f95d9223a378c4fa9608e0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/xDTfzNlO/Controlify-2.0.0-beta.12%2B1.20.4-fabric.jar",
-                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.12%2B1.20.4-fabric/Controlify-2.0.0-beta.12+1.20.4-fabric.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/KZm7UQoN/Controlify-2.0.0-beta.13%2B1.20.4-fabric.jar",
+                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.13%2B1.20.4-fabric/Controlify-2.0.0-beta.13+1.20.4-fabric.jar"
             ],
-            "fileSize": 2727693
+            "fileSize": 2749052
         },
         {
             "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
@@ -360,15 +360,15 @@
             "fileSize": 458056
         },
         {
-            "path": "mods/modmenu-9.2.0-beta.2.jar",
+            "path": "mods/modmenu-9.2.0.jar",
             "hashes": {
-                "sha1": "ae50f27e17e1c6b9da1293c391729f4bd5e63f65",
-                "sha512": "e8a73596f6ed279a9c4da7d2c0e9c5f08a8deb563626dcc47380be93f15cfcff9c12e2973317f6306cd53842b1eb0cdd62f4dbd75f580edb00476b3e4435331e"
+                "sha1": "b8b1e21d42e74c1b4ea16e9846c2198dc84352bc",
+                "sha512": "30e8075a4228ee11eb8b0e85d950a69c8d2df57e05b0da5268e6b0129eea5e69ac30e6eb1b4c93348bb8acfdc53c22b2866288d76f7446b51b79355f4eada87a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/ybV7vGT5/modmenu-9.2.0-beta.2.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/FawTQg29/modmenu-9.2.0.jar"
             ],
-            "fileSize": 742941
+            "fileSize": 963019
         },
         {
             "path": "mods/morechathistory-1.3.0.jar",
@@ -517,16 +517,16 @@
             "fileSize": 17373
         },
         {
-            "path": "mods/Zoomify-2.13.5+1.20.4.jar",
+            "path": "mods/Zoomify-2.14.0+1.20.4.jar",
             "hashes": {
-                "sha1": "92a7290f1b929690c4e44e2209cca51c47a17a74",
-                "sha512": "9a14c645b1d576bad42afd7f1427bdcaa2895f66c816d3d11449642ece67079c07aa4274c3f7258cfd7c4663077f7072664fb67cf21baeb40006875e50f70b30"
+                "sha1": "962a86ae17d17db28046f3daf1a91fa7e5747626",
+                "sha512": "9aeaf33f991fc9761f25a6a79f3979d8a8a50e8e24ba6c56e07bf38e42f87c090f9ab64f5925b300ff9848a1c9d63defca4530420eb00c8327aa01462cc136e8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/OggLUOr6/Zoomify-2.13.5%2B1.20.4.jar",
-                "https://github.com/isXander/Zoomify/releases/download/2.13.5%2B1.20.4/Zoomify-2.13.5+1.20.4.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/hzEfkIGF/Zoomify-2.14.0%2B1.20.4.jar",
+                "https://github.com/isXander/Zoomify/releases/download/2.14.0%2B1.20.4/Zoomify-2.14.0+1.20.4.jar"
             ],
-            "fileSize": 1061997
+            "fileSize": 809489
         },
         {
             "path": "mods/appleskin-fabric-mc1.20.3-2.5.1.jar",
@@ -639,15 +639,15 @@
             "fileSize": 1218710
         },
         {
-            "path": "mods/emi-1.1.6+1.20.4+fabric.jar",
+            "path": "mods/emi-1.1.7+1.20.4+fabric.jar",
             "hashes": {
-                "sha1": "78168e345f09d3e7f610cb2a92cbcfed3e603e22",
-                "sha512": "bdb5d06208ecac8f307b8c67aebee93ff81011633bf00226d9484c87c89928475b3c1b56c55e771d59573850438cc9d636f2ef7b5072aa55aeeb133b466a0689"
+                "sha1": "a0bbbfcb4606d3956007794c1767fd65dbf96744",
+                "sha512": "6818c3febf6512bf1aef71ba2b63379c6c676a5985fa14b4fe5523e6522823685aba05ab79a27f6af1bc577582ea631369ef4777324acfb126ca2066d76bf072"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/fRiHVvU7/versions/1vKrnGbh/emi-1.1.6%2B1.20.4%2Bfabric.jar"
+                "https://cdn.modrinth.com/data/fRiHVvU7/versions/fIS5SA07/emi-1.1.7%2B1.20.4%2Bfabric.jar"
             ],
-            "fileSize": 962506
+            "fileSize": 964218
         },
         {
             "path": "mods/enhanced_attack_indicator-1.0.4+1.20.3.jar",
@@ -850,15 +850,15 @@
             "fileSize": 195169
         },
         {
-            "path": "mods/sushi_bar-0.2.0.jar",
+            "path": "mods/sushi_bar-0.2.1+1.20.3.jar",
             "hashes": {
-                "sha1": "546affa6e8b6f47d19102e70491d348490c0faf2",
-                "sha512": "ba1f95876c7e20423d5b81f115a0f4c85a54b83df41ef77167fd9c58cc02fab90da2a045d512e74a31dbace444fc83e0c018fc84bf56c529cb5e7e6ae539ee26"
+                "sha1": "d93318f9289ef520e442af653821ffadbdf7f383",
+                "sha512": "ab2c7bc356fa04ac1397ad915bfe4310e0da0ef579e7e974dbabb7ffb1375def4a14d84d6898a7909099d2f5cdc2986ec6f403bc19a465d376cc830800fa733f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tr2Mv6ke/versions/9eon4YAc/sushi_bar-0.2.0.jar"
+                "https://cdn.modrinth.com/data/tr2Mv6ke/versions/l8w6xOL8/sushi_bar-0.2.1%2B1.20.3.jar"
             ],
-            "fileSize": 96780
+            "fileSize": 94220
         },
         {
             "path": "mods/TES-fabric-1.20.4-1.5.1.jar",
@@ -872,15 +872,15 @@
             "fileSize": 183236
         },
         {
-            "path": "mods/voicechat-fabric-1.20.4-2.5.16.jar",
+            "path": "mods/voicechat-fabric-1.20.4-2.5.17.jar",
             "hashes": {
-                "sha1": "d410104fd88cf82beeb443a101c41cefd54958b9",
-                "sha512": "ac22a4e707364b17fb641241d650614f9c1d396da2d5bdee29576621019e938cb7be1c54a2eb3d1e2970bd4226bc0a90aff410ffeae46f00891a12f33d7f35ec"
+                "sha1": "b7aefe851e41b8a42fae4df9a68e5c19b3a03517",
+                "sha512": "92584e8a4326e8cc8cf87d30b085286781468d21e85efcd68d9bbadf026677878416138a86de15cf0691224d89d5874f657382234b45651d74d297408d0e6206"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9eGKb6K1/versions/ZI0hHcIx/voicechat-fabric-1.20.4-2.5.16.jar"
+                "https://cdn.modrinth.com/data/9eGKb6K1/versions/JF7i7cZI/voicechat-fabric-1.20.4-2.5.17.jar"
             ],
-            "fileSize": 8127216
+            "fileSize": 8128747
         },
         {
             "path": "mods/waveycapes-fabric-1.4.7-mc1.20.4.jar",
@@ -1048,15 +1048,15 @@
             "fileSize": 462475
         },
         {
-            "path": "mods/cicada-lib-0.7.2+1.20.2-1.20.4.jar",
+            "path": "mods/cicada-lib-0.8.0+1.20.2-1.20.4.jar",
             "hashes": {
-                "sha1": "d24e82034c910cc3d8614542787eeb02c9a72e2b",
-                "sha512": "e8feae0b1ecab74fa1dee600bc1cae41df6285136bf38675a83376fa7cb0d68f5dc835220dfcadae438e944dc2c31c086cb046e60f1a72a9a69be2250aab96f3"
+                "sha1": "cb1a1592b3196a202ca27f0b376b3c273cf009b4",
+                "sha512": "4a7a7fe7a4f4e7e6da4ef983a856abd24eab005dd2b4dbc1c463667f3fece6dc1c4a3dd8ced3c49c46e4a476e1b624bd6ade7ea9866f7ca8e1348a740644ddf5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/IwCkru1D/versions/bDA9VZEp/cicada-lib-0.7.2%2B1.20.2-1.20.4.jar"
+                "https://cdn.modrinth.com/data/IwCkru1D/versions/E0WgVnaa/cicada-lib-0.8.0%2B1.20.2-1.20.4.jar"
             ],
-            "fileSize": 84124
+            "fileSize": 85792
         },
         {
             "path": "mods/comforts-fabric-7.2.2+1.20.4.jar",
@@ -1114,15 +1114,15 @@
             "fileSize": 431064
         },
         {
-            "path": "mods/ctov-fabric-3.4.3.jar",
+            "path": "mods/[Fabric]CTOV-v.3.4.4.jar",
             "hashes": {
-                "sha1": "1e16b2bba2074b90a1db48ee04db8c901151b9df",
-                "sha512": "8b6823ac84235268626e8b1c137a20f4f32cfc3956e9c890aea1e3e6aea3f2006fc4bef67c5fed200dedb2e3fd40676714644e2fed08f9f271d9e8d72016d92c"
+                "sha1": "15a18fdc16fd7e18ff5c6c3799a3a93714eb3bd4",
+                "sha512": "f3467752b6a9647d15301ba2207c9e6b44f7fd76feb81b127a5695ee30a2b5af7b559b177c5031bdb98fb22fb015e8ed0a5eb61c7e27f06cdca0178533ede245"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/fgmhI8kH/versions/KXEQACvr/ctov-fabric-3.4.3.jar"
+                "https://cdn.modrinth.com/data/fgmhI8kH/versions/IA9IQPz7/%5BFabric%5DCTOV-v.3.4.4.jar"
             ],
-            "fileSize": 5058098
+            "fileSize": 5081030
         },
         {
             "path": "mods/do_a_barrel_roll-fabric-3.6.0+1.20.4.jar",
@@ -1136,15 +1136,15 @@
             "fileSize": 503060
         },
         {
-            "path": "mods/elytratrims-fabric-3.1.9+1.20.4.jar",
+            "path": "mods/elytratrims-fabric-3.2.0+1.20.4.jar",
             "hashes": {
-                "sha1": "07396d52d70d1ab7872c0cd6cc5c5628ce240569",
-                "sha512": "695c71b055d41c7c29df8b8244c7fe1d9ce7dad372d08c31968fc41692886f09131889eb281ee942bc87437955923859b278600c9bde44ea1c25a7b91a6a3e66"
+                "sha1": "5dfde7207d95b58180229e806da9ace214d5e419",
+                "sha512": "143e9f91924745f8244f66dc1f37216fe75b97eb79f47af2a03c3d76c9b62d1c8f4e538fd9eced0d9622d2f71f7d6ba606519e156442dae0b5e2142290018465"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XpzGz7KD/versions/AaxuZxCi/elytratrims-fabric-3.1.9%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/XpzGz7KD/versions/PFDO05xr/elytratrims-fabric-3.2.0%2B1.20.4.jar"
             ],
-            "fileSize": 530386
+            "fileSize": 569446
         },
         {
             "path": "mods/emitrades-fabric-1.3.0+mc1.20.4.jar",
@@ -1543,15 +1543,15 @@
             "fileSize": 20844
         },
         {
-            "path": "mods/t_and_t-1.12.1.1.jar",
+            "path": "mods/t_and_t-1.13.1b.jar",
             "hashes": {
-                "sha1": "7120a6305799a028c371acc61e495e6c4cfba5f6",
-                "sha512": "47899818053231832bbc16348cb89b5806185cdc8f954cd5339402c19f1dec76956ad81d6a88ce2c3ffd26a788dd1e9fbe84c32334d6e517db62cfc6408bf0e0"
+                "sha1": "365689ed08b52e8cde89796d30daf12583b3d9d0",
+                "sha512": "9b3d8e2090d09fd8901d3b6a7b90920a7c8c4a25c4ae44969cde6b8d2e8a4940459c4f415fd33ec77e170cc44a3e1eee8d04b12fb7eeb7ee58c2487be471c73d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DjLobEOy/versions/bwfVhUnU/t_and_t-1.12.1.1.jar"
+                "https://cdn.modrinth.com/data/DjLobEOy/versions/cjQk2Nq8/t_and_t-1.13.1b.jar"
             ],
-            "fileSize": 3522384
+            "fileSize": 3599027
         },
         {
             "path": "mods/TerraBlender-fabric-1.20.4-3.3.0.12.jar",
