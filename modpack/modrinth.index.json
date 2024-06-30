@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "2.3",
+    "versionId": "2.4",
     "name": "Serene",
     "summary": "Kick back, relax, and enjoy a tranquil Minecraft experience.",
     "files": [
@@ -1123,15 +1123,15 @@
             "fileSize": 5081030
         },
         {
-            "path": "mods/do_a_barrel_roll-fabric-3.6.0+1.20.4.jar",
+            "path": "mods/do_a_barrel_roll-fabric-3.5.6+1.20.4.jar",
             "hashes": {
-                "sha1": "495f83f558d62fd71dc2324e756619962989a913",
-                "sha512": "83a856ecdee691035f430ad81c7f3fdd21eb8f1c0fe2cf118b6b3d350082e2e98758a80b5989bdf853a9d3962f580b74a48da125dfbe270a2166570327794348"
+                "sha1": "31643b28e86fd82f925738cc7179558aa6335a1d",
+                "sha512": "05052930f32b504ca86ba9c69a3bf6b57cd0abb6c063d8ad8f277e2248acf56128227c7ed28a4a6697524b48769cd3ba588e8811b3289f8cb563afa33a4ce9eb"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/6FtRfnLg/versions/vnywyrWt/do_a_barrel_roll-fabric-3.6.0%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/6FtRfnLg/versions/9xcYWEMM/do_a_barrel_roll-fabric-3.5.6%2B1.20.4.jar"
             ],
-            "fileSize": 503060
+            "fileSize": 502498
         },
         {
             "path": "mods/elytratrims-fabric-3.2.0+1.20.4.jar",
