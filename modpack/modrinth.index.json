@@ -73,16 +73,15 @@
             "fileSize": 1009401
         },
         {
-            "path": "mods/Controlify-2.0.0-beta.13+1.20.4-fabric.jar",
+            "path": "mods/Controlify-2.0.0-beta.8+1.20.4.jar",
             "hashes": {
-                "sha1": "529d2b49deb8d44c0de8832453873bafa125e360",
-                "sha512": "91d652c1669cfb144454497f56b09075b23b560ff312f264ba83fd12808958514b9cc54575600890654b72dda49159186acd8fad13f95d9223a378c4fa9608e0"
+                "sha1": "852934980d899cfdd2e8ef6a5d8fb3991fb073f7",
+                "sha512": "95d35f3e3cc2b8fd01e905da46481af3c54e0d8e0f9a106bc89e8d626878f54990b61d7ab64cafb307710f96becdac36baa7663b2f2f6c08c1b3ac0fd4bb6fa2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/KZm7UQoN/Controlify-2.0.0-beta.13%2B1.20.4-fabric.jar",
-                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.13%2B1.20.4-fabric/Controlify-2.0.0-beta.13+1.20.4-fabric.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/Q5nQC6JX/Controlify-2.0.0-beta.8%2B1.20.4.jar"
             ],
-            "fileSize": 2749052
+            "fileSize": 2452976
         },
         {
             "path": "mods/cubes-without-borders-2.0.1+1.20.jar",
@@ -382,15 +381,15 @@
             "fileSize": 3546
         },
         {
-            "path": "mods/moreculling-1.20.4-0.24.0.jar",
+            "path": "mods/moreculling-1.20.4-0.23.1.jar",
             "hashes": {
-                "sha1": "a40f2aa346140a4fee2079d845c62ee87454bdb6",
-                "sha512": "3a8accedfa48ce86b4091ce7994d63b2c7d1f6654119a5dc8430bd7370084bf04801c71600bb2b1546a58aef972797048f86eebbff2a666905a86c2b1cf7632e"
+                "sha1": "6003a87e848fac99c8fe856e7f70fe4b7653220c",
+                "sha512": "ac389f0a132eb8db24e4f397683769f873b07c61b914a06293ec8ff2f20b9341db9a973fd23aef14aa5fe1f5942bd0f6d59596ef77243718f8abea57ed842a7f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/3m5znPWm/moreculling-1.20.4-0.24.0.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/gZW2FlFT/moreculling-1.20.4-0.23.1.jar"
             ],
-            "fileSize": 272851
+            "fileSize": 272244
         },
         {
             "path": "mods/NoChatReports-FABRIC-1.20.4-v2.6.1.jar",
@@ -517,16 +516,15 @@
             "fileSize": 17373
         },
         {
-            "path": "mods/Zoomify-2.14.0+1.20.4.jar",
+            "path": "mods/Zoomify-2.13.4+1.20.4.jar",
             "hashes": {
-                "sha1": "962a86ae17d17db28046f3daf1a91fa7e5747626",
-                "sha512": "9aeaf33f991fc9761f25a6a79f3979d8a8a50e8e24ba6c56e07bf38e42f87c090f9ab64f5925b300ff9848a1c9d63defca4530420eb00c8327aa01462cc136e8"
+                "sha1": "4d01964df2daf172778585b1eaef8d62ff3cf9d3",
+                "sha512": "538caa099e9dae509dcd106f86f4152c1c9dd8ddc458f3860c1a56e934339f026dd559b70410bcc74a5a7fcd2f6ab044e5b86489e80e67cbf7b324894564a58f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/hzEfkIGF/Zoomify-2.14.0%2B1.20.4.jar",
-                "https://github.com/isXander/Zoomify/releases/download/2.14.0%2B1.20.4/Zoomify-2.14.0+1.20.4.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/VfWNmPC4/Zoomify-2.13.4%2B1.20.4.jar"
             ],
-            "fileSize": 809489
+            "fileSize": 1064862
         },
         {
             "path": "mods/appleskin-fabric-mc1.20.3-2.5.1.jar",
