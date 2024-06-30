@@ -85,16 +85,16 @@
             "fileSize": 2749052
         },
         {
-            "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
+            "path": "mods/cubes-without-borders-2.0.1+1.20.jar",
             "hashes": {
-                "sha1": "e54a2c4b4817efb93a2ce7cb78bf8a2d1136b6cd",
-                "sha512": "25aeed75a51668271649fe67c265caa47318eeb221e3535a1ebc8df8d2220be933505b158517099f9ae3ffb1ca4d2f5df3f466442e371f42afba1dc866945221"
+                "sha1": "fdff534833c83267fd5f1b098b7ffbabeb55b8d4",
+                "sha512": "47954b06ca326a2eb2cb67b433f36c147a0aa852e7682906b6dabf955ba788ae79983becda01774ae8d7ca6e71d9e67985c88143edbd141c8706f0496eaf24b2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ETlrkaYF/versions/IQtaUFAv/cubes-without-borders-1.1.0%2B1.20.jar",
-                "https://github.com/Kir-Antipov/cubes-without-borders/releases/download/1.1.0%2B1.20/cubes-without-borders-1.1.0%2B1.20.jar"
+                "https://cdn.modrinth.com/data/ETlrkaYF/versions/yK8WqPMm/cubes-without-borders-2.0.1%2B1.20.jar",
+                "https://github.com/Kir-Antipov/cubes-without-borders/releases/download/2.0.1%2B1.20/cubes-without-borders-2.0.1+1.20.jar"
             ],
-            "fileSize": 39258
+            "fileSize": 54892
         },
         {
             "path": "mods/Debugify-1.20.4+1.1.jar",
@@ -109,15 +109,15 @@
             "fileSize": 270096
         },
         {
-            "path": "mods/dynamic-fps-3.4.3+minecraft-1.20.0-fabric.jar",
+            "path": "mods/dynamic-fps-3.5.1+minecraft-1.20.0-fabric.jar",
             "hashes": {
-                "sha1": "30b60a63c1dc1688f16ac3a8ef97d76b71397d97",
-                "sha512": "ab9cac5578b3636a47ca972823f7adcecf2233a5590cfcca5197fdca7aa51514e5a51b9fdd5e07c36354900104cc8bba59460424579a90b3f7d23c172e5996fd"
+                "sha1": "975ddd5e460a20d374c1b918d2a00b06c9ebe694",
+                "sha512": "fe5fbf941284832cbf6b4fd4f1fb8474581415cb61a2bb641672d09b39f7f7eb40cc0ea6600897ae1d225b128e11c6e0a4770d9d9fbe32f501913aa53404e43f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/48hFxWw7/dynamic-fps-3.4.3%2Bminecraft-1.20.0-fabric.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/jdsdQwkB/dynamic-fps-3.5.1%2Bminecraft-1.20.0-fabric.jar"
             ],
-            "fileSize": 99715
+            "fileSize": 177928
         },
         {
             "path": "mods/e4mc_minecraft-5.0.0-fabric.jar",
@@ -639,15 +639,15 @@
             "fileSize": 1218710
         },
         {
-            "path": "mods/emi-1.1.7+1.20.4+fabric.jar",
+            "path": "mods/emi-1.1.8+1.20.4+fabric.jar",
             "hashes": {
-                "sha1": "a0bbbfcb4606d3956007794c1767fd65dbf96744",
-                "sha512": "6818c3febf6512bf1aef71ba2b63379c6c676a5985fa14b4fe5523e6522823685aba05ab79a27f6af1bc577582ea631369ef4777324acfb126ca2066d76bf072"
+                "sha1": "51fb0d99f99f96e271eb083bdd8f57c2bee4286c",
+                "sha512": "57bee51b916fa78032dbbea324a627318cf885e04c70c5734b6a4fde3ed7f48c80655dfb482def32c682466f3d3ce4b5dff122db88f0ee1f4c0f21f56865ff45"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/fRiHVvU7/versions/fIS5SA07/emi-1.1.7%2B1.20.4%2Bfabric.jar"
+                "https://cdn.modrinth.com/data/fRiHVvU7/versions/seQG8huJ/emi-1.1.8%2B1.20.4%2Bfabric.jar"
             ],
-            "fileSize": 964218
+            "fileSize": 964234
         },
         {
             "path": "mods/enhanced_attack_indicator-1.0.4+1.20.3.jar",
@@ -816,16 +816,16 @@
             "fileSize": 1225846
         },
         {
-            "path": "mods/simple-hud-enhanced+1.20-1.20.4-4.6.2.jar",
+            "path": "mods/simple-hud-enhanced+1.20-1.20.4-4.7.0.jar",
             "hashes": {
-                "sha1": "fe1ba554a5913852e5f5e7f51ddca3b04df2a8e6",
-                "sha512": "60f5b6b7ae9b0ca1dd92d9d116f61037992b0d500d95727887d67f929432cd58623af9c2e2dc66f8613083246bb58dc46b456d988e294a12044e21e6aa9f40e1"
+                "sha1": "2c7ca958527d3d8a8bc879e0a92fecaef81777ac",
+                "sha512": "e69a6d73a57ea92692f71c789ae6d9caa1bbcba29bb56be21ca1d1a9853a2821bd41357cdd16e3f2db705dad66a7ed009e9aab87f17e3db5aff278557ce8c615"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PE656UHx/versions/v9eOnBC5/simple-hud-enhanced%2B1.20-1.20.4-4.6.2.jar",
-                "https://github.com/SoRadGaming/Simple-HUD-Enhanced/releases/download/v4.6.2/simple-hud-enhanced+1.20-1.20.4-4.6.2.jar"
+                "https://cdn.modrinth.com/data/PE656UHx/versions/AwQkVWHL/simple-hud-enhanced%2B1.20-1.20.4-4.7.0.jar",
+                "https://github.com/SoRadGaming/Simple-HUD-Enhanced/releases/download/v4.7.0/simple-hud-enhanced+1.20-1.20.4-4.7.0.jar"
             ],
-            "fileSize": 1121099
+            "fileSize": 1132507
         },
         {
             "path": "mods/skinlayers3d-fabric-1.6.6-mc1.20.4.jar",
@@ -1092,15 +1092,15 @@
             "fileSize": 59456
         },
         {
-            "path": "mods/cratedelight-2024.05.05-1.20-fabric.jar",
+            "path": "mods/cratedelight-2024.06.21-1.20-fabric.jar",
             "hashes": {
-                "sha1": "6a7d9dac95c139894f93f163babca65fbe0e4e26",
-                "sha512": "e023d98ec2c55dc9f7c71e079c59b94db36a0bfc633c3274b1e9affda90a5a73dc7fe78c472c6a890469db98ca5f7f885ac2bd21cc902b90b1bd2e392bec6838"
+                "sha1": "5744c2caf4e88180dbf9bbf33789a59600baf215",
+                "sha512": "93b550164663b4d8d935b8632b884ba12b77ee912a44be6f9465c1d45d29d3aa2d499a3d17291a30c8a2a82902c7daf8fdf90f7cd8c9ab3d83caefb9490f07c5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9rlXSyLg/versions/whKMCImw/cratedelight-2024.05.05-1.20-fabric.jar"
+                "https://cdn.modrinth.com/data/9rlXSyLg/versions/i45cIUOG/cratedelight-2024.06.21-1.20-fabric.jar"
             ],
-            "fileSize": 136938
+            "fileSize": 149873
         },
         {
             "path": "mods/cristellib-1.2.4-fabric.jar",
@@ -1180,15 +1180,15 @@
             "fileSize": 164218
         },
         {
-            "path": "mods/explorify-v1.4.0.jar",
+            "path": "mods/Explorify v1.6.1 f10-48.jar",
             "hashes": {
-                "sha1": "dd28a037daff1ba5785a482cd714fffa4fa40765",
-                "sha512": "fc47ddf8a31553a90615cdc54c2f61f2bdaa916840337cb0182bed41280d119a469d5447993c2472e32315b94bea77a8bbde845fed013798594fc35a21692661"
+                "sha1": "9c4cf5349f2fb6229d20cfa5008f82f512258b73",
+                "sha512": "826e19bb067ff2e42b18ca7b26b0adc0af3be146c5a281a9e4e0d1b13331fcb78085bfe038b22e54b17bfd5c7d668f55e280cbb332b0cd75aaaafc8ea13b03fe"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HSfsxuTo/versions/XfMVshu1/explorify-v1.4.0.jar"
+                "https://cdn.modrinth.com/data/HSfsxuTo/versions/ovtuGAG4/Explorify%20v1.6.1%20f10-48.jar"
             ],
-            "fileSize": 204832
+            "fileSize": 974913
         },
         {
             "path": "mods/FabricKotlinExtensions-1.1.jar",
@@ -1202,15 +1202,15 @@
             "fileSize": 60484466
         },
         {
-            "path": "mods/fallingtrees-0.12.1-fabric-1.20.jar",
+            "path": "mods/fallingtrees-fabric-0.12.3-1.20.jar",
             "hashes": {
-                "sha1": "fc059f1b40e1aef40aabec89ab0c365655ac97e7",
-                "sha512": "16515d03cbbbbfc18866dde37fe8d76ca7ef96a10f2a18457c154d09b629a1146320aa1b2fecae86b83b57f4884b06861ef82946e76d7c74678b4ad49485071f"
+                "sha1": "b2b3606d0068847db2b0b4d5c9bb265e9062d985",
+                "sha512": "a7252c9cdbaf396b18572943fba93e57fed1d0fe8f9b943944de8fafc60d2e29461e6345be09cf2751a2c14a0ae7b7ec38b4812ba9f502d3d849b5acdc593f2b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/i2kUe4lq/versions/sW1aVE2R/fallingtrees-0.12.1-fabric-1.20.jar"
+                "https://cdn.modrinth.com/data/i2kUe4lq/versions/TqbQRqGv/fallingtrees-fabric-0.12.3-1.20.jar"
             ],
-            "fileSize": 4005467
+            "fileSize": 4004162
         },
         {
             "path": "mods/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar",
@@ -1312,15 +1312,15 @@
             "fileSize": 4638945
         },
         {
-            "path": "mods/indypets-1.3.4-1.20.1.jar",
+            "path": "mods/indypets-1.3.5-1.20.1.jar",
             "hashes": {
-                "sha1": "b3cf44ea6181efa737041cc716fdcd32b6c17b95",
-                "sha512": "7b501b6c03a301c510077c7fdd461515096b5018470beb03b6a64f056d57129d50e9d996165694f22f4f23d2808033f7be9f75e80b4f15654429c589eb065d06"
+                "sha1": "996d35e14da61819ceef7f0d3731d2160c08edc9",
+                "sha512": "853f66990ea3108c402feec6782d31d9f4053d99055de4771df56b5405612cf6d64e661f21e57138e08099a16b85a374af507b67d8917fe5433187cfa34cdba0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/SVJhmJvx/versions/IQzbczjG/indypets-1.3.4-1.20.1.jar"
+                "https://cdn.modrinth.com/data/SVJhmJvx/versions/w1YuFieR/indypets-1.3.5-1.20.1.jar"
             ],
-            "fileSize": 183893
+            "fileSize": 186836
         },
         {
             "path": "mods/jamlib-fabric-1.0.9+1.20.4.jar",
@@ -1389,15 +1389,15 @@
             "fileSize": 12331746
         },
         {
-            "path": "mods/mru-0.4.2+1.20.4.jar",
+            "path": "mods/mru-0.4.4+1.20.4.jar",
             "hashes": {
-                "sha1": "1620d2583ad6895773e5e88c4bdec507c96d4b1d",
-                "sha512": "d057596abf8f53f99ac612363cd526922a658ad34cb34f35a0a19be00ebf2ddfee8cd9926ceab78cc41046057dc15651112a91c2c60efaf6c1b1fddf6be5ce6d"
+                "sha1": "de28f6e0e1b3a70cbbe0ff643ba13fae00595e94",
+                "sha512": "befc5808377145400b017c4de349221e028f2c8a0800a1cf166fdf98920d5549eedadff65176439438841bd0b7ccc8864a53694b5f56e78e2236ae2ca9825d4c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/SNVQ2c0g/versions/ojiMgnPu/mru-0.4.2%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/SNVQ2c0g/versions/T06gnMAz/mru-0.4.4%2B1.20.4.jar"
             ],
-            "fileSize": 1183358
+            "fileSize": 1183717
         },
         {
             "path": "mods/NaturesCompass-1.20.4-2.2.3-fabric.jar",
@@ -1411,15 +1411,15 @@
             "fileSize": 226199
         },
         {
-            "path": "mods/Nullscape_1.20.x_v1.2.5.jar",
+            "path": "mods/Nullscape_1.20.x_v1.2.6.jar",
             "hashes": {
-                "sha1": "87d1f39ada0de27a0c0983cebf38d3cdedeb0681",
-                "sha512": "c074913dcc1e574951a83fb870037f59dea57846762073e91c01488310c128793551491e057f9a0f1bee19d886b5b7f91d4324a5e3e56768476fed180cd778de"
+                "sha1": "ad4ca87b175560dc6a46e5137f188a5f919e3ec9",
+                "sha512": "6965021a438aacbec18161c05e0ac7a8afe02317b30487ee96a552e1bbee6790c72846d987cf99271f95b7533eb3aec9e68265ef0a9b5aed15d38233a5cfae77"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LPjGiSO4/versions/3l2vW51m/Nullscape_1.20.x_v1.2.5.jar"
+                "https://cdn.modrinth.com/data/LPjGiSO4/versions/YRGl9OtT/Nullscape_1.20.x_v1.2.6.jar"
             ],
-            "fileSize": 406798
+            "fileSize": 398325
         },
         {
             "path": "mods/open-parties-and-claims-fabric-1.20.4-0.22.0.jar",
@@ -1433,15 +1433,15 @@
             "fileSize": 1374122
         },
         {
-            "path": "mods/pandalib-0.2.1-fabric-1.20.jar",
+            "path": "mods/pandalib-fabric-0.3.1-1.20.jar",
             "hashes": {
-                "sha1": "5105e3eeeb6d758e0da6d79b573543bb4ca7683d",
-                "sha512": "719dd5902ea32e822cb432bb4abe556f0a26b41a88906128e7067c3a3ceeb718328dd0d0903352d3a9020ddb43355576d82c854d790138db39c0ad8cc3cc336f"
+                "sha1": "98afea38034d6b093deb0819334b621874d16fc3",
+                "sha512": "625ae5a4676a82648417569443d204a0ddd83944a3bfd158e9b04c27c9c944bf645b19ce1e0791b0cdcbd60ca799306b943df04008fa7c4b572809da9acc2289"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mEEGbEIu/versions/rl4OyHZR/pandalib-0.2.1-fabric-1.20.jar"
+                "https://cdn.modrinth.com/data/mEEGbEIu/versions/W8YdKNQu/pandalib-fabric-0.3.1-1.20.jar"
             ],
-            "fileSize": 44473
+            "fileSize": 90929
         },
         {
             "path": "mods/radiantgear-fabric-3.0.0+1.20.4.jar",
@@ -1521,15 +1521,15 @@
             "fileSize": 1490962
         },
         {
-            "path": "mods/SnowUnderTrees-2.3.0+1.20.4.jar",
+            "path": "mods/SnowUnderTrees-2.4.0+1.20.4.jar",
             "hashes": {
-                "sha1": "da9fc6bb02b98f14494971ff531a4078c25aab61",
-                "sha512": "8f146dccd248683a77948cbad40c06cb5fd1df4fcda04402a0efdd8a10d54258ce696fee9c7bfc4edfe81be475604ddf88eb6cc0b740cb9b6f649f48e9e68542"
+                "sha1": "5f2063aa3ec89c6b99d4c29ef8378aba55384c36",
+                "sha512": "e2302e5b5eb99e1b6f4a56fb7d0e4c39fe764d78f0b0c29cebce76886174cc9af66fe56805b220ead69b30bd610b5fdfd9feb9d87e42a989a1cc226370fb5045"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XVnUIUAQ/versions/s9c6TDzG/SnowUnderTrees-2.3.0%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/XVnUIUAQ/versions/HvS7gm0a/SnowUnderTrees-2.4.0%2B1.20.4.jar"
             ],
-            "fileSize": 2252692
+            "fileSize": 2407511
         },
         {
             "path": "mods/Soulbound-Fabric-0.2+1.20.2+.jar",
