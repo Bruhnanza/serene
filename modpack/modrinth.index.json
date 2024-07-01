@@ -268,15 +268,15 @@
             "fileSize": 104920
         },
         {
-            "path": "mods/iris-1.7.2+mc1.21.jar",
+            "path": "mods/iris-1.7.3+mc1.21.jar",
             "hashes": {
-                "sha1": "cc155003e9301bafe506f1c66593f19ccb880a40",
-                "sha512": "ac89377a1395603e35563ee4ee8cf0e774d0b5f489e688b0db5f309c3200cb42cb0776d0714c373d78ecb4745a051a9aee17f9564f20e7a8d88f13dc48131622"
+                "sha1": "1b4e44a74c850d407518bc5cbe33eec9577ad9e9",
+                "sha512": "bcd9b4f5cef1521c00b59cc9409725556922a077c60f62ba834dca680e29f334660a7c68150ff827779fb888585042b1ba687dfce6fd4d650507d9c59f023703"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/C9Tu8Kbn/iris-1.7.2%2Bmc1.21.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/kuOV4Ece/iris-1.7.3%2Bmc1.21.jar"
             ],
-            "fileSize": 2707582
+            "fileSize": 2707610
         },
         {
             "path": "mods/language-reload-1.6.1+1.21.jar",
@@ -816,15 +816,15 @@
             "fileSize": 504938
         },
         {
-            "path": "mods/architectury-13.0.2-fabric.jar",
+            "path": "mods/architectury-13.0.3-fabric.jar",
             "hashes": {
-                "sha1": "99b07b15f16372482235d53b932bb04335be17ff",
-                "sha512": "dfba7e4cc4968dd1a8adb570bd8117783cb029a2ec56aad28c6da4b6f1bd3e85f75c201931eb3f7aae3e2103835a66b01fdb8d44f34eea9bc643f4205554821c"
+                "sha1": "083b24e41a39c106a1ef9f03c78ec6b62c8d88c0",
+                "sha512": "0705a4484f77a1f55cb63aa2efc10380da97f9e8dd56e151b2e9cc76620a30f5d738ad61106c9ba0369b803398bab1979033dafa14fb00a1d546dfa3b0b16545"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/lhGA9TYQ/versions/geHK4z6i/architectury-13.0.2-fabric.jar"
+                "https://cdn.modrinth.com/data/lhGA9TYQ/versions/nW3HvWVP/architectury-13.0.3-fabric.jar"
             ],
-            "fileSize": 600764
+            "fileSize": 600779
         },
         {
             "path": "mods/balm-fabric-1.21-21.0.11.jar",
@@ -1201,15 +1201,15 @@
             "fileSize": 384330
         },
         {
-            "path": "mods/SnowRealMagic-1.21-Fabric-11.0.1.jar",
+            "path": "mods/SnowRealMagic-1.21-Fabric-11.0.2.jar",
             "hashes": {
-                "sha1": "813918064c14bb74773b537231cc685eea1adaa4",
-                "sha512": "8e6dff8990733c2f00953c6d3664bfb04163be61ebfd604ce3be1e1cf84ac561ce2b493fa8718b7ebc7949d1d7f3311546b64f494cdaa873f6a41df31f9903f5"
+                "sha1": "4a5724228431f4fa9d8eff7ea4e622cc7f764bd3",
+                "sha512": "cfe86db86b717e436b1e83621d121ea6cdd9693efaa957f9643b06838151f77aead31602baece8cddd984a30c6ebcecc3b3bd6111c8699a4d6a6e1f892813176"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/iJNje1E8/versions/fNFgM8ae/SnowRealMagic-1.21-Fabric-11.0.1.jar"
+                "https://cdn.modrinth.com/data/iJNje1E8/versions/uZKvBhPE/SnowRealMagic-1.21-Fabric-11.0.2.jar"
             ],
-            "fileSize": 184823
+            "fileSize": 187575
         },
         {
             "path": "mods/SnowUnderTrees-2.4.0+1.21.jar",
