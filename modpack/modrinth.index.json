@@ -256,18 +256,6 @@
             "fileSize": 248677
         },
         {
-            "path": "mods/indium-1.0.33+mc1.21.jar",
-            "hashes": {
-                "sha1": "1ad1ca78d1185b4f702def3a0feab7bef7d943d5",
-                "sha512": "b731daebb4dbd573e8fceff0f2039c0b43ed61abc6d772f9d382f93cc27f036a7e6912ee9d22f09602d556331bea9a4729f821eed05301a2718520ab238edcf3"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/w4F7PG0f/indium-1.0.33%2Bmc1.21.jar",
-                "https://github.com/comp500/Indium/releases/download/1.0.33%2Bmc1.21/indium-1.0.33+mc1.21.jar"
-            ],
-            "fileSize": 104920
-        },
-        {
             "path": "mods/iris-1.7.3+mc1.21.jar",
             "hashes": {
                 "sha1": "1b4e44a74c850d407518bc5cbe33eec9577ad9e9",
@@ -1067,6 +1055,17 @@
                 "https://cdn.modrinth.com/data/IYY9Siz8/versions/K86pUXyn/jamlib-fabric-1.0.9%2B1.21.jar"
             ],
             "fileSize": 162179
+        },
+        {
+            "path": "mods/Kiwi-1.21-Fabric-15.1.0.jar",
+            "hashes": {
+                "sha1": "3f405e501f224a172700b42990711ec7671a5f34",
+                "sha512": "88c9ebf065ba6fc1cc1eab4afb4840cc90c3c6934200b182abe0a7def418f5d1fb66ff2a87e0011df1c81b6c9cb851a4a404dd66cfc993db154d972935fc0afb"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ufdDoWPd/versions/mzMc1VzM/Kiwi-1.21-Fabric-15.1.0.jar"
+            ],
+            "fileSize": 915233
         },
         {
             "path": "mods/leaves-us-in-peace-1.1.1+MC1.21.jar",
