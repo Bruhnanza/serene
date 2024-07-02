@@ -926,6 +926,17 @@
             "fileSize": 506912
         },
         {
+            "path": "mods/Enhanced Cats-1.21-0.3.jar",
+            "hashes": {
+                "sha1": "8548159938983068ab90f64b2afdc634c6727799",
+                "sha512": "b0a486b34f953d3876b63d87a16bbce1fe026b2c81a8a4369770ec449a5281846db535b41fe7e32011a92d1c9d00d94d2f92088e940c9be05f26aa538d148435"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/e2R0wxyL/versions/dfxQIzNy/Enhanced%20Cats-1.21-0.3.jar"
+            ],
+            "fileSize": 17315
+        },
+        {
             "path": "mods/elytratrims-fabric-3.3.0+1.21.jar",
             "hashes": {
                 "sha1": "a4629d5df1b09b135f2e5e03f0022fd4ac3aa008",
