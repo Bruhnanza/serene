@@ -716,6 +716,17 @@
             "fileSize": 421988
         },
         {
+            "path": "mods/owo-lib-0.12.10+1.21.jar",
+            "hashes": {
+                "sha1": "858bad410c22e96a863e6f76d8a14966bf53fc9c",
+                "sha512": "b2922b4a85e87a2c6cd2fc9f4b0e6a6ea802bcf517217a050e65b274093a4a54cc4893a2f35e70c18c3db4181f928e3f780049c89ca422e888d1379ab14ba9b2"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ccKDOlHs/versions/1fKeD2p9/owo-lib-0.12.10%2B1.21.jar"
+            ],
+            "fileSize": 1130416
+        },
+        {
             "path": "mods/PresenceFootsteps-1.10.0+1.21.jar",
             "hashes": {
                 "sha1": "bb166be2790dbcd57427534c8fed18c305d2fd6b",
@@ -959,15 +970,26 @@
             "fileSize": 17315
         },
         {
-            "path": "mods/elytratrims-fabric-3.3.0+1.21.jar",
+            "path": "mods/elytratrims-fabric-3.4.0+1.21.jar",
             "hashes": {
-                "sha1": "a4629d5df1b09b135f2e5e03f0022fd4ac3aa008",
-                "sha512": "794fa3b9b0a855516e12a86b960808ff84b6b20108ce6550a616fb8e1c3a4ff5ad657cef1dc4de598229f2ddae551708bebb63d3f7702ce7db3869254e8102a7"
+                "sha1": "368b702b02bc9a204c1cfc7ef1ba9c6e780894d3",
+                "sha512": "153f497cb9ed3753060407d0307fddc59512acb7e47625f284d32fd092d471e1cf4a8da99d4c49c731be28319be614f09ab3817c99e0ad92709cfb631a38d7dd"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XpzGz7KD/versions/uELB3wsb/elytratrims-fabric-3.3.0%2B1.21.jar"
+                "https://cdn.modrinth.com/data/XpzGz7KD/versions/JwzzMol6/elytratrims-fabric-3.4.0%2B1.21.jar"
             ],
-            "fileSize": 580523
+            "fileSize": 583648
+        },
+        {
+            "path": "mods/endrem-fabric-1.21-5.3.0.jar",
+            "hashes": {
+                "sha1": "6acc5176cfa8c4b298a8bc38e281de52b879a407",
+                "sha512": "49f3a403319322cdb884a14671e1f24a3cec37ff7eed13e031c100a17b5c3d7e9eab9066855594d21100142a341406180af28608f540eb1e909b9edd5e2f105e"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ZJTGwAND/versions/iB0XOHDe/endrem-fabric-1.21-5.3.0.jar"
+            ],
+            "fileSize": 1665607
         },
         {
             "path": "mods/ExplorersCompass-1.21-2.2.5-fabric.jar",
@@ -1300,6 +1322,17 @@
             "fileSize": 2408229
         },
         {
+            "path": "mods/soulbound-fabric-1.0.0+1.21.jar",
+            "hashes": {
+                "sha1": "037dbe22844201994b29ec02e65900e2ab98ac1f",
+                "sha512": "f58ea12f9aab1c1f95f535c5300e146bd6e96f7590be209b767e54e93833c52345e723df43dc1c2fd77b78d9b90c46213f9b5374187673faa601ea6291c6cb44"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/MmUmcwom/versions/SwAAVhlq/soulbound-fabric-1.0.0%2B1.21.jar"
+            ],
+            "fileSize": 18995
+        },
+        {
             "path": "mods/tectonic-fabric-1.21-2.4.0.jar",
             "hashes": {
                 "sha1": "8b99740afc6fb07b1967bdbfe82a7a0c3cb25ade",
@@ -1344,15 +1377,26 @@
             "fileSize": 327913
         },
         {
-            "path": "mods/toms_storage_fabric-1.21-2.0.5.jar",
+            "path": "mods/trialrestock-1.0.3-1.21.jar",
             "hashes": {
-                "sha1": "a849bb041e0cfee00eb0ead9b5588547ae6dd503",
-                "sha512": "0d071a453b820a8bdcbf7436c8e1ce59737107a5764dbe300a944798a96b42ca964502703586d59f5492b2ef28d923e990d1f01465116ce4a16f9de7bebf5451"
+                "sha1": "f0798783705de57f8a9b3493ce699df50cdb0e81",
+                "sha512": "07fa95914250172cd6205f187f72ff62cbf3a63a87f315544042007fe9160fbc6275997f26d5fd68cf06457d0eef4c51bf0531e41549ee0b8b894efbf9360db1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XZNI4Cpy/versions/xnCLdUUC/toms_storage_fabric-1.21-2.0.5.jar"
+                "https://cdn.modrinth.com/data/GZXNxeIC/versions/lIlPKqwz/trialrestock-1.0.3-1.21.jar"
             ],
-            "fileSize": 1895729
+            "fileSize": 62611
+        },
+        {
+            "path": "mods/toms_storage_fabric-1.21-2.0.6.jar",
+            "hashes": {
+                "sha1": "71a6471acdbccf52f07ce3fc3b47d7269e57aecc",
+                "sha512": "7d01596a406709a4e0d3882f43f943e9982663eece11cc5cdb35074c62dfc06207b161aed6ceef82068077e4e42aefc8ebf84422e91b098ec393233eac0e3c50"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/XZNI4Cpy/versions/FUKGrRvt/toms_storage_fabric-1.21-2.0.6.jar"
+            ],
+            "fileSize": 1896322
         },
         {
             "path": "mods/travelersbackpack-fabric-1.21-10.0.4.jar",
