@@ -981,15 +981,15 @@
             "fileSize": 583648
         },
         {
-            "path": "mods/endrem-fabric-1.21-5.3.0.jar",
+            "path": "mods/endrem-fabric-1.21-5.3.1.jar",
             "hashes": {
-                "sha1": "6acc5176cfa8c4b298a8bc38e281de52b879a407",
-                "sha512": "49f3a403319322cdb884a14671e1f24a3cec37ff7eed13e031c100a17b5c3d7e9eab9066855594d21100142a341406180af28608f540eb1e909b9edd5e2f105e"
+                "sha1": "5aaf13b0b656dfabe7cea439ae070ea85aa2ebc1",
+                "sha512": "b33744a0c13b11c8b3a992d98e71a6e7d94d8db052a3a83c9db0235a331cd2fdb68fd4fd04f86c6c6cd68a6c87fc6736f1320c9208255bf44b75383c25f9f30e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ZJTGwAND/versions/iB0XOHDe/endrem-fabric-1.21-5.3.0.jar"
+                "https://cdn.modrinth.com/data/ZJTGwAND/versions/nnRhGEm1/endrem-fabric-1.21-5.3.1.jar"
             ],
-            "fileSize": 1665607
+            "fileSize": 919354
         },
         {
             "path": "mods/ExplorersCompass-1.21-2.2.5-fabric.jar",
