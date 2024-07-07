@@ -583,15 +583,15 @@
             "fileSize": 343847
         },
         {
-            "path": "mods/CleanF3-mc1.20.x-0.4.5.jar",
+            "path": "mods/CleanF3-0.4.6.jar",
             "hashes": {
-                "sha1": "f25cac200c9c5990dcbaecd518de42927aff5ccb",
-                "sha512": "a1d9b9d61ddee81f92da3c67b7b67f17792cf52b343c68b6b8801c7e59884386eea84a1ad13fd0c4f3185e6bdbc2c078acf484986b792ef38896fabad976502a"
+                "sha1": "86adfe5a832ae36b804c4ae4a9a9a3c7aede65b2",
+                "sha512": "4fb7a5a8ba45fd59b7ad98265c5542e7aabea46b6acb5be2865adcb8c03db97f334c36c3cc003f8186a752b7f944107cc3e0933465617e122ca976df4d7b33c6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5lvjfaRs/versions/8fZChfSt/CleanF3-mc1.20.x-0.4.5.jar"
+                "https://cdn.modrinth.com/data/5lvjfaRs/versions/70q59npw/CleanF3-0.4.6.jar"
             ],
-            "fileSize": 16192
+            "fileSize": 16297
         },
         {
             "path": "mods/Clumps-fabric-1.21-18.0.0.1.jar",
@@ -749,15 +749,15 @@
             "fileSize": 524155
         },
         {
-            "path": "mods/shulkerboxtooltip-fabric-5.0.2+1.21.jar",
+            "path": "mods/shulkerboxtooltip-fabric-5.0.3+1.21.jar",
             "hashes": {
-                "sha1": "ff14c2ee0214a07dbc69d57b41ac66d80018d3ea",
-                "sha512": "eda7dd129e5893bb1e3338af502247806d833680ed9b6f82d7bea4287bb2599e1eaaa22552ee6a6d2b5e01800c2176ab904f83cbd462ffe9c119f41b9f0968f5"
+                "sha1": "04659d32f46359f870aee65b07cee31d5b28f9cd",
+                "sha512": "8867e6d74ef1b28c48ae3e8d731ff73a00451221486f523787e89b32d3e1ab1c501797e440547afca5287cfd2f8afbfa455bac253a619f0fe62ecc9a941be466"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/2M01OLQq/versions/FeeyACJe/shulkerboxtooltip-fabric-5.0.2%2B1.21.jar"
+                "https://cdn.modrinth.com/data/2M01OLQq/versions/UwrKcvor/shulkerboxtooltip-fabric-5.0.3%2B1.21.jar"
             ],
-            "fileSize": 351638
+            "fileSize": 354341
         },
         {
             "path": "mods/simple-hud-enhanced+1.21-4.7.0.jar",
@@ -1234,15 +1234,15 @@
             "fileSize": 10598
         },
         {
-            "path": "mods/Nullscape_1.21_v1.2.6.jar",
+            "path": "mods/Nullscape_1.21_v1.2.7.jar",
             "hashes": {
-                "sha1": "e3fd23e4bc4e069821301d47ca97d7671c708584",
-                "sha512": "62621a61c5b20bc827966e080f8a21ae3140d50b9c82183fb93535dd8ae92f061cd4bee810808f73f31064f450026ecaa2e43f5b37e798b7700b22f8ee070520"
+                "sha1": "75fbe875acb1ec759f8ce17024651edf6f045010",
+                "sha512": "3ff635e056638a193b9938bd053e7c889097182b30bdffbb96d8da3ed5cb5874375de7374fef59dcc88ea3aa21adbcb0dbdcb19dec2f06ac5865b03d5944d4e3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LPjGiSO4/versions/BoQYkOMa/Nullscape_1.21_v1.2.6.jar"
+                "https://cdn.modrinth.com/data/LPjGiSO4/versions/R6ADmT2I/Nullscape_1.21_v1.2.7.jar"
             ],
-            "fileSize": 338186
+            "fileSize": 338192
         },
         {
             "path": "mods/pandalib-fabric-0.3-1.21.jar",
@@ -1355,15 +1355,15 @@
             "fileSize": 332041
         },
         {
-            "path": "mods/Terralith_1.21_v2.5.3.jar",
+            "path": "mods/Terralith_1.21_v2.5.4.jar",
             "hashes": {
-                "sha1": "0c72a88c5da44308d74c16166cde767b9c52783d",
-                "sha512": "53c5c1f46f03665854f0a8dfc28961eb7bc4f6eaf479084f736b4c8cb8139d5365caedf5982cf4f7940a46894973ddcf097faea97b6d04bb337e7915092da24b"
+                "sha1": "e76c7b37826574840604442a08c10d2c3bd2c213",
+                "sha512": "d49f8a854a6ec8f49323986bbbffc061d62f2a85b91bc9ed442158c00551a66dcf8883b8151cfd732de8d6ba1006d0d94e6e456f15510eb32aacfd38da1095e1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/8oi3bsk5/versions/5k90Bexh/Terralith_1.21_v2.5.3.jar"
+                "https://cdn.modrinth.com/data/8oi3bsk5/versions/Mm6TmSwo/Terralith_1.21_v2.5.4.jar"
             ],
-            "fileSize": 2791489
+            "fileSize": 2794022
         },
         {
             "path": "mods/terralith-biome-saplings-1.1.2.jar",
