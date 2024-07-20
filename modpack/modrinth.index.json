@@ -1521,16 +1521,16 @@
             "fileSize": 6512016
         },
         {
-            "path": "resourcepacks/Stormilla-Modded-1.1.zip",
+            "path": "resourcepacks/Stormilla-Modded-2.0.zip",
             "hashes": {
-                "sha1": "af3f901189c6feeb6109757344a946a3cbb6d1e3",
-                "sha512": "c5d987ba3cc17682f6e715548eeabcef5563ceeec354dfcbd7567f096e5983c7913bbecaad043e65397282abecf231e712f0dd6f924c2c076536e359c6b17302"
+                "sha1": "b804f58f32deee9452a84108e026a0d26a951ba0",
+                "sha512": "04aaaca84e295d233b87493211e9681c81227245f8e20952c7a18e2afc49df61d8d9cd1a30301be75dcf46ebf1dba72ff12bd539dd8b3cf650ef081db8efecd6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/GUhItgrQ/versions/2toS3KUQ/Stormilla-Modded-1.1.zip",
-                "https://github.com/Bruhnanza/stormodda/releases/download/1.1/Stormilla-Modded-1.1.zip"
+                "https://cdn.modrinth.com/data/GUhItgrQ/versions/ZWmxpQkB/Stormilla-Modded-2.0.zip",
+                "https://github.com/Bruhnanza/stormodda/releases/download/2.0/Stormilla-Modded-2.0.zip"
             ],
-            "fileSize": 284119
+            "fileSize": 393849
         },
         {
             "path": "shaderpacks/ComplementaryReimagined_r5.2.2.zip",
