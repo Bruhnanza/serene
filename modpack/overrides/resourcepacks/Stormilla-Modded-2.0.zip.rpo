@@ -1,0 +1,6 @@
+{
+    modCompat: {
+        nerbCompat: "xTrue"
+    },
+    darkMode: "xTrue"
+}
