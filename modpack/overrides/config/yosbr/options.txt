@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["presencefootsteps:default_sound_pack","continuity:default","continuity:glass_pane_culling_fix","fabric","vanilla","minecraft:supporteatinganimation","file/Stormilla-v2.10.2.zip","file/Stormilla-Modded-1.1.zip"]
-incompatibleResourcePacks:["appleskin","balm-fabric","do_a_barrel_roll","elytratrims","kiwi","modernfix","rrls","sereneseasons","terrablender","toms_storage","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/Stormilla-v2.10.2.zip","file/Stormilla-Modded-1.1.zip"]
+resourcePacks:["presencefootsteps:default_sound_pack","continuity:default","continuity:glass_pane_culling_fix","fabric","vanilla","minecraft:supporteatinganimation","file/Stormilla-v2.10.2.zip","file/Stormilla-Modded-2.0.zip"]
+incompatibleResourcePacks:["appleskin","balm-fabric","do_a_barrel_roll","elytratrims","kiwi","modernfix","rrls","sereneseasons","terrablender","toms_storage","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","file/Stormilla-v2.10.2.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
