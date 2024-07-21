@@ -905,15 +905,15 @@
             "fileSize": 22335062
         },
         {
-            "path": "mods/cardinal-components-api-6.1.0.jar",
+            "path": "mods/cardinal-components-api-6.1.1.jar",
             "hashes": {
-                "sha1": "06b64b8024aaea4b589dc860e018e45490713696",
-                "sha512": "2e8ba15f08fc7cb8c38ce4a267397923ba477081253051bc416fe05595eab51605efa8281430b65ebbf7d38107febb67968c2e5ecd8d15c9aa0f7c9394ef36eb"
+                "sha1": "7cdd4ce921236d65c9c7a4d149a92aaba34a0af2",
+                "sha512": "bb2ae312a294202f3019c71533f4c237fd8e39f75bf9b0d46db8e8b6c70f407ecebc59fce360688c7fe7be0014d704e0059b0421706d393ee1b16bc385af504f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/K01OU20C/versions/quTFtjka/cardinal-components-api-6.1.0.jar"
+                "https://cdn.modrinth.com/data/K01OU20C/versions/tVPYyTPV/cardinal-components-api-6.1.1.jar"
             ],
-            "fileSize": 229233
+            "fileSize": 229179
         },
         {
             "path": "mods/carryon-fabric-1.21-2.2.1.jar",
@@ -1444,15 +1444,15 @@
             "fileSize": 62611
         },
         {
-            "path": "mods/toms_storage_fabric-1.21-2.0.7.jar",
+            "path": "mods/toms_storage_fabric-1.21-2.0.8.jar",
             "hashes": {
-                "sha1": "1ce419f250010e0d3147536bf7836255a47ea9e3",
-                "sha512": "b5f8b7b41447960d3f9517133bf7c4594d9fbcaca6079f78a70409feb220fac5a9487d12c65b7c5100e16ac2b19f300fb307525972fa86326fa1d3667f0b1184"
+                "sha1": "3340be730e5e0cec9c32d99f11059db3db34f5ab",
+                "sha512": "de4e0cc3f908f740fae4fe277d2207294b2a8c47526beb006cd4372e1a4992c87cffe92226c6eb088f15811c9b21e74291c05d1b2c364c4ba9ec17b08c2678d1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XZNI4Cpy/versions/V4mwo7v5/toms_storage_fabric-1.21-2.0.7.jar"
+                "https://cdn.modrinth.com/data/XZNI4Cpy/versions/noHIwpc0/toms_storage_fabric-1.21-2.0.8.jar"
             ],
-            "fileSize": 1906116
+            "fileSize": 1915088
         },
         {
             "path": "mods/travelersbackpack-fabric-1.21-10.0.4.jar",
@@ -1558,7 +1558,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.15.11",
+        "fabric-loader": "0.16.0",
         "minecraft": "1.21"
     }
 }
