@@ -177,15 +177,15 @@
             "fileSize": 599401
         },
         {
-            "path": "mods/fabric-api-0.101.0+1.21.jar",
+            "path": "mods/fabric-api-0.101.2+1.21.jar",
             "hashes": {
-                "sha1": "523e91b040171e60291641eff1296f7101c4da33",
-                "sha512": "cb8b0f3c165508a00ebcb8ec01b2c409c5d14dd3d21cc445d807878027de5989637ce2f5efa5ea67f684e76f4c39fef14db70344d99a0bd80f7ab88dd0758299"
+                "sha1": "d9b45f2af22f8df22056287faf024f18a9d45da6",
+                "sha512": "aff4569ae74fbcf2f19874b56ea9a811a9b2aee217641724b0ea6d764aa9e3c756becc7908c9bc6ac3fc3b613aad235f62188325b1d7439d23cb9d2c69d3bad8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/hpxN9iW3/fabric-api-0.101.0%2B1.21.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/EY5IAcV9/fabric-api-0.101.2%2B1.21.jar"
             ],
-            "fileSize": 2284886
+            "fileSize": 2284341
         },
         {
             "path": "mods/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
@@ -415,15 +415,15 @@
             "fileSize": 70892
         },
         {
-            "path": "mods/polytone-1.21-2.2.10-fabric.jar",
+            "path": "mods/polytone-1.21-2.2.12-fabric.jar",
             "hashes": {
-                "sha1": "ac07175fbe1ca5f79f9a704c95c1eb60f53d3e28",
-                "sha512": "65690b88ec21d1c146786cfd16287b53efea296705a87c8528a1883de995d4a82a605a7d378badeb859c8b69824fc0db1de3c2f94229616653ad122587e52659"
+                "sha1": "9e5fab41797ccdb71f5150d7f6729048162a280e",
+                "sha512": "57a89da3d55068ca5d6a2030389977964adf16fb3c87c74f7c55bb46ddd66cb98adde38dcb175a975342ae44143d19393a04cdc393da6b496f94a214d87def75"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/eUFeTK55/polytone-1.21-2.2.10-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/S7bbo8QV/polytone-1.21-2.2.12-fabric.jar"
             ],
-            "fileSize": 557432
+            "fileSize": 559961
         },
         {
             "path": "mods/puzzle-1.6.3+1.21.jar",
@@ -862,15 +862,15 @@
             "fileSize": 948586
         },
         {
-            "path": "mods/accessories-fabric-1.0.0-beta.25+1.21.jar",
+            "path": "mods/accessories-fabric-1.0.0-beta.26+1.21.jar",
             "hashes": {
-                "sha1": "a92ec394511d9118a1d33a0d6ad3187f5a7efe7b",
-                "sha512": "472e81db4bd03e8be15a407e3408958405374e6804566f32ef92d4f642c943b9800ff13473e477a909c1f6bbbbec986940a225c599024598e75c27de685ee9e4"
+                "sha1": "a2e6b6d3b2c281fbe6064ad43b8c6306184baccf",
+                "sha512": "7b80a54ebdf02528356649c437449ff4bb43f5b0761aa2b5b5c1ea5c817aabce279429483c92d5ecb1f5309b9ebb78999319e1c58f4fff078db7770bbf727e3c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/jtmvUHXj/versions/mGGg32Ww/accessories-fabric-1.0.0-beta.25%2B1.21.jar"
+                "https://cdn.modrinth.com/data/jtmvUHXj/versions/dHqkfQmG/accessories-fabric-1.0.0-beta.26%2B1.21.jar"
             ],
-            "fileSize": 723253
+            "fileSize": 723285
         },
         {
             "path": "mods/accessories_tclayer-3.10.0-beta.5+1.21.jar",
@@ -1225,15 +1225,15 @@
             "fileSize": 189677
         },
         {
-            "path": "mods/jamlib-fabric-1.0.10+1.21.jar",
+            "path": "mods/jamlib-fabric-1.0.11+1.21.jar",
             "hashes": {
-                "sha1": "e45be98c993a40eec21212a14214d5ca8a53ef25",
-                "sha512": "23c4889438a9b6de9e7ffc9a4d36f0e9dd83e3a097597a2fcb26c88916534aecbd6e1239d8e82a788519cbd57105d7168cc1adc995573bc41f670eb2816f73a9"
+                "sha1": "1abfe1380649d8545e38a36614cee931037a2315",
+                "sha512": "6503df7e25a8081aff2946bef6fc7067cc51209d8ee3cb2faaa395967e29dd68c2a2e07b8a21cd747307714c2d21dd568f4c6a2d4eae4917ae5e554e4a26875d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/IYY9Siz8/versions/GuJVwwK1/jamlib-fabric-1.0.10%2B1.21.jar"
+                "https://cdn.modrinth.com/data/IYY9Siz8/versions/7NY3wW64/jamlib-fabric-1.0.11%2B1.21.jar"
             ],
-            "fileSize": 163114
+            "fileSize": 163260
         },
         {
             "path": "mods/Kiwi-1.21-Fabric-15.1.0.jar",
@@ -1555,15 +1555,15 @@
             "fileSize": 3641948
         },
         {
-            "path": "mods/utility-belt-fabric-2.4.2+1.21.jar",
+            "path": "mods/utility-belt-fabric-2.4.3+1.21.jar",
             "hashes": {
-                "sha1": "7f92f8c38d66a7a3ab9cde73001b63f11fc2db43",
-                "sha512": "1dc64890d1b43b1746806619b151aa68d0217bc6de2bcf6eebe61ba1754e09c29ae5bb9a293a9611e9174434e3eed826cef6002e9b93aaac10932e682cda610f"
+                "sha1": "dddc414b237b12220c454316590cfef001bb45b4",
+                "sha512": "9223f754e38e3fb15171d89e0ac01c7091c7321143c458a3d6ac9a0317eca8e343aec3dcd9eb438a9757810b85cde7eda9c37cbdd72b2dce64a3b2cc15229ace"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9ewe2JHJ/versions/NheeVbZF/utility-belt-fabric-2.4.2%2B1.21.jar"
+                "https://cdn.modrinth.com/data/9ewe2JHJ/versions/Fi2cfBjs/utility-belt-fabric-2.4.3%2B1.21.jar"
             ],
-            "fileSize": 248905
+            "fileSize": 248907
         },
         {
             "path": "mods/veinmining-fabric-5.0.0-beta+1.21.jar",
