@@ -177,15 +177,15 @@
             "fileSize": 599401
         },
         {
-            "path": "mods/fabric-api-0.101.2+1.21.jar",
+            "path": "mods/fabric-api-0.102.0+1.21.jar",
             "hashes": {
-                "sha1": "d9b45f2af22f8df22056287faf024f18a9d45da6",
-                "sha512": "aff4569ae74fbcf2f19874b56ea9a811a9b2aee217641724b0ea6d764aa9e3c756becc7908c9bc6ac3fc3b613aad235f62188325b1d7439d23cb9d2c69d3bad8"
+                "sha1": "43035a1c6f506285a9910bc8038d1b1b925f8dd1",
+                "sha512": "11732c4e36c3909360a24aa42a44da89048706cf10aaafa0404d7153cbc7395ff68a130f7b497828d6932740e004416b692650c3fbcc1f32babd7cb6eb9791d8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/EY5IAcV9/fabric-api-0.101.2%2B1.21.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/oGwyXeEI/fabric-api-0.102.0%2B1.21.jar"
             ],
-            "fileSize": 2284341
+            "fileSize": 2285859
         },
         {
             "path": "mods/fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar",
@@ -415,15 +415,15 @@
             "fileSize": 70892
         },
         {
-            "path": "mods/polytone-1.21-2.2.12-fabric.jar",
+            "path": "mods/polytone-1.21-2.2.13-fabric.jar",
             "hashes": {
-                "sha1": "9e5fab41797ccdb71f5150d7f6729048162a280e",
-                "sha512": "57a89da3d55068ca5d6a2030389977964adf16fb3c87c74f7c55bb46ddd66cb98adde38dcb175a975342ae44143d19393a04cdc393da6b496f94a214d87def75"
+                "sha1": "fb3fbe120be0573b3b8c1890ad1e785f5190c1e2",
+                "sha512": "2013abd66869d8d87a95211e25c425ca2b5a080709074455be603cf34618473689eeb5169445c0656e1713ed9efe8db4e54646b00a8604bc990c82447559fc12"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/S7bbo8QV/polytone-1.21-2.2.12-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/s8aqG0A6/polytone-1.21-2.2.13-fabric.jar"
             ],
-            "fileSize": 559961
+            "fileSize": 561805
         },
         {
             "path": "mods/puzzle-1.6.3+1.21.jar",
@@ -818,13 +818,13 @@
             "fileSize": 470329
         },
         {
-            "path": "mods/sound-physics-remastered-fabric-1.21-1.4.5.jar",
+            "path": "mods/sound-physics-remastered-fabric-1.21-1.4.6.jar",
             "hashes": {
-                "sha1": "7ec82ac0c3d41c162d2e26f129c2262ff81a2b82",
-                "sha512": "eb3e88d9c745c130cf83c1a4abf9748f9214ef5a56c882b9623fca03e9cd50f35bbe8a63762bba628d1bff53647a43030ea15989dec999e5586c3192a7a750db"
+                "sha1": "e2f79327b3686606b744b04b57deee023cf3b034",
+                "sha512": "2ba3d46b9fb03ab3b2246adf867660af42d7205c8a2af3748048318472a41211ab89c38dd2d9433077bb59b29e20f8a7677bcca4790a6201d73f13d5f056bc91"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qyVF9oeo/versions/8w6T0wDj/sound-physics-remastered-fabric-1.21-1.4.5.jar"
+                "https://cdn.modrinth.com/data/qyVF9oeo/versions/nzrrHnMa/sound-physics-remastered-fabric-1.21-1.4.6.jar"
             ],
             "fileSize": 195303
         },
@@ -840,15 +840,15 @@
             "fileSize": 201337
         },
         {
-            "path": "mods/voicechat-fabric-1.21-2.5.19.jar",
+            "path": "mods/voicechat-fabric-1.21-2.5.20.jar",
             "hashes": {
-                "sha1": "c8b05bacb5b5040130ef65498b0f9c41751636c8",
-                "sha512": "6499ed41ab959b8b18a7020f4ab07392d912be891a9876fef27f24e23e72abc461cdf3cff36d045c20b309f937383e97f39d1faef8c13d36090fa575b84d9d2f"
+                "sha1": "9194b42feaad4f40df18e9f41fcdbec5cce03428",
+                "sha512": "05f530cdb1431930e83b8ed914053d54f123121240a3fee2d495b23faef75c34d5f6ab72e8bf952002f9cd1584c889462028ffec67801371b57749e0a50a0367"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9eGKb6K1/versions/SSk6KqP7/voicechat-fabric-1.21-2.5.19.jar"
+                "https://cdn.modrinth.com/data/9eGKb6K1/versions/68izPAqu/voicechat-fabric-1.21-2.5.20.jar"
             ],
-            "fileSize": 6562951
+            "fileSize": 6567246
         },
         {
             "path": "mods/Xaeros_Minimap_24.2.1_Fabric_1.21.jar",
@@ -1137,15 +1137,15 @@
             "fileSize": 4002458
         },
         {
-            "path": "mods/ForgeConfigAPIPort-v21.0.7-1.21-Fabric.jar",
+            "path": "mods/ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar",
             "hashes": {
-                "sha1": "4e72631442b64d61747c7a65ff8e728415bd2068",
-                "sha512": "bbe027e39015b54fc379f0a9496d992c4f3462636d0d7c5ad21f5e7f9b27d7eab8dd2497349609ac16fa46c8df0400d33d7553dfe23cbd7eeecc337722e14c5c"
+                "sha1": "7dfdfef79835d7d8d6237b20af1a2d7f29561454",
+                "sha512": "6c9e7091b7b596b43f3e61e23a7074067864ed310ade9fbba829ad1db6ae8f7fb895df04b4fd69ce1354bb8949fab44c214486e05b54a4956a3c2cb277e9c0cf"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ohNO6lps/versions/UGsNw3aI/ForgeConfigAPIPort-v21.0.7-1.21-Fabric.jar"
+                "https://cdn.modrinth.com/data/ohNO6lps/versions/GOreNSW6/ForgeConfigAPIPort-v21.0.8-1.21-Fabric.jar"
             ],
-            "fileSize": 627595
+            "fileSize": 627640
         },
         {
             "path": "mods/GlitchCore-fabric-1.21-2.0.0.2.jar",
