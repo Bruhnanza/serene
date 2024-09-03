@@ -662,17 +662,6 @@
             "fileSize": 20697
         },
         {
-            "path": "mods/fastpaintings-1.21-1.2.10-fabric.jar",
-            "hashes": {
-                "sha1": "e9e1358a5349c0d068c90ab4ccc6bd05486f3bbf",
-                "sha512": "626a2bc0b80d7866ab6df0c9d85e0b8bcea0471aa66977ee761bdb83ec900d866462aedece0c70de9f796a4c51f824c868209e034529545017c8b0aad6126178"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/z3TzcquW/versions/h695yyZJ/fastpaintings-1.21-1.2.10-fabric.jar"
-            ],
-            "fileSize": 152326
-        },
-        {
             "path": "mods/libjf-3.17.0.jar",
             "hashes": {
                 "sha1": "1056734af03e7c2431bd1acf9ebbbc39a83e8c78",
@@ -917,15 +906,15 @@
             "fileSize": 720887
         },
         {
-            "path": "mods/advancednetherite-fabric-2.1.6-1.21.jar",
+            "path": "mods/advancednetherite-fabric-2.1.6-1.21.1.jar",
             "hashes": {
-                "sha1": "1d8e2e712762f88cd9a507b3d0d44d82b1f5f731",
-                "sha512": "d00cfc4b8a8d5b316f71632ed82c6b452c807baa3c86c9f499afe538fd7876ccbb54c79b632c48028b93e4404588ea30bcbcb51b3e406864e30ef829eca4ac09"
+                "sha1": "70c85d8827bf49dde335ba5f88ce1f3936859ecf",
+                "sha512": "9c786cd825b38351de0ddc4c8062a0881a3d859f0dc02e07f326e41a82a116fc5d012686f41370cce6e70bf947af9a342759643905efffd7f1394563f48dbddb"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/CFX9ftUJ/versions/f50pNkNh/advancednetherite-fabric-2.1.6-1.21.jar"
+                "https://cdn.modrinth.com/data/CFX9ftUJ/versions/h21eIeqK/advancednetherite-fabric-2.1.6-1.21.1.jar"
             ],
-            "fileSize": 506784
+            "fileSize": 506789
         },
         {
             "path": "mods/architectury-13.0.6-fabric.jar",
@@ -983,15 +972,15 @@
             "fileSize": 229179
         },
         {
-            "path": "mods/carryon-fabric-1.21-2.2.1.jar",
+            "path": "mods/carryon-fabric-1.21.1-2.2.2.11.jar",
             "hashes": {
-                "sha1": "511cdbcbbe13d1b43111f007099e6b104e7dc494",
-                "sha512": "b350563740dfd10f0c43516350e05f671d202a1198a6efcdc29d1c9ec6373d1ed71cc555b47a8ee4e13a4f8649d6f051457cbc1ab7548722e83082fb1912a9d3"
+                "sha1": "f2e4f069779228d65c96d0f311ef12ff0685369b",
+                "sha512": "eb0fe0aaa370dc4ff4e6d6300c9f0903ef02bdc30615a1e9bc9e26c61d2f667fcf3211294f7907c9a9d487edbcee95e5988c46ecdbf4ead0f3f032e0efb45edc"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/joEfVgkn/versions/v6jFgMGH/carryon-fabric-1.21-2.2.1.jar"
+                "https://cdn.modrinth.com/data/joEfVgkn/versions/TuSZSQeB/carryon-fabric-1.21.1-2.2.2.11.jar"
             ],
-            "fileSize": 351861
+            "fileSize": 351867
         },
         {
             "path": "mods/cat_jam-fabric-mc1.21-1.2.3.jar",
@@ -1038,15 +1027,15 @@
             "fileSize": 24044
         },
         {
-            "path": "mods/ConfigurableEverything-1.2-mc1.21.jar",
+            "path": "mods/ConfigurableEverything-1.2.1-mc1.21.1.jar",
             "hashes": {
-                "sha1": "58b9a750e5b13bf8ff7f1752a099d80b53c925c4",
-                "sha512": "db470bf558dfb9612ab4e997871f726fcd173485c6f969d102d142bfd5b5a5580003862b7302f4315ece70fc80be2bf1712b2b4d731af3c8bb15b58c84e5ed20"
+                "sha1": "741d5210a892cc17ed0fc5d3a1ab5d1ceff2e99e",
+                "sha512": "6611e884ad7a9eb54f74a197b51b24d80c30ad6835afff932c1300e1f546fe95e154b0484e2c536f843dfa1aa6f6ba4b918e987fae28582be8fcb8f757e8c258"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/2OtUT3F2/versions/g5NkW2Fh/ConfigurableEverything-1.2-mc1.21.jar"
+                "https://cdn.modrinth.com/data/2OtUT3F2/versions/WCjNUIVl/ConfigurableEverything-1.2.1-mc1.21.1.jar"
             ],
-            "fileSize": 2355691
+            "fileSize": 2374030
         },
         {
             "path": "mods/Continents_1.21_v1.1.5.jar",
@@ -1115,15 +1104,15 @@
             "fileSize": 134121
         },
         {
-            "path": "mods/Enhanced Cats-1.21-0.4.jar",
+            "path": "mods/Enhanced Cats-1.21-0.5.jar",
             "hashes": {
-                "sha1": "532598f6fb59590ce0214fff49b11fe997839069",
-                "sha512": "4bc5c4876d35261f3fe611ca411a1358bd58faadea84a26d298884e85e6bc06fa39380fd0710953c998e4e6e9d983e942c282d57491a70547ec8fef7aecc5721"
+                "sha1": "c9aa42ae078f1a775f6327502b68f54bfda2c43f",
+                "sha512": "8cf46f5c8056f9cf3ac7466884702239c0ccaa11c2ba1fe32b64882266b90e64c2d5e084f3396d4b2f28bfd54d7208e9c25ab07a680341921f67166ec5cddaa9"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/e2R0wxyL/versions/z7fUcCLp/Enhanced%20Cats-1.21-0.4.jar"
+                "https://cdn.modrinth.com/data/e2R0wxyL/versions/K72TIQph/Enhanced%20Cats-1.21-0.5.jar"
             ],
-            "fileSize": 18412
+            "fileSize": 20795
         },
         {
             "path": "mods/elytratrims-fabric-3.5.1+1.21.jar",
@@ -1170,15 +1159,15 @@
             "fileSize": 9551
         },
         {
-            "path": "mods/FabricKotlinExtensions-1.1.jar",
+            "path": "mods/FabricKotlinExtensions-1.1.1.jar",
             "hashes": {
-                "sha1": "ae1cc2327858c4b0db8b7809b835d78d8086a1ab",
-                "sha512": "0344a58ff9a9adb4dac9e67205d8bc70dc04e6d27e473d875bd6c1cdc7d7180c8890610e9b79d37cd478d8d394715bacd9ecc3323d997e8fd75e0dddc9ff9fcf"
+                "sha1": "b2dad13a9b5d35c84054c4a3b941f8afdc14f814",
+                "sha512": "359695f7ef9080ad551fc2d3e3946fc7278a492d997fb2d830db291cd0ffa8156f2df632cdfea818ccb22dcc38c77867695ac763e6ff90051625fbab36f9c355"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/WpZeWuIG/versions/Mw9M9a3J/FabricKotlinExtensions-1.1.jar"
+                "https://cdn.modrinth.com/data/WpZeWuIG/versions/XvhNeQio/FabricKotlinExtensions-1.1.1.jar"
             ],
-            "fileSize": 60484466
+            "fileSize": 60444762
         },
         {
             "path": "mods/fallingtrees-fabric-0.12.7-1.21.jar",
