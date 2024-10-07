@@ -15,3 +15,4 @@ Updates
 
 Beta 2
 - Updated Controlify, EMI
+- Lootr now used vanilla chest textures
