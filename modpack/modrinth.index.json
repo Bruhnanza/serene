@@ -73,16 +73,16 @@
             "fileSize": 1007136
         },
         {
-            "path": "mods/Controlify-2.0.0-beta.14+1.21-fabric.jar",
+            "path": "mods/Controlify-2.0.0-beta.15+1.21-fabric.jar",
             "hashes": {
-                "sha1": "4643968fcdaee38ea921c0f4cc2cc1aebc21d058",
-                "sha512": "e942e497ae64d5089c3fc0aa8ae76820a58909210f87ee7c493c88aa178e33d858baddfb82c9bd2818d711eec35bb15a1d5ca3756e2053a5d8edf9c2e65801bd"
+                "sha1": "8d95a78ee6c5e278969aaf011f874a5bc9d60d9a",
+                "sha512": "da9bd1966dd683ada45e8198ab4322eeaa2b322f2daffc2dc94a8915f5305422ea2b775692a224b2743a6cdf02d13fa59ced36db34e4a1df0b7cc1fde271811b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/QiCZiPOr/Controlify-2.0.0-beta.14%2B1.21-fabric.jar",
-                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.14%2B1.21-fabric/Controlify-2.0.0-beta.14+1.21-fabric.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/Ot9UlTF4/Controlify-2.0.0-beta.15%2B1.21-fabric.jar",
+                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.15/Controlify-2.0.0-beta.15+1.21-fabric.jar"
             ],
-            "fileSize": 2791149
+            "fileSize": 3503459
         },
         {
             "path": "mods/cubes-without-borders-2.1.1+1.21.jar",
@@ -620,16 +620,16 @@
             "fileSize": 1060520
         },
         {
-            "path": "mods/emi-1.1.14+1.21.1+fabric.jar",
+            "path": "mods/emi-1.1.15+1.21.1+fabric.jar",
             "hashes": {
-                "sha1": "e71a63e14da8b4acabe8aee28384ef5da01d359b",
-                "sha512": "4c13e5fe75c05e1a27e75cb29be5da70f0a731ee41705c4b8c2b56e21f725f37c7c828a4a7e233582ca512730c0bb2ba4fae2e588ad8424261a2d32ac9c6e10f"
+                "sha1": "1e5dc39f1451993d58628cd96ee834b4db477bec",
+                "sha512": "cb38c8d7cbf81704824f05e29e4ff8935e248b27d7e3e4f67a55776888390203674aa37f1fdaa16424a87fcf8ed17dfa05e11e5eb6d57687bddd4d2afec31f4e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/fRiHVvU7/versions/9DRL0tJC/emi-1.1.14%2B1.21.1%2Bfabric.jar",
-                "https://github.com/emilyploszaj/emi/releases/download/1.1.14%2B1.21.1/emi-1.1.14+1.21.1+fabric.jar"
+                "https://cdn.modrinth.com/data/fRiHVvU7/versions/zdVFb6eU/emi-1.1.15%2B1.21.1%2Bfabric.jar",
+                "https://github.com/emilyploszaj/emi/releases/download/1.1.15%2B1.21.1/emi-1.1.15+1.21.1+fabric.jar"
             ],
-            "fileSize": 991534
+            "fileSize": 993024
         },
         {
             "path": "mods/enhanced_attack_indicator-1.1.0+1.21.jar",
