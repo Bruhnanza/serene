@@ -12,3 +12,6 @@ Updates
 - Removed Better Archeology, Better Statistics Screen, Blur+, Comforts, Do a Barrel Roll, EnchantedShulkers, Hold That Chunk, Incendium Biomes Only, Indium, MCA Reborn, Memory Leak Fix, Seperated Leaves, Sushi Bar, Trinkets, Wolf Port
 - Missing LambDynamicLights, Bookshelf, Bountiful, Bountiful Fares, EMI Trades, FriendlyFire, Glide, Incendium, Kambrik, Radiant Gear, YUNG's Mods (10)
 - Updated Fabric Loader to 0.16.5
+
+Beta 2
+- Updated Controlify, EMI
