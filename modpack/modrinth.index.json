@@ -392,16 +392,16 @@
             "fileSize": 310073
         },
         {
-            "path": "mods/optigui-2.3.0-beta.5+1.21.jar",
+            "path": "mods/optigui-2.3.0-beta.6+1.21.jar",
             "hashes": {
-                "sha1": "05ed637fc4d8a7561887753fac5929a04b8b4f5b",
-                "sha512": "98443643cb36b6330ad46e62d01dd230dc48e412c2be33790c1d30f490227e239c3be3844538bdca21ddee2bf4f015b370d03352844bbc4d6b6ba868171d8bda"
+                "sha1": "c3d5ca9c111fea353d37c71be98f8da528bc9b44",
+                "sha512": "63890d26aa3884ee0ecb2b136f0c0ab295437be96f9ce3a207686f4e6ec3e04ddcbf35261a872da409f6f3506e9ae413d4e36cb49d06840762de2468737c0e14"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/BUvJCGus/optigui-2.3.0-beta.5%2B1.21.jar",
-                "https://github.com/opekope2/OptiGUI/releases/download/2.3.0-beta.5%2B1.21/optigui-2.3.0-beta.5+1.21.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/rPLGSp71/optigui-2.3.0-beta.6%2B1.21.jar",
+                "https://github.com/opekope2/OptiGUI/releases/download/2.3.0-beta.6%2B1.21/optigui-2.3.0-beta.6+1.21.jar"
             ],
-            "fileSize": 611697
+            "fileSize": 615362
         },
         {
             "path": "mods/paginatedadvancements-2.5.1.jar",
@@ -565,15 +565,15 @@
             "fileSize": 857561
         },
         {
-            "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.218.jar",
+            "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.222.jar",
             "hashes": {
-                "sha1": "05834d7f5a16add87e79d36f02a1a9bd97acf599",
-                "sha512": "3d5d6f6d952f5bab0dd8bee647ac2a7fcb4b02c38e68efa85828aaf97e8d99c49ce1542ee0b46491313632ff36b5055ac5f1332a2b787b40568d223ab9882051"
+                "sha1": "9d47a0daaefa725c002a9130729c8ba2de134bb6",
+                "sha512": "af01a205da984aa4dfe231238c0556ad9cca01c7955cc22a151cb8726e73ea98b0718d4f08bd3f4464813748186864567f5167286432e73021e9236d096e10d7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/VSNURh3q/versions/NQD5ggCO/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.218.jar"
+                "https://cdn.modrinth.com/data/VSNURh3q/versions/tI1AdB4l/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.222.jar"
             ],
-            "fileSize": 4391918
+            "fileSize": 4391808
         },
         {
             "path": "mods/Chunky-1.4.16.jar",
@@ -678,15 +678,15 @@
             "fileSize": 20697
         },
         {
-            "path": "mods/libjf-3.17.1.jar",
+            "path": "mods/libjf-3.17.3.jar",
             "hashes": {
-                "sha1": "86fca28114cc272813b1be95b93da7ebe96d2d26",
-                "sha512": "77c9109548a38c94c34f0a72c39b47e09281e59aa414dca7fffbc4e3a48839ed805c5f028febe70e0e155d95813d757afc6c1af7c5afd69f571837efd37522d7"
+                "sha1": "2a08178e0ce192f209f1f230e7ff211157563734",
+                "sha512": "4c2473c544f4611969b6d78cea3cfb4c256049de21d479b49dd3aa18db244b3b871b299f854bf10ecaf573373544301eeaf9360133a447bc84821ae3078e4971"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/WKwQAwke/versions/y4QLVZyH/libjf-3.17.1.jar"
+                "https://cdn.modrinth.com/data/WKwQAwke/versions/FOFo5tY4/libjf-3.17.3.jar"
             ],
-            "fileSize": 1280025
+            "fileSize": 1283376
         },
         {
             "path": "mods/midnightlib-fabric-1.6.3.jar",
@@ -735,16 +735,16 @@
             "fileSize": 422391
         },
         {
-            "path": "mods/owo-lib-0.12.14+1.21.jar",
+            "path": "mods/owo-lib-0.12.15+1.21.jar",
             "hashes": {
-                "sha1": "140f5b91274f57dfdff8f9df3f2378f1a6d8514e",
-                "sha512": "c89bf107592b1dc2d29f505c42de290fef1575e68cc8d3f4e910cfcd4a89fe956f0e9668243de142d9574f2965adbf9268c4d6e1bb532cc94ea33727fab6929d"
+                "sha1": "6360554402859113fdd72abdb8ff9fd5d6c731ca",
+                "sha512": "faa86df062ec4fa58b653455deb1307a778e4307392f51a29c5a87de78da7173bb6f77a5ed239306226f2bf972aa9221fbd946a2c07232ecfa09f798ae381924"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ccKDOlHs/versions/HegQGu0K/owo-lib-0.12.14%2B1.21.jar",
-                "https://github.com/wisp-forest/owo-lib/releases/download/0.12.14%2B1.21/owo-lib-0.12.14+1.21.jar"
+                "https://cdn.modrinth.com/data/ccKDOlHs/versions/vCCHsvEa/owo-lib-0.12.15%2B1.21.jar",
+                "https://github.com/wisp-forest/owo-lib/releases/download/0.12.15%2B1.21/owo-lib-0.12.15+1.21.jar"
             ],
-            "fileSize": 1163722
+            "fileSize": 1177861
         },
         {
             "path": "mods/particular-1.1.1+1.21.jar",
@@ -770,15 +770,15 @@
             "fileSize": 5732453
         },
         {
-            "path": "mods/respackopts-4.11.1.jar",
+            "path": "mods/respackopts-4.11.2.jar",
             "hashes": {
-                "sha1": "d82e7af3c9395a65700875f103977a55859575c8",
-                "sha512": "2f00729642b5e058c347303b275d57a553fb16ee48fd9b796e86bce553d66db3e7661c625d325e7f4f072f670026f614ee1508f83d62241a8b301b339b114702"
+                "sha1": "a7a8855fef70691f1c1a57a11b1547f50835f030",
+                "sha512": "70e1ed36fd809c50e24c781006eb23dddc12f5f041ed53f77b20f1276f56ea16292390930f3661fb20b42b75f033c2c4546a19f43941b21b0e3e3f6cf5113568"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/TiF5QWZY/versions/4ScEvGiA/respackopts-4.11.1.jar"
+                "https://cdn.modrinth.com/data/TiF5QWZY/versions/NitEpVRe/respackopts-4.11.2.jar"
             ],
-            "fileSize": 529647
+            "fileSize": 530987
         },
         {
             "path": "mods/shulkerboxtooltip-fabric-5.1.1+1.21.1.jar",
@@ -839,15 +839,15 @@
             "fileSize": 202927
         },
         {
-            "path": "mods/voicechat-fabric-1.21.1-2.5.23.jar",
+            "path": "mods/voicechat-fabric-1.21.1-2.5.24.jar",
             "hashes": {
-                "sha1": "2fbd2ec251056c4a9750f8f3121d03a3755076e8",
-                "sha512": "05f758a55af501bec85a375ba556c6b81a163dbee86ab4632135682d273a4770bd7448850fdb717d756819ffff3ee0d30c6b31b6988a6c28415fb365288576cd"
+                "sha1": "c2fde72444ab49a3592997bea3236d9e30cf09fc",
+                "sha512": "05bd1f98627c5d2b8d9ac7d9533e79f1988227e0a769a3d550c47a9a77f30ad3749c4225080c1776a2e7451182449a2c5465a93685144624b8b01ac1e3963ab5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9eGKb6K1/versions/FvsJfBJ0/voicechat-fabric-1.21.1-2.5.23.jar"
+                "https://cdn.modrinth.com/data/9eGKb6K1/versions/9IRn71aQ/voicechat-fabric-1.21.1-2.5.24.jar"
             ],
-            "fileSize": 6583702
+            "fileSize": 6584586
         },
         {
             "path": "mods/waveycapes-fabric-1.4.10-mc1.21.jar",
@@ -1115,15 +1115,15 @@
             "fileSize": 134121
         },
         {
-            "path": "mods/elytratrims-fabric-3.5.3+1.21.jar",
+            "path": "mods/elytratrims-fabric-3.5.4+1.21.jar",
             "hashes": {
-                "sha1": "86d2b4817ac4e3e27fa7d08ee55840178c6c9eb7",
-                "sha512": "51dde727d28c71b394c8414c2a6a4ddeeaa1566ee8b02d37cb7d78328b33681007f3c757a33cfdf4c82708e6d59bae4f9f9d82ea626b08251792f7fdeae98a4d"
+                "sha1": "105bdaf490707161992cd33579495c7ef026a248",
+                "sha512": "f4e9db305ac51299b2aeede5ca250e6d5167458f7e5f499688d6f5629fdb8aee06f1045de4c7acb2bf9bb05ed692a4c07dfce42a4230b34d79bb19433344362b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XpzGz7KD/versions/DfoGIeFt/elytratrims-fabric-3.5.3%2B1.21.jar"
+                "https://cdn.modrinth.com/data/XpzGz7KD/versions/hO3heIPl/elytratrims-fabric-3.5.4%2B1.21.jar"
             ],
-            "fileSize": 601273
+            "fileSize": 602551
         },
         {
             "path": "mods/Enhanced Cats-1.21.1-0.6.jar",
@@ -1566,15 +1566,15 @@
             "fileSize": 8187760
         },
         {
-            "path": "mods/resourcefullib-fabric-1.21-3.0.10.jar",
+            "path": "mods/resourcefullib-fabric-1.21-3.0.11.jar",
             "hashes": {
-                "sha1": "d62e9fbf8e3ac67ed4927f799ec489f50cb63d50",
-                "sha512": "efd33ffadfbec5c823822eeeda1965ab3e905b638e1037dabbc03f2fc784b567c87f36b90152836dbcaa05de90841981d45380ffbf6aee00db89e171a35b8d06"
+                "sha1": "a9c2ef9eb192fcb31eb9e4f38eb6ba0841cddee7",
+                "sha512": "d8456ad1fee455cb66e736a09e38a15888b7c863932d15241b6a9b01ab52842e4f3bd42ef28cc85f1ef515d42f60e077e331c7a4b4659d8bc37c3610ec4cf331"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/G1hIVOrD/versions/Qq8o6KAr/resourcefullib-fabric-1.21-3.0.10.jar"
+                "https://cdn.modrinth.com/data/G1hIVOrD/versions/qhDtAMev/resourcefullib-fabric-1.21-3.0.11.jar"
             ],
-            "fileSize": 484428
+            "fileSize": 484468
         },
         {
             "path": "mods/respawnablepets-1.21-r1.jar",
