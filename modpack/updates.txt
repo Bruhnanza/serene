@@ -14,5 +14,5 @@ Updates
 - Updated Fabric Loader to 0.16.5
 
 Beta 2
-- Updated Controlify, EMI
+- Updated Controlify, C2ME, Elytra Trims, EMI, LibJF, OptiGUI, owo-lib, Resourceful Lib, Respackopts, Simple Voice Chat
 - Lootr now used vanilla chest textures
