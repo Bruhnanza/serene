@@ -14,5 +14,5 @@ Updates
 - Updated Fabric Loader to 0.16.5
 
 Beta 2
-- Updated Controlify, C2ME, Elytra Trims, EMI, LibJF, OptiGUI, owo-lib, Resourceful Lib, Respackopts, Simple Voice Chat
+- Updated Accessories, Accessories Trinkets Compat Layer, Actually Harvest, Balm, Controlify, C2ME, Elytra Trims, EMI, Fabric Language Kotlin, LambDynamicLights, Leaves Us In Peace, LibJF, Moonlight Lib, OptiGUI, owo-lib, Resourceful Lib, Respackopts,  Respawnable Pets, Simple Voice Chat, Tom's Simple Storage
 - Lootr now used vanilla chest textures
