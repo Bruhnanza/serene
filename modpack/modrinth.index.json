@@ -1776,15 +1776,15 @@
             "fileSize": 612513
         },
         {
-            "path": "mods/utility-belt-fabric-2.5.0+1.21.1.jar",
+            "path": "mods/utility-belt-fabric-2.4.3+1.21.jar",
             "hashes": {
-                "sha1": "286202d2ac27684308f2dd2bbffef59c70d5681d",
-                "sha512": "514e4e8a1c4961b9755c984efa35538dde6c551f944ab5ed56145ad99afb59d5452ad33b998617886e4d329becafc73541da840091cc629425ef96417923c461"
+                "sha1": "dddc414b237b12220c454316590cfef001bb45b4",
+                "sha512": "9223f754e38e3fb15171d89e0ac01c7091c7321143c458a3d6ac9a0317eca8e343aec3dcd9eb438a9757810b85cde7eda9c37cbdd72b2dce64a3b2cc15229ace"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9ewe2JHJ/versions/TQZUW2l5/utility-belt-fabric-2.5.0%2B1.21.1.jar"
+                "https://cdn.modrinth.com/data/9ewe2JHJ/versions/Fi2cfBjs/utility-belt-fabric-2.4.3%2B1.21.jar"
             ],
-            "fileSize": 255437
+            "fileSize": 248907
         },
         {
             "path": "mods/veinmining-fabric-5.0.0-beta+1.21.jar",
