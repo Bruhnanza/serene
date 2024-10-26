@@ -73,16 +73,16 @@
             "fileSize": 1007136
         },
         {
-            "path": "mods/Controlify-2.0.0-beta.17+1.20.1-fabric.jar",
+            "path": "mods/Controlify-2.0.0-beta.17+1.21-fabric.jar",
             "hashes": {
-                "sha1": "4c47cbda759e29b3a6f0aa96b265ac0c7631c78a",
-                "sha512": "8f9b3643cf9c202cf3bf3a6b3dfa01d2677a1479ee40b78843702683c0030bf99c1ddd13ddd7fe3c9492d2a6353f4aec9e7e8b6f11e74640c097c83ae0b375c7"
+                "sha1": "670b353c82af6d095d57ca16e79c053a9f0a5587",
+                "sha512": "ed81533ed7d0c03219dad4da825f9d29368ede76efd01948f617954452d9ce7a50ada53e8da199f449c793e0809e93cc9bffa4efef912137231cebd51836b712"
             },
             "downloads": [
                 "https://cdn.modrinth.com/data/DOUdJVEm/versions/mYyOLshA/Controlify-2.0.0-beta.17%2B1.21-fabric.jar",
                 "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.17/Controlify-2.0.0-beta.17+1.21-fabric.jar"
             ],
-            "fileSize": 4105063
+            "fileSize": 4106059
         },
         {
             "path": "mods/cubes-without-borders-2.1.1+1.21.jar",
