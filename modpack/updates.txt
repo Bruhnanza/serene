@@ -14,7 +14,7 @@ Updates
 - Updated Fabric Loader to 0.16.5
 
 Beta 2
-- Updated Accessories, Accessories Trinkets Compat Layer, Actually Harvest, Balm, Cardinal Components API, CIT Resewn, Clean F3, Controlify, C2ME, Dynamic FPS, Elytra Trims, EMI, Fabric API, Fabric Language Kotlin, Fast Paintings, FerriteCore, Hopo's Mods, ImmediatelyFast, JamLib, LambDynamicLights, Leaves Us In Peace, LibJF, Lootr, Mod Menu, Moonlight Lib, OptiGUI, owo-lib, Resourceful Lib, Respackopts,  Respawnable Pets, Simple Voice Chat, Snow! Real Magic!, Stormilla Modded, TslatEntityStatus, Tom's Simple Storage, Waystones, YetAnotherConfigLib, XP Storage, XP Storage - Trinkets, Zoomify
+- Updated Accessories, Accessories Trinkets Compat Layer, Actually Harvest, Balm, Cardinal Components API, CIT Resewn, Clean F3, Controlify, C2ME, Dynamic FPS, Elytra Trims, EMI, Fabric API, Fabric Language Kotlin, Fast Paintings, FerriteCore, Hopo's Mods, ImmediatelyFast, JamLib, LambDynamicLights, Leaves Us In Peace, LibJF, Lootr, Mod Menu, Moonlight Lib, M.R.U, OptiGUI, owo-lib, Resourceful Lib, Respackopts,  Respawnable Pets, Simple Voice Chat, Snow! Real Magic!, Stormilla Modded, TslatEntityStatus, Tom's Simple Storage, Utility Belt, Waystones, YetAnotherConfigLib, XP Storage, XP Storage - Trinkets, Zoomify
 - Added Stormilla Modded Dark, You're in Grave Danger
 - Removed Lenient Death
 - Updated to Fabric Loader 0.16.7
