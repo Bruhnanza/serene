@@ -1,6 +1,6 @@
 {
     modCompat: {
-        nerbCompat: "xTrue"
+        accShadow: "xDivide"
     },
     darkMode: "xTrue"
 }
