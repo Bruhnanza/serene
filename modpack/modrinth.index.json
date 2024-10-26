@@ -1435,15 +1435,15 @@
             "fileSize": 142446
         },
         {
-            "path": "mods/MRU-1.0.2+1.21+fabric.jar",
+            "path": "mods/MRU-1.0.4+1.21+fabric.jar",
             "hashes": {
-                "sha1": "6ecfc84df73acea97d7a601e655fa07619cd6045",
-                "sha512": "167f0064fe28e36f2c00589966f96934b9c253510caba2a171f95e1d430e29dfeb93b1615afaa40b455a3286f9c71a9313a53c3e2dcfae070bfd95ade1ee9de6"
+                "sha1": "40f5c5ae085485e96f53e2fe1fea40c3a5ac9add",
+                "sha512": "982983c29f9599678dc07074d655339dbe73a58a48e4456ae28703226a8e53455945884466dfa472f5f5ec6d8edf45ebd898d795310ce5f8d8fc0a0433bfe8d6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/SNVQ2c0g/versions/s99KEPTF/MRU-1.0.2%2B1.21%2Bfabric.jar"
+                "https://cdn.modrinth.com/data/SNVQ2c0g/versions/umwxY8w7/MRU-1.0.4%2B1.21%2Bfabric.jar"
             ],
-            "fileSize": 106078
+            "fileSize": 106190
         },
         {
             "path": "mods/NaturesCompass-1.21-2.2.6-fabric.jar",
@@ -1776,15 +1776,15 @@
             "fileSize": 612513
         },
         {
-            "path": "mods/utility-belt-fabric-2.4.3+1.21.jar",
+            "path": "mods/utility-belt-fabric-2.5.0+1.21.1.jar",
             "hashes": {
-                "sha1": "dddc414b237b12220c454316590cfef001bb45b4",
-                "sha512": "9223f754e38e3fb15171d89e0ac01c7091c7321143c458a3d6ac9a0317eca8e343aec3dcd9eb438a9757810b85cde7eda9c37cbdd72b2dce64a3b2cc15229ace"
+                "sha1": "286202d2ac27684308f2dd2bbffef59c70d5681d",
+                "sha512": "514e4e8a1c4961b9755c984efa35538dde6c551f944ab5ed56145ad99afb59d5452ad33b998617886e4d329becafc73541da840091cc629425ef96417923c461"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9ewe2JHJ/versions/Fi2cfBjs/utility-belt-fabric-2.4.3%2B1.21.jar"
+                "https://cdn.modrinth.com/data/9ewe2JHJ/versions/TQZUW2l5/utility-belt-fabric-2.5.0%2B1.21.1.jar"
             ],
-            "fileSize": 248907
+            "fileSize": 255437
         },
         {
             "path": "mods/veinmining-fabric-5.0.0-beta+1.21.jar",
