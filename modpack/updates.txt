@@ -14,5 +14,13 @@ Updates
 - Updated Fabric Loader to 0.16.5
 
 Beta 2
-- Updated Accessories, Accessories Trinkets Compat Layer, Actually Harvest, Balm, Controlify, C2ME, Elytra Trims, EMI, Fabric Language Kotlin, LambDynamicLights, Leaves Us In Peace, LibJF, Moonlight Lib, OptiGUI, owo-lib, Resourceful Lib, Respackopts,  Respawnable Pets, Simple Voice Chat, Tom's Simple Storage
+- Updated Accessories, Accessories Trinkets Compat Layer, Actually Harvest, Balm, Cardinal Components API, CIT Resewn, Clean F3, Controlify, C2ME, Dynamic FPS, Elytra Trims, EMI, Fabric API, Fabric Language Kotlin, Fast Paintings, FerriteCore, Hopo's Mods, ImmediatelyFast, JamLib, LambDynamicLights, Leaves Us In Peace, LibJF, Lootr, Mod Menu, Moonlight Lib, OptiGUI, owo-lib, Resourceful Lib, Respackopts,  Respawnable Pets, Simple Voice Chat, Snow! Real Magic!, Stormilla Modded, TslatEntityStatus, Tom's Simple Storage, Waystones, YetAnotherConfigLib, XP Storage, XP Storage - Trinkets, Zoomify
+- Added Stormilla Modded Dark, You're in Grave Danger
+- Removed Lenient Death
+- Updated to Fabric Loader 0.16.7
 - Lootr now used vanilla chest textures
+
+Known issues
+- Accessories GUI is 90% complete, will finalize kinks in next version and support new experimental settings
+- Some GUIs like Farmer's Delight Refabricated are not completed
+- XP Storage items like XP Book and XP Manual have previous version's textures, fixed in next version
