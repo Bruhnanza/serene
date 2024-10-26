@@ -50,7 +50,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["presencefootsteps:default_sound_pack","moonlight:mods_dynamic_assets","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","fabric","vanilla","file/Stormilla-v2.11.2.zip","file/Stormilla-Modded-2.0.zip"]
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","moonlight:mods_dynamic_assets","minecraft:supporteatinganimation","continuity:default","continuity:glass_pane_culling_fix","file/Stormilla-v2.11.2.zip","file/Stormilla-Modded-Dark-2.1.zip"]
 incompatibleResourcePacks:["appleskin","balm-fabric","carryon","chargedcharms","elytratrims","kiwi","modernfix","mru","regions_unexplored","sereneseasons","simplehats","spectrelib","terrablender","toms_storage","usefulslime","veinmining","waystones","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
