@@ -9,3 +9,8 @@ Updates
 - Removed Better Archeology, Better Statistics Screen, Blur+, Comforts, Do a Barrel Roll, EnchantedShulkers, Hold That Chunk, Incendium Biomes Only, Indium, Lenient Death, MCA Reborn, Memory Leak Fix, Seperated Leaves, Sushi Bar, Trinkets, Wolf Port
 - Missing Bookshelf, Bountiful, Bountiful Fares, EMI Trades, FriendlyFire, Glide, Incendium, Kambrik, Radiant Gear, YUNG's Mods (10)
 - Updated Fabric Loader to 0.16.7
+
+
+- Updated Biomes O' Plenty, Language Reload, Lithium, Lithostitched, Traveler's Backpack
+- Readded YUNG's API, YUNG's Better Desert Temples, YUNG's Better Dungeons, YUNG's Better End Island, YUNG's Better Jungle Temples, YUNG's Better Nether Fortresses, YUNG's Better Ocean Monuments, YUNG's Better Strongholds, YUNG's Better Witch Huts
+- Discontinued YUNG's Better Mineshafts in favor of Hopo's Better Mineshaft as it has been more consistently released
