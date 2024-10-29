@@ -85,16 +85,16 @@
             "fileSize": 4106059
         },
         {
-            "path": "mods/cubes-without-borders-2.1.1+1.21.jar",
+            "path": "mods/cwb-fabric-3.0.0+mc1.21.jar",
             "hashes": {
-                "sha1": "bb6fbf6a7ae382daeea2979d4471c0acdeab1860",
-                "sha512": "2fda7f3fb4db1c7d84d746b964fd972a18df350d3d61de23418601bc6dc699f556d2c247515c444977098b7e4dd04d6f06defc2d7a02ea593a477e536e19c211"
+                "sha1": "0979201d1d131a3bf0594060c58da7dcb55aded6",
+                "sha512": "78a9e25f6b8bdd4637a10d7e0ffea85c9704bcae88a4daba27a843e63e2044cf2718c4807c247745e2992fdda06ec176c326e7ca862200fab2125de8fa03436d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ETlrkaYF/versions/fbzkv9Iu/cubes-without-borders-2.1.1%2B1.21.jar",
-                "https://github.com/Kir-Antipov/cubes-without-borders/releases/download/2.1.1%2B1.21/cubes-without-borders-2.1.1+1.21.jar"
+                "https://cdn.modrinth.com/data/ETlrkaYF/versions/m350hyy8/cwb-fabric-3.0.0%2Bmc1.21.jar",
+                "https://github.com/Kir-Antipov/cubes-without-borders/releases/download/3.0.0%2B1.21/cwb-fabric-3.0.0+mc1.21.jar"
             ],
-            "fileSize": 55827
+            "fileSize": 81288
         },
         {
             "path": "mods/Debugify-1.21.1+1.0.jar",
@@ -234,15 +234,15 @@
             "fileSize": 58822
         },
         {
-            "path": "mods/ferritecore-7.0.1-fabric.jar",
+            "path": "mods/ferritecore-7.0.2-hotfix-fabric.jar",
             "hashes": {
-                "sha1": "42dad3cb940329c809ffc65ce979c61f99265ee9",
-                "sha512": "9f52249059d5d14317292dedf08bf10860ec81aa94238d70a8fecbc372fc75fe95e80f41983379674b180d2ae458dab36a5a3c91738236211287a401ad7ba74b"
+                "sha1": "48ee764932d0c8ec81a2223dbe333886938e512c",
+                "sha512": "ca975bd3708cd96d30cf1447ac8883572113562eb2dd697e60c1cf382d6b70d0b1a511fcbfd042c51b2cf5d5ffc718b847f845e4c8a3e421e8c9ee741119a421"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uXXizFIs/versions/zQSo4nxk/ferritecore-7.0.1-fabric.jar"
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/bwKMSBhn/ferritecore-7.0.2-hotfix-fabric.jar"
             ],
-            "fileSize": 117179
+            "fileSize": 120709
         },
         {
             "path": "mods/fsb-interop-1.4.0+mc1.21-build.54.jar",
@@ -290,16 +290,16 @@
             "fileSize": 2707610
         },
         {
-            "path": "mods/lambdynamiclights-3.1.1+1.21.1.jar",
+            "path": "mods/lambdynamiclights-3.1.2+1.21.1.jar",
             "hashes": {
-                "sha1": "f54a3f3124f89c2d20007c0c6321586f856a059b",
-                "sha512": "0a5b1af2fa2e40fd16300e42d39b736399d3010b6fd169411f94d6357172ee6d1cc4a559ba179b88b1b02e31d3ef24802729bec5c14eeade39d44a56b9580a81"
+                "sha1": "f76d97a197c624a78b7b9ccedabb079e2afa3da1",
+                "sha512": "2279a80d3eacc0af379df6524209fc80323796bae8df28a93d95927ade523a7085142aaa2e71f8fd2b015ff8e2e836c4a619d8e52a718bd86b4afabecba1cefd"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yBW8D80W/versions/49xc9xjf/lambdynamiclights-3.1.1%2B1.21.1.jar",
-                "https://github.com/LambdAurora/LambDynamicLights/releases/download/v3.1.1%2B1.21.1/lambdynamiclights-3.1.1+1.21.1.jar"
+                "https://cdn.modrinth.com/data/yBW8D80W/versions/f0UyHyXq/lambdynamiclights-3.1.2%2B1.21.1.jar",
+                "https://github.com/LambdAurora/LambDynamicLights/releases/download/v3.1.2%2B1.21.1/lambdynamiclights-3.1.2+1.21.1.jar"
             ],
-            "fileSize": 844910
+            "fileSize": 844797
         },
         {
             "path": "mods/language-reload-1.7.1+1.21.1.jar",
@@ -393,15 +393,15 @@
             "fileSize": 259071
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.21-v2.8.0.jar",
+            "path": "mods/NoChatReports-FABRIC-1.21.1-v2.9.0.jar",
             "hashes": {
-                "sha1": "f1822b058132f7f221a3ac4470d54d820369c04e",
-                "sha512": "092837afc0fcb5208561062f8e4cd69971efa94c0180ae377e318d35d8f278abbf1552e4a577be882dc7e870f884779bc36caf808c8bc90bb05490f1e034ddb8"
+                "sha1": "a5a2935dc6b8972e132fd9b143a8e4294b005924",
+                "sha512": "3326d278e57cc2d7bdb4348570c3876ed096af872e166241209ef5ac7c823829596a81570db029ac751e5a11b7686046f72119f259365350ca2eba10037f6d24"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/riMhCAII/NoChatReports-FABRIC-1.21-v2.8.0.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/sOHvPS0X/NoChatReports-FABRIC-1.21.1-v2.9.0.jar"
             ],
-            "fileSize": 310073
+            "fileSize": 309389
         },
         {
             "path": "mods/optigui-2.3.0-beta.6+1.21.jar",
@@ -577,15 +577,15 @@
             "fileSize": 857561
         },
         {
-            "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.292.jar",
+            "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.293.jar",
             "hashes": {
-                "sha1": "17150c4b77e04489dbfda12b0f65276727d230fc",
-                "sha512": "99d54394295732663bc20dbd4ea0e540c29f707ad0d4452fb6f2baf20e84a72a5e4f80c6027777290df63d6c9537be3c3800baafd43c30d712f45025413c0f53"
+                "sha1": "453f5f699ea61f7fcff6580b07e0c1d5dbdbc065",
+                "sha512": "eedd7d628b390dcb2ab3b60a3e7da26b02755ddbb6459c4d2bfb05cd634bd7ac1cb5a871a1454fd361d4d0a29a383b5cf8c6a980c9dbd5f85cd1c1eda950c6ef"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/VSNURh3q/versions/WeR1fglQ/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.292.jar"
+                "https://cdn.modrinth.com/data/VSNURh3q/versions/acrwgNVF/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.293.jar"
             ],
-            "fileSize": 4649987
+            "fileSize": 4650168
         },
         {
             "path": "mods/Chunky-1.4.16.jar",
@@ -851,15 +851,15 @@
             "fileSize": 202933
         },
         {
-            "path": "mods/voicechat-fabric-1.21.1-2.5.24.jar",
+            "path": "mods/voicechat-fabric-1.21.1-2.5.25.jar",
             "hashes": {
-                "sha1": "c2fde72444ab49a3592997bea3236d9e30cf09fc",
-                "sha512": "05bd1f98627c5d2b8d9ac7d9533e79f1988227e0a769a3d550c47a9a77f30ad3749c4225080c1776a2e7451182449a2c5465a93685144624b8b01ac1e3963ab5"
+                "sha1": "4f794b4141e5f1819a28de071bc9c48dce91767a",
+                "sha512": "57afc50e62003d7b2e16a41d9bd7cf7d5b998c43400e3ef7f8b371c335022c14ee7040da617e93b9b53f9fdab5e1d35577328f2166ff2610762e93bda1ee6177"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9eGKb6K1/versions/9IRn71aQ/voicechat-fabric-1.21.1-2.5.24.jar"
+                "https://cdn.modrinth.com/data/9eGKb6K1/versions/ojiqfkMY/voicechat-fabric-1.21.1-2.5.25.jar"
             ],
-            "fileSize": 6584586
+            "fileSize": 6586267
         },
         {
             "path": "mods/waveycapes-fabric-1.4.10-mc1.21.jar",
@@ -973,15 +973,15 @@
             "fileSize": 431021
         },
         {
-            "path": "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.6.jar",
+            "path": "mods/BiomesOPlenty-fabric-1.21.1-21.1.0.7.jar",
             "hashes": {
-                "sha1": "55b4fa4f4146d1c98aa67c105095233d4118a7a6",
-                "sha512": "0c55412b04a8de0052b3fa4009bf5635a21eadb9664feab5dd004b0a9dcdb99164aa5c2edecb7dd564436c95f24a886e5a4d468b82be4caab9fc474e9dc6c714"
+                "sha1": "bab78d4b1202d32cc2e44a370406184a2ab529fb",
+                "sha512": "c6bff66090d51999dd6c8ed26dae6dec54d4de460ab4b519b5871a1ca149840a16a7811f4742935304c26a3f3188b6a9e17d6006b20134e997ba7813277baf64"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HXF82T3G/versions/4cbugEv2/BiomesOPlenty-fabric-1.21.1-21.1.0.6.jar"
+                "https://cdn.modrinth.com/data/HXF82T3G/versions/qtNTr7tS/BiomesOPlenty-fabric-1.21.1-21.1.0.7.jar"
             ],
-            "fileSize": 22346653
+            "fileSize": 22346682
         },
         {
             "path": "mods/cardinal-components-api-6.1.2.jar",
@@ -1699,15 +1699,15 @@
             "fileSize": 256242
         },
         {
-            "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.3.jar",
+            "path": "mods/TerraBlender-fabric-1.21.1-4.1.0.4.jar",
             "hashes": {
-                "sha1": "29fd7250f77a93b07757ea7b30cee8989ab082b7",
-                "sha512": "df48c4d98ee9d65d4876c460596fb84987d8f7da23ce557591b78508260da9f079f4d6b7fb1774905ccb12d444d4d2db50e2509388845b9535c277b983f28a41"
+                "sha1": "eac44af5471ee1651440fc5a18c77fcdc8c32b23",
+                "sha512": "a83a00706cf5d096349487cf3b9efb71d36269d61c105bce6b0cb0ca0e62ea7825597a5730caff72e5fd545548aaf25f72f2c3f1781868c15170614be4becb73"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/kkmrDlKT/versions/IdxPCuWT/TerraBlender-fabric-1.21.1-4.1.0.3.jar"
+                "https://cdn.modrinth.com/data/kkmrDlKT/versions/T0P47d8V/TerraBlender-fabric-1.21.1-4.1.0.4.jar"
             ],
-            "fileSize": 334294
+            "fileSize": 334565
         },
         {
             "path": "mods/Terralith_1.21.x_v2.5.5.jar",
