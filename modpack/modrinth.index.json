@@ -73,16 +73,15 @@
             "fileSize": 1007136
         },
         {
-            "path": "mods/Controlify-2.0.0-beta.17+1.21-fabric.jar",
+            "path": "mods/Controlify-2.0.0-beta.19+1.21-fabric.jar",
             "hashes": {
-                "sha1": "670b353c82af6d095d57ca16e79c053a9f0a5587",
-                "sha512": "ed81533ed7d0c03219dad4da825f9d29368ede76efd01948f617954452d9ce7a50ada53e8da199f449c793e0809e93cc9bffa4efef912137231cebd51836b712"
+                "sha1": "a5568f634faa4a3332f3a65a6b965bd46194e4e3",
+                "sha512": "85b96c1239b18aa28cfebfae785b92946de925a5e08200aa18ab310c426d4603b2fc3863f188bfe1936b9c6a8ed28f9b0cfd4b6983817173e73b733d5d3dbd72"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/mYyOLshA/Controlify-2.0.0-beta.17%2B1.21-fabric.jar",
-                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.17/Controlify-2.0.0-beta.17+1.21-fabric.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/fDgqpqvt/Controlify-2.0.0-beta.19%2B1.21-fabric.jar"
             ],
-            "fileSize": 4106059
+            "fileSize": 4127744
         },
         {
             "path": "mods/cwb-fabric-3.0.0+mc1.21.jar",
@@ -109,15 +108,15 @@
             "fileSize": 292202
         },
         {
-            "path": "mods/dynamic-fps-3.7.4+minecraft-1.21.0-fabric.jar",
+            "path": "mods/dynamic-fps-3.7.6+minecraft-1.21.0-fabric.jar",
             "hashes": {
-                "sha1": "046645374431c17c73fd0a2f20bc45a62c9e86f4",
-                "sha512": "ea4aabe24096c106cfebcd55876adba414c0e46d9101fe64718fe9ad0ca16336521fbc59c9f320d58efcaad9901d701fd61f6b98c853c96629344bc7e8e01035"
+                "sha1": "5a1bc0630be861c9dac83c0be7a3ea0ccc4e70af",
+                "sha512": "8229e05675a84d711a98706413934a92e0dc81addea70008b8fdbd3bbcbf6625b2ff3cadb8a53b69e82817a1682aec6236ff65aeba319fade305d2df631dc2d6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/R2URg43h/dynamic-fps-3.7.4%2Bminecraft-1.21.0-fabric.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/nGAANyOn/dynamic-fps-3.7.6%2Bminecraft-1.21.0-fabric.jar"
             ],
-            "fileSize": 178907
+            "fileSize": 181704
         },
         {
             "path": "mods/e4mc_minecraft-fabric-5.2.1.jar",
@@ -256,16 +255,16 @@
             "fileSize": 73307
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.3.0+1.21.1.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.3.1+1.21.1.jar",
             "hashes": {
-                "sha1": "05783f56241876a7eb2613ddd8a2722b334b4bb6",
-                "sha512": "f078e888481f273ca304318427dcc068a73ef877aa4a89b9a0e205c0790fc9c2a0331e371c940b928068beef19cf4c590f48fb34e2cecebeb335059e4d61a0bb"
+                "sha1": "6fa88ccc5399e54f4dea8279ec11e849a52f86c6",
+                "sha512": "a95f2fab727b6312af5b20352deda96267c36a8d285d767ee921fc15de701467616edb3472f3d8d9be43a7a66cd3b74fdd64b21326166208337b72cca22a21ed"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/lQMxcaIl/ImmediatelyFast-Fabric-1.3.0%2B1.21.1.jar",
-                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.3.0/ImmediatelyFast-Fabric-1.3.0+1.21.1.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/1jIYgnG2/ImmediatelyFast-Fabric-1.3.1%2B1.21.1.jar",
+                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.3.1/ImmediatelyFast-Fabric-1.3.1+1.21.1.jar"
             ],
-            "fileSize": 248029
+            "fileSize": 241995
         },
         {
             "path": "mods/indium-1.0.35+mc1.21.jar",
@@ -793,16 +792,16 @@
             "fileSize": 530926
         },
         {
-            "path": "mods/shulkerboxtooltip-fabric-5.1.1+1.21.1.jar",
+            "path": "mods/shulkerboxtooltip-fabric-5.1.2+1.21.1.jar",
             "hashes": {
-                "sha1": "7ecf954448da33bcdf6571d57acd0fca3ff616c7",
-                "sha512": "b682dd3a5a025886c69cbf9e46fedf98670c4f041ffa6acadc618d6ac2845737c25fad9768d1c264a4463c8655a997260ad70398e24b767bd55328aaf971dfc7"
+                "sha1": "54bc5f1a6b55bbca16e301442f523fa1cfc7c9bb",
+                "sha512": "0248bbf086361629275285c9ec309da10b45c9338ae038317d63180e1aed14004b98216a4f9b98e5d83d5c9510b8b29071a6425769b415cf0df66da12c0ebb5f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/2M01OLQq/versions/ZEhGh0Mi/shulkerboxtooltip-fabric-5.1.1%2B1.21.1.jar",
-                "https://github.com/MisterPeModder/ShulkerBoxTooltip/releases/download/v5.1.1%2B1.21.1/shulkerboxtooltip-fabric-5.1.1+1.21.1.jar"
+                "https://cdn.modrinth.com/data/2M01OLQq/versions/RK2ApgKw/shulkerboxtooltip-fabric-5.1.2%2B1.21.1.jar",
+                "https://github.com/MisterPeModder/ShulkerBoxTooltip/releases/download/v5.1.2%2B1.21.1/shulkerboxtooltip-fabric-5.1.2+1.21.1.jar"
             ],
-            "fileSize": 370903
+            "fileSize": 370907
         },
         {
             "path": "mods/simple-hud-enhanced+1.21-1.21.1-4.7.2.jar",
@@ -874,15 +873,15 @@
             "fileSize": 359852
         },
         {
-            "path": "mods/Xaeros_Minimap_24.5.0_Fabric_1.21.jar",
+            "path": "mods/Xaeros_Minimap_24.6.1_Fabric_1.21.jar",
             "hashes": {
-                "sha1": "7d5bee294564439f73de921c39e1f0feb43cb514",
-                "sha512": "f32bb730de388053c76137ef12e54e70581c30056db54a42faf87feaefb771f0341f87a2bcacef6efeaee3abfd3bbd713da673c5a8a9923d4ce5023305d13104"
+                "sha1": "7002f3d1dbfca2b409995abc2c4d696438f16492",
+                "sha512": "783f5243f4d017071e26215660dafce6ff182e98583188296010d859b845f4d08d303cc930c9e98b28d67483c292ad0d00dada52916d275bda950f9975c4a222"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1bokaNcj/versions/ronrQ1g2/Xaeros_Minimap_24.5.0_Fabric_1.21.jar"
+                "https://cdn.modrinth.com/data/1bokaNcj/versions/C6gFqr7V/Xaeros_Minimap_24.6.1_Fabric_1.21.jar"
             ],
-            "fileSize": 1616091
+            "fileSize": 1639487
         },
         {
             "path": "mods/XaerosWorldMap_1.39.0_Fabric_1.21.jar",
@@ -1061,15 +1060,15 @@
             "fileSize": 2374030
         },
         {
-            "path": "mods/Continents_1.21_v1.1.5.jar",
+            "path": "mods/Continents_1.21.x_v1.1.6.jar",
             "hashes": {
-                "sha1": "4d508daac6a15df958e6587f738b6fc0178e9b66",
-                "sha512": "a5bafeb79e343a2e2867bf3c433b616f496cd67027cf7f00ef0fcc9c610a0e760158b04f32a2dfb3492b23473bde5defba53ce081506c43f8f631ea3b80a7a58"
+                "sha1": "2e81e9fdec2ff406519aeab82db48153233014a4",
+                "sha512": "784c192cc7b870b24160686389deaebe9e18433338c1d838eeca8bc6583223f0a1742af9e60b95e47d6bb3e776955a42478680b28b4c7019af40ac39249b1d5f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/bQ5TJA1E/versions/oBFmAahj/Continents_1.21_v1.1.5.jar"
+                "https://cdn.modrinth.com/data/bQ5TJA1E/versions/3G8gn8it/Continents_1.21.x_v1.1.6.jar"
             ],
-            "fileSize": 59439
+            "fileSize": 59401
         },
         {
             "path": "mods/craftsman_bows-1.0.1.jar",
@@ -1413,15 +1412,15 @@
             "fileSize": 46532
         },
         {
-            "path": "mods/moonlight-1.21-2.14.34-fabric.jar",
+            "path": "mods/moonlight-1.21-2.15.0-fabric.jar",
             "hashes": {
-                "sha1": "4ae587c5cae9e2b1b1069ccbdeb7e6b87159fe96",
-                "sha512": "11b3dd2a830c641e58648088c00c843e051166ef05d91121969da0fd1ea302b12f8dd8fa503f907e85a21a3c9ba7a2d4828b5da96ef2643a09d2f7cd43efd49c"
+                "sha1": "da943fd168c95b62eb4a4008d653177953a06431",
+                "sha512": "4434fc90f63f9e11ff5c7744ea0af7ca11e60111da38106580ee0867f1a011259e085477e092a919c38ee2080081216c52a890f753ddafbb2ac4d9a206b1ff32"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/twkfQtEc/versions/tDwCxTyf/moonlight-1.21-2.14.34-fabric.jar"
+                "https://cdn.modrinth.com/data/twkfQtEc/versions/kGNqDaWv/moonlight-1.21-2.15.0-fabric.jar"
             ],
-            "fileSize": 1008860
+            "fileSize": 1013316
         },
         {
             "path": "mods/moredelight-24.09.27-1.21-fabric.jar",
@@ -1479,15 +1478,15 @@
             "fileSize": 21184
         },
         {
-            "path": "mods/Nullscape_1.21.x_v1.2.8.jar",
+            "path": "mods/Nullscape_1.21.x_v1.2.9.jar",
             "hashes": {
-                "sha1": "fb2c6793040b9aa76699ed1b1fdb3e477c5e6fbc",
-                "sha512": "701943fd1bd424f92df88164f2aa20737fed2d3dc17f38ef4fc2fcde89f40d2437555a33459fe12bba2959ddc59b7291e6877fea342e8124f2985415b91a7b16"
+                "sha1": "82f23b8732dacd7392a54bf8e5852fd90603a44b",
+                "sha512": "8bad1dc9e70e752f4495821bceef6095b2e7859158afaa55887600e844f42f65b9a349d8027ecdfb5ce0aa12497103928a2412c46b67d241acf5a585408073b2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LPjGiSO4/versions/gHI14cqp/Nullscape_1.21.x_v1.2.8.jar"
+                "https://cdn.modrinth.com/data/LPjGiSO4/versions/cH2CT13K/Nullscape_1.21.x_v1.2.9.jar"
             ],
-            "fileSize": 339083
+            "fileSize": 345139
         },
         {
             "path": "mods/OctoLib-FABRIC-0.4.2.jar",
@@ -1655,26 +1654,26 @@
             "fileSize": 296149
         },
         {
-            "path": "mods/Structory_1.21.x_v1.3.6.jar",
+            "path": "mods/Structory_1.21.x_v1.3.7.jar",
             "hashes": {
-                "sha1": "a86a17dcbe098405a114713f98c146728b07d722",
-                "sha512": "c8fd60cb8d115d6023c812500ad05ca1fa4151b124d34973049ee8150a730c3255cad44a5d8365760fffc426666303c817695754baf57cfabaab3e12ab2f02ea"
+                "sha1": "ea75572de08092223a843ae61db5216cf4b1b3ff",
+                "sha512": "4750f158808d3814222fb4b779f51e174646f039e04df121c93aa08f9cb74b797a42ec28525dd879c14aeb07de82fcfe430f8a6b89a18a315121f743a34d8f08"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/aKCwCJlY/versions/aVTpHwSJ/Structory_1.21.x_v1.3.6.jar"
+                "https://cdn.modrinth.com/data/aKCwCJlY/versions/zD9ttBHm/Structory_1.21.x_v1.3.7.jar"
             ],
-            "fileSize": 1261836
+            "fileSize": 1260651
         },
         {
-            "path": "mods/Structory_Towers_1.21_v1.0.8.jar",
+            "path": "mods/Structory_Towers_1.21.x_v1.0.9.jar",
             "hashes": {
-                "sha1": "7f06c838da16e961a38af5b2363c8b9d6bb5e553",
-                "sha512": "c3548900a2b6ca02cb7f631ea487a142c7e436523182945db51db64a213ae53a9e1b27289ef57771fc8807f2febd59d0e0ff2b614b55631e75edc56fe48dfc4a"
+                "sha1": "38da80bed2c5811be5fb913b6b0a939161105587",
+                "sha512": "80ff79b6dae3fdc9704d841c756c2ed18c48292e146819840a7e7747c3babe61d5fc1939db1dd688897bc96fac18e4b4aff0eff866b98b85045f02deab76d4d7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/j3FONRYr/versions/rU8VTpx1/Structory_Towers_1.21_v1.0.8.jar"
+                "https://cdn.modrinth.com/data/j3FONRYr/versions/IGlyM8iH/Structory_Towers_1.21.x_v1.0.9.jar"
             ],
-            "fileSize": 487425
+            "fileSize": 482295
         },
         {
             "path": "mods/t_and_t-neoforge-fabric-1.13.2.jar",
@@ -1710,15 +1709,15 @@
             "fileSize": 334565
         },
         {
-            "path": "mods/Terralith_1.21.x_v2.5.5.jar",
+            "path": "mods/Terralith_1.21.x_v2.5.6.jar",
             "hashes": {
-                "sha1": "e9681a1963843e5be381d7ba6b2e869b47f062e6",
-                "sha512": "8a0c06e3380d80f346a2e0ccba24dcd95011152c5110070d2093af35da1fa2c1399ab1fa9b5d466de2ed233ef2d8c99e6804ea9d20e49c886f0f7d5d46cad4ef"
+                "sha1": "4387245232dd9d6f5e7a06b222cb0fa404a6503f",
+                "sha512": "3696528f49892c7e7719013ebf46e8af4c2db0924011e67b800262e3aca7728ac116b16689f29990a15f292bf8130955b4c165c118925b0689c8c27cd1f249f0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/8oi3bsk5/versions/rEF3UnUI/Terralith_1.21.x_v2.5.5.jar"
+                "https://cdn.modrinth.com/data/8oi3bsk5/versions/81gyNzd0/Terralith_1.21.x_v2.5.6.jar"
             ],
-            "fileSize": 2966255
+            "fileSize": 3004814
         },
         {
             "path": "mods/terralith-biome-saplings-1.1.3.jar",
