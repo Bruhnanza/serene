@@ -962,17 +962,6 @@
             "fileSize": 437036
         },
         {
-            "path": "mods/lootr-fabric-1.21-1.10.34.86.jar",
-            "hashes": {
-                "sha1": "342ea1f1fbafa9eb4a33921313dcb70f75d9449a",
-                "sha512": "b67bbf8615408a55989725fc8a428f6f9a7afe1dde85c339e9417cc04a15a7dd6df73e6556830f675f40d6b207a89caff3970695cef7721937794bbe63c32f12"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/EltpO5cN/versions/jXjew0q3/lootr-fabric-1.21-1.10.34.86.jar"
-            ],
-            "fileSize": 585640
-        },
-        {
             "path": "mods/LunaSlimes-1.8.1-Fabric+1.21.jar",
             "hashes": {
                 "sha1": "d4d1a8078f23117e6ff54aea259d76dd0dcd985b",
