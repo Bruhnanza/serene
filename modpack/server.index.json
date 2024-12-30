@@ -1094,6 +1094,17 @@
             "fileSize": 10876649
         },
         {
+            "path": "mods/PassableFoliage-1.21-Fabric-9.1.2.jar",
+            "hashes": {
+                "sha1": "18fb215e65c64244b9027c7e7d9fbafc17fd103f",
+                "sha512": "e5d114fcc0ab3ab511e056923aeb9d682c8bdf8c933659b879085d95632b849cdb61253b046db33ac4ab4e8b45fde7757a878b16756c83aeb1c4d4a9e33337df"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/uaLW6JVR/versions/3xVohBAy/PassableFoliage-1.21-Fabric-9.1.2.jar"
+            ],
+            "fileSize": 42620
+        },
+        {
             "path": "mods/pumpkin_pie_delight-1.0.1+1.21.jar",
             "hashes": {
                 "sha1": "5fe6e3c69445d2ed64aab1e92cd479fa19868d7f",
