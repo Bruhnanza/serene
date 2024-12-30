@@ -73,16 +73,16 @@
             "fileSize": 292202
         },
         {
-            "path": "mods/fabric-api-0.110.0+1.21.1.jar",
+            "path": "mods/fabric-api-0.114.0+1.21.1.jar",
             "hashes": {
-                "sha1": "2b7f7f96571285868e962e269762987e817094ff",
-                "sha512": "db43c35873b0a0b073cf8c19d825a1db27d5c579c885091ddc462de783582c5c162d556b831915d1df46fbec781f0a9fe6c60a20ffa050915d80c5d99b9cb211"
+                "sha1": "545047b690a33a593aa999c1fe5e2216e0493d36",
+                "sha512": "714ce2e8ad3d4ca70049ae771f71794c50138af7800fdc14d2bac6b2ef632ac7ba3b09efc78e3ac425ed20ea217ed4982420792d8fe737cb3f49d0353af8af05"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Zp9iAZdZ/fabric-api-0.110.0%2B1.21.1.jar",
-                "https://github.com/FabricMC/fabric/releases/download/0.110.0%2B1.21.1/fabric-api-0.110.0+1.21.1.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/biIRIp2X/fabric-api-0.114.0%2B1.21.1.jar",
+                "https://github.com/FabricMC/fabric/releases/download/0.114.0%2B1.21.1/fabric-api-0.114.0+1.21.1.jar"
             ],
-            "fileSize": 2384492
+            "fileSize": 2385062
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
@@ -142,16 +142,16 @@
             "fileSize": 744554
         },
         {
-            "path": "mods/modernfix-fabric-5.19.6+mc1.21.1.jar",
+            "path": "mods/modernfix-fabric-5.20.0+mc1.21.1.jar",
             "hashes": {
-                "sha1": "3cd579fecc42eef73fe7dcd805f8692369dbb030",
-                "sha512": "c6b65159d4ea9c36d444c68a722b456a9866051223fe5774db9853c8e2e77c7ae847924b1c2984f3b6dacabebf31408f036147b4b9c7e36d61c455746b5e93b0"
+                "sha1": "a490306a95a32b9826a558a213093e4105f38339",
+                "sha512": "48dfe872d902e7768965f808dcf2189f420cc8fb3e5aeaceb6055b348f00deb4fdb12fd3a0c7007e8a37cb28166ae265fe5d6ae08970a1df0a89d1c99b48a3e3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/Crhw8krB/modernfix-fabric-5.19.6%2Bmc1.21.1.jar",
-                "https://github.com/embeddedt/ModernFix/releases/download/5.19.6%2B1.21.1/modernfix-fabric-5.19.6+mc1.21.1.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/rOvdnqLx/modernfix-fabric-5.20.0%2Bmc1.21.1.jar",
+                "https://github.com/embeddedt/ModernFix/releases/download/5.20.0%2B1.21.1/modernfix-fabric-5.20.0+mc1.21.1.jar"
             ],
-            "fileSize": 422601
+            "fileSize": 429876
         },
         {
             "path": "mods/moreculling-fabric-1.21.1-1.0.3.jar",
