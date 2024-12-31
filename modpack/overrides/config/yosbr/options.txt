@@ -145,6 +145,10 @@ key_key.optigui.inspect:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.simplehudenhanced.toggle_hud:key.keyboard.unknown
+key_key.spyglass-improvements.use:key.keyboard.c
+key_key.things.place_item:key.keyboard.h
+key_key.things.openenderchest:key.keyboard.g
+key_key.things.toggle_socks_jump_boost:key.keyboard.caps.lock
 key_key.toms_storage.open_terminal:key.keyboard.unknown
 key_key.travelersbackpack.inventory:key.keyboard.g
 key_key.travelersbackpack.sort:key.keyboard.unknown
