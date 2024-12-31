@@ -20,9 +20,19 @@ Updates
 - Common Network and M.R.U removed as they are no longer needed as dependencies
 - Lootr is removed as it has issues when enabling Vanilla Textures and its textures make it prone to crash with resource packs
 - Skipped Traveler's Backpack as it has breaking changes in beta and currently incompatiable in Stormilla Modded
-- Replace Xaero's & OPAC with Antique Atlas / Map Atlases once item and minimap features are available
 
 
 New Server Version
 - Added Alternate Current, Carpet, Chunky Extension, Resourceful Config, Sepals, Server Snapshot Performance Backports (temporarily disabled), ServerCore, Servux, Simple Voice Chat Enhanced Groups, Simple Voice Chat Music, Sneaky Server, Structure Layout Optimizer, ThreadTweak, TT20, Very Many Player, View Distance Fix, Voice Chat Interaction
 - Removed Animatica, AppleSkin, Better Mount HUD, Better Suggestions, Better Third Person, Bobby, Capes, cat_jam, CIT Resewn, Clean F3, Complementary Shaders, Continuity, Cubes Without Borders, Distant Horizons, Dynamic FPS, Eating Animations, Enhanced Block Entities, EMF, Enhanced Attack Indicator, ESF, ETF, e4mc, Fabric Skyboxes, Fabrishot, FastQuit, FSB Interlop, Iris, LambDynamicLights, Language Reload, MixinTrace, Model Gap Fix, Mod Menu, More Chat History, Mouse Tweaks, Not Enough Animations, OptiGUI, Paginated Advancements, Particular, Polytone, Presence Footsteps, Puzzle, Reese's Sodium Options, Remove Reloading Screen, Shulker Box Tooltip, Simple HUD Enhanced, Sound Physics Remastered, TslatEntityStatus, Wavey Capes, YDM's Weapon Master, Yeetus Experimentus, YetAnotherConfigLib, 3D Skin Layers
+
+
+Future Changes
+- Atlas: Replace Xaero's & OPAC with Antique Atlas Item / Map Atlases once the former is available or the latter updates
+- Custom Icon / Menu: In progress or awaiting progress
+
+Fixes
+- Charged Charms: TBD / Not explored yet
+- Leave Us In Peace: Awaiting fix for compat with Biomes O' Plenty
+- Lootr: TBD / Not explored yet
+- Snow Under Trees: Not reported yet, may ask Snow! Real Magic! to implement same feature set or other alternative
