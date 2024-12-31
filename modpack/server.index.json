@@ -50,15 +50,15 @@
             "fileSize": 20723
         },
         {
-            "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.308.jar",
+            "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.310.jar",
             "hashes": {
-                "sha1": "64c4cb51da9a69e1e71f74077be354ef8428cfe0",
-                "sha512": "538e0ddebd04d28a2a6b19a9a1e2f461a80518a738dbc94ff58280101526d9a37868311b2684512429a6f8e84668d8cccc94c3503b302a5108c35978fa712cef"
+                "sha1": "8e9267af712b705ab08e46c27aa27e6814f20e32",
+                "sha512": "eac8f2b3d31f296cd84d58238ac011b107ae3428f470abf50b0edf7b639ba2608ee078bf530d4846297c5c144466358578cc54623cee7efc43e7438194f85c6d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/VSNURh3q/versions/gBHj4pcP/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.308.jar"
+                "https://cdn.modrinth.com/data/VSNURh3q/versions/H5YtgA2t/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.310.jar"
             ],
-            "fileSize": 4662068
+            "fileSize": 4660890
         },
         {
             "path": "mods/Debugify-1.21.1+1.0.jar",
