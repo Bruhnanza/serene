@@ -278,6 +278,17 @@
             "fileSize": 1007875
         },
         {
+            "path": "mods/fabric-carpet-1.21-1.4.147+v240613.jar",
+            "hashes": {
+                "sha1": "54f2907d83e67283d165336f26e5219d4bd36037",
+                "sha512": "e6f33d13406796a34e7598d997113f25f7bea3e55f9d334b73842adda52b2c5d0a86b7b12ac812d7e758861e3f468bf201c6c710c40162bb79d6818938204151"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/TQTTVgYE/versions/f2mvlGrg/fabric-carpet-1.21-1.4.147%2Bv240613.jar"
+            ],
+            "fileSize": 1525027
+        },
+        {
             "path": "mods/fabrictailor-2.5.0.jar",
             "hashes": {
                 "sha1": "cd38b5b7b60a2ea68580d11d2e8cc0b008b0532a",
@@ -346,6 +357,17 @@
             "fileSize": 1177861
         },
         {
+            "path": "mods/resourcefulconfig-fabric-1.21-3.0.8.jar",
+            "hashes": {
+                "sha1": "4887ec03300fc498b37ec361810d659d74702ade",
+                "sha512": "e64a7d4487a53ae6113933f3ed52bf5aab2b9a684523476e96fa71910ef1949c6343f2cf75365874cff8abb6c71aa5f526347a9b069548a5e933ce0c2ef51501"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/M1953qlQ/versions/dOnnWty6/resourcefulconfig-fabric-1.21-3.0.8.jar"
+            ],
+            "fileSize": 345014
+        },
+        {
             "path": "mods/respackopts-4.11.3.jar",
             "hashes": {
                 "sha1": "a83c7cd89fc2ac4326c45a2570cfbf8c40f4efa7",
@@ -379,6 +401,17 @@
             "fileSize": 895530
         },
         {
+            "path": "mods/servux-fabric-1.21-0.3.11.jar",
+            "hashes": {
+                "sha1": "82d53287ebdb5d70da309392e36d2a7bea40a630",
+                "sha512": "1f4e6c8de8cdb2e1007d9023eaecf83924066d4c433abdce10c3549f83dcff4736891907fddd3660f77e42a6e3eeeed1b95bd6dbd5e7eec76c1117ac74738051"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/zQhsx8KF/versions/dSlNtEgG/servux-fabric-1.21-0.3.11.jar"
+            ],
+            "fileSize": 530827
+        },
+        {
             "path": "mods/simple-voice-chat-music-0.2.0.jar",
             "hashes": {
                 "sha1": "54ee208cbcb49fd5bd150b274ec0734f29c4e73e",
@@ -399,6 +432,17 @@
                 "https://cdn.modrinth.com/data/HRXgZcrv/versions/nAAnt6hS/sneaky-mc1.21-1.0.14.2.jar"
             ],
             "fileSize": 24898
+        },
+        {
+            "path": "mods/structure_layout_optimizer-fabric-1.0.6.jar",
+            "hashes": {
+                "sha1": "c93a4e1adc1c940bf576c53cee5f0ad116bd9cab",
+                "sha512": "60dc793bc0a81a42a25c4c4fb244fdacb85d008f5dfb61027c0812eb934936af13fd2eb10660ad08ab4ebf474e5f01deb3e503039300ffbefebae6b44526b476"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ayPU0OHc/versions/nvJ76VDd/structure_layout_optimizer-fabric-1.0.6.jar"
+            ],
+            "fileSize": 62572
         },
         {
             "path": "mods/tt20-0.7.1+mc1.21.jar",
@@ -500,15 +544,15 @@
             "fileSize": 722255
         },
         {
-            "path": "mods/advancednetherite-fabric-2.2.0-1.21.1.jar",
+            "path": "mods/advancednetherite-fabric-2.2.1-1.21.1.jar",
             "hashes": {
-                "sha1": "bb07c0ddd67b3266a6ff2c28f6dd19c59b4c5f20",
-                "sha512": "177c0e2910cd24ed575ed0545b0a3a643a4caf9de977028b63c0ca2c94713192797593ad04b36fdfef6265dfedf797a1b9c495fdca2ca0228145544c134b145d"
+                "sha1": "704c4231bd0d6ccf475d9c451d93344e8f107b84",
+                "sha512": "afaaf8afe77036018d1a2d5f7948bc11e261f39a070f35aa26ba4d9c845410b456e3f374468ec32309eb489ee4a4dbc9055f264a4b51af399555e0e31875880e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/CFX9ftUJ/versions/wbu3DZME/advancednetherite-fabric-2.2.0-1.21.1.jar"
+                "https://cdn.modrinth.com/data/CFX9ftUJ/versions/V6q02QPT/advancednetherite-fabric-2.2.1-1.21.1.jar"
             ],
-            "fileSize": 510832
+            "fileSize": 508696
         },
         {
             "path": "mods/architectury-13.0.8-fabric.jar",
@@ -698,15 +742,15 @@
             "fileSize": 23504
         },
         {
-            "path": "mods/ExplorersCompass-1.21-2.2.5-fabric.jar",
+            "path": "mods/ExplorersCompass-1.21.1-2.2.5-fabric.jar",
             "hashes": {
-                "sha1": "887999686a0af0c16b6416a0ed910fcbc4d52a35",
-                "sha512": "7ba68c62e4b2e871e2acb0ddaf5c979c3176aaa976478a90839fbabcc1ab27653752a236f8cb6681e01ef7766fbb0006f68aaf202d9ac1cfbd5cb27c60f26143"
+                "sha1": "3be0c46a0c7a41714a0a1149e144d3117a102043",
+                "sha512": "2aee404833e040b004cbd5b63c08c1fcf2f05046b1f73a83e89a471f96ff959d400f2450d0fdfaf6e35a476062cf61ff04745ebebf342debec07da524a2f791c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/RV1qfVQ8/versions/4mslBAc1/ExplorersCompass-1.21-2.2.5-fabric.jar"
+                "https://cdn.modrinth.com/data/RV1qfVQ8/versions/i1WCJNIW/ExplorersCompass-1.21.1-2.2.5-fabric.jar"
             ],
-            "fileSize": 164583
+            "fileSize": 164587
         },
         {
             "path": "mods/Explorify v1.6.2 f10-48.jar",
@@ -753,15 +797,15 @@
             "fileSize": 4004202
         },
         {
-            "path": "mods/FarmersDelight-1.21.1-2.2.7+refabricated.jar",
+            "path": "mods/FarmersDelight-1.21.1-2.2.8+refabricated.jar",
             "hashes": {
-                "sha1": "a60fd002ac2bb5cbada28c0acabb7e198867c7d1",
-                "sha512": "e0f66638fde46c82d33f6e46eaa36c45a0ef7e690834f2431cce47931374dd10131ff5dfa464df6fd4943ad79d9c53c0e813773f0ea90246d2f97af76e57747f"
+                "sha1": "540ecd66a85ff64565ea2158cbeb1dd69a92b226",
+                "sha512": "5c0223d74c424190ebeadc0d5b57d9ab0bda6a9269410ff13232bedcfd33e0e059f73575f7a44a2b288c556df08c30428c3ceb4b168aaae557905c0680a2bf99"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/7vxePowz/versions/rBkjjNLZ/FarmersDelight-1.21.1-2.2.7%2Brefabricated.jar"
+                "https://cdn.modrinth.com/data/7vxePowz/versions/Yl0gf0Ym/FarmersDelight-1.21.1-2.2.8%2Brefabricated.jar"
             ],
-            "fileSize": 10907307
+            "fileSize": 10922872
         },
         {
             "path": "mods/fastpaintings-1.21-1.2.15-fabric.jar",
@@ -1017,15 +1061,15 @@
             "fileSize": 142446
         },
         {
-            "path": "mods/NaturesCompass-1.21-2.2.6-fabric.jar",
+            "path": "mods/NaturesCompass-1.21.1-2.2.7-fabric.jar",
             "hashes": {
-                "sha1": "d3eb219c9b8dd93da2d10cc466140365f6158598",
-                "sha512": "03475a334c12ab5d8fe3ddb17b0aca1b34f3a190e81a6260a38ada48900949dc83c5284c230d935c90fecf9b6df15f0cb9ec2af998a5f59a5e59c79e6baf667f"
+                "sha1": "c705431dd94ae496fb527a4c36855c86fd8ef987",
+                "sha512": "95e686f2b4d13c8d2e00ce24ef32075900aaacf38b2b6af676e92ef8936ea39b95146fea05321029a73a3322ba685361afbe7bbe6667143bf27fead0c5d54f8c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/fPetb5Kh/versions/tBmAcdOX/NaturesCompass-1.21-2.2.6-fabric.jar"
+                "https://cdn.modrinth.com/data/fPetb5Kh/versions/9W2MUsnU/NaturesCompass-1.21.1-2.2.7-fabric.jar"
             ],
-            "fileSize": 223971
+            "fileSize": 223976
         },
         {
             "path": "mods/nemos-woodcutter-1.11.5-1.21.1.jar",
