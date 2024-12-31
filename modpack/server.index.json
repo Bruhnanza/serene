@@ -401,15 +401,15 @@
             "fileSize": 24898
         },
         {
-            "path": "mods/tt20-0.7.0+mc1.21.jar",
+            "path": "mods/tt20-0.7.1+mc1.21.jar",
             "hashes": {
-                "sha1": "52ac263911e0e4a2d696c8c2efc1d4331321dccb",
-                "sha512": "d3d4c8602d606fa8923fda1faab4eeffa8081e0d67585c8a6a375901d6a84d8f009bbfcd80c216068b9eb5c034447563fec258abccc1f89f775c6f5c6436e9fa"
+                "sha1": "aead391a46c08253342492c67964b55870489d8e",
+                "sha512": "cefa0e24920e2dd5821f4394dd7e8bfe82eca9d93550aca49a16f865c31670e13f5975896cb8e20b48bff5a1f085a355a46d7d080130db61f8c3b6e8f2fdfc34"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YS3ZignI/versions/dbmmgocV/tt20-0.7.0%2Bmc1.21.jar"
+                "https://cdn.modrinth.com/data/YS3ZignI/versions/XHf8oLPI/tt20-0.7.1%2Bmc1.21.jar"
             ],
-            "fileSize": 59875
+            "fileSize": 60289
         },
         {
             "path": "mods/vcinteraction-fabric-1.21.1-1.0.8.jar",
