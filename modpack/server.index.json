@@ -489,28 +489,6 @@
             "fileSize": 6596289
         },
         {
-            "path": "mods/Xaeros_Minimap_24.7.1_Fabric_1.21.jar",
-            "hashes": {
-                "sha1": "f8fc189a851122919933c3dbb5f049e4b2e13105",
-                "sha512": "1b2d0b507d8067c3360f0a47d29e62346dcee90bcb0b0ce2f049dc2ab3035ca521558b5dc0cac1778410c6fadb25ff790d38448e8f6b43cc53fc274c05df7023"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/1bokaNcj/versions/Hyd81hdy/Xaeros_Minimap_24.7.1_Fabric_1.21.jar"
-            ],
-            "fileSize": 1655048
-        },
-        {
-            "path": "mods/XaerosWorldMap_1.39.2_Fabric_1.21.jar",
-            "hashes": {
-                "sha1": "427c4f03022aaf75447cdb747f160dda5f92a2cb",
-                "sha512": "05ca24e912cd3cef4f83eb32ce7ee22f90787e54bd8d7eddc99071a17649a5b10bdf0fa514b9689e721edf7420f6983bd222ee62e9775386c1701b3a249fa003"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/NcUtCpym/versions/2QD9OoBs/XaerosWorldMap_1.39.2_Fabric_1.21.jar"
-            ],
-            "fileSize": 952412
-        },
-        {
             "path": "mods/accessories-fabric-1.1.0-beta.19+1.21.1.jar",
             "hashes": {
                 "sha1": "1f54132d585d8d45425c5dd9df797246df7e5177",
@@ -973,17 +951,6 @@
             "fileSize": 530822
         },
         {
-            "path": "mods/leaves-us-in-peace-1.6.1+MC1.21-1.21.1.jar",
-            "hashes": {
-                "sha1": "aa50c146b52c8c6ccaa8b394b8e031b50f275432",
-                "sha512": "cca64da5c7a6ccf919d82812368e4c4704d8c77d56033367581e4b36c68e836b25f314332b4c4ba253a96f584c7dc704b8bbde79facc82bc298c8c83c259f500"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/IIpWIe1o/versions/jf4X0dtk/leaves-us-in-peace-1.6.1%2BMC1.21-1.21.1.jar"
-            ],
-            "fileSize": 250255
-        },
-        {
             "path": "mods/lithosphere-1.3.jar",
             "hashes": {
                 "sha1": "3db9c7d298c01785232e9c6c3fc53ec99d3a81af",
@@ -1114,17 +1081,6 @@
                 "https://cdn.modrinth.com/data/RH2KUdKJ/versions/6d1vaxHI/OctoLib-FABRIC-0.5.0.1.jar"
             ],
             "fileSize": 423202
-        },
-        {
-            "path": "mods/open-parties-and-claims-fabric-1.21.1-0.23.6.jar",
-            "hashes": {
-                "sha1": "cc1f4a5e8ca58ae6fcd62aeef96466466afc1b2c",
-                "sha512": "37a476ed5f7e1494b55ea7c1713e9dc6b05696dcac1b3d7ffaa0118d4668b9d7420a11f20dc3ac54eec9969858c086e73486c63c5bfd43a8d60440068c54a0b8"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/gF3BGWvG/versions/itmQ0mvZ/open-parties-and-claims-fabric-1.21.1-0.23.6.jar"
-            ],
-            "fileSize": 1335560
         },
         {
             "path": "mods/pandalib-fabric-0.4.2-1.21.jar",
