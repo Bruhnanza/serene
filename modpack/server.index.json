@@ -863,15 +863,15 @@
             "fileSize": 218611
         },
         {
-            "path": "mods/handcrafted-fabric-1.21-4.0.1.jar",
+            "path": "mods/handcrafted-fabric-1.21.1-4.0.2.jar",
             "hashes": {
-                "sha1": "261296cfc84679a8263639ee5b8108e986c5356f",
-                "sha512": "a9aa6f895a507c8027fada3ebf04e4fc5bde83699c49ec3f7fe40b2d11585002933d4463c4a7ff6b00d213eee05a99d6294273c7863785e2c1a8271eac2c45f0"
+                "sha1": "ed62f1233a0f59c0d93848abe87bbe7c0c558110",
+                "sha512": "46897824548127a1878ac63c2a9b1332ef46444a1e44b4a26a002812076ee1c44d5b8d5ede261f840b365fd61ccb467a06cc7a981eaf0537e9679c13f4fe2a25"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/pJmCFF0p/versions/f7tGbQaE/handcrafted-fabric-1.21-4.0.1.jar"
+                "https://cdn.modrinth.com/data/pJmCFF0p/versions/yeyZ6DeE/handcrafted-fabric-1.21.1-4.0.2.jar"
             ],
-            "fileSize": 7110801
+            "fileSize": 7118771
         },
         {
             "path": "mods/HopoBetterMineshaft-[1.21.1-1.21.3]-1.2.8.jar",
@@ -1072,15 +1072,15 @@
             "fileSize": 223976
         },
         {
-            "path": "mods/nemos-woodcutter-1.11.5-1.21.1.jar",
+            "path": "mods/nemos-woodcutter-1.12.3-1.21.1.jar",
             "hashes": {
-                "sha1": "ccbd46d1d85f7212251422ccce857a2bcb96302f",
-                "sha512": "bdf0315a19bbcdafd19ba6c593a35b43ebb69fa5f4f0b79d8b1c7e87140d7e82811a0e7474a5e44f4abcea52c0dacad8ce5a250e5d020a4aa68c1d5f3d28fd82"
+                "sha1": "20ee572b2608c94d8a9bce262afa7dcee3363b2a",
+                "sha512": "dca69fb9da60fd5c65c744a70f84b93a2de05a963fddcfada306820195ff844e838c02f623ef45af3e3281de7870cc80e74caa1d0f92f1a276b59715bd7c0053"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mr1LTtgz/versions/BNifXKcE/nemos-woodcutter-1.11.5-1.21.1.jar"
+                "https://cdn.modrinth.com/data/mr1LTtgz/versions/XDslDeud/nemos-woodcutter-1.12.3-1.21.1.jar"
             ],
-            "fileSize": 970203
+            "fileSize": 970615
         },
         {
             "path": "mods/Not Enough Recipe Book-FABRIC-0.4.1.jar",
