@@ -97,15 +97,15 @@
             "fileSize": 292202
         },
         {
-            "path": "mods/dynamic-fps-3.7.6+minecraft-1.21.0-fabric.jar",
+            "path": "mods/dynamic-fps-3.7.7+minecraft-1.21.0-fabric.jar",
             "hashes": {
-                "sha1": "5a1bc0630be861c9dac83c0be7a3ea0ccc4e70af",
-                "sha512": "8229e05675a84d711a98706413934a92e0dc81addea70008b8fdbd3bbcbf6625b2ff3cadb8a53b69e82817a1682aec6236ff65aeba319fade305d2df631dc2d6"
+                "sha1": "717a005d680d86e22a9406b227f85decd88513a0",
+                "sha512": "e59c7a7684a38fc1ce3639b5da025e1e4ab0cbd1f1317555b3716eeba9621a094cf3363edd2124e7350aafce8217c8f5f23e405d16e54cc473960bb3a05f79a2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/nGAANyOn/dynamic-fps-3.7.6%2Bminecraft-1.21.0-fabric.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/phWUwjYc/dynamic-fps-3.7.7%2Bminecraft-1.21.0-fabric.jar"
             ],
-            "fileSize": 181704
+            "fileSize": 181747
         },
         {
             "path": "mods/e4mc_minecraft-fabric-5.2.1.jar",
@@ -119,15 +119,15 @@
             "fileSize": 568993
         },
         {
-            "path": "mods/enhancedblockentities-0.10.1+1.21.jar",
+            "path": "mods/enhancedblockentities-0.10.2+1.21.jar",
             "hashes": {
-                "sha1": "36045df5f1b3e7645a5dd450fa305a8134dd7c51",
-                "sha512": "23c603c88532206cae4400e3eea5dea220d5d328b5dc27d3a550fa1b31c27639744592e9f2e888536b6ed529c13e2c95465b98413c55157de45f3ecc5daa02bc"
+                "sha1": "d81359d77fc7c5437f3e83e519dc2f869300f0cd",
+                "sha512": "60e01db603fcf1392c0cd5c3ce742e568f7d445d83fe60828b21f546e7d29fb6947231f22d28e29b07f4bdcb767b6dc2a2398b4decea665ecba1166690a44d49"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/OVuFYfre/versions/8OuTJDGd/enhancedblockentities-0.10.1%2B1.21.jar"
+                "https://cdn.modrinth.com/data/OVuFYfre/versions/HBZAPs3u/enhancedblockentities-0.10.2%2B1.21.jar"
             ],
-            "fileSize": 200698
+            "fileSize": 201157
         },
         {
             "path": "mods/entity_model_features_fabric_1.21.1-2.4.1.jar",
@@ -803,15 +803,15 @@
             "fileSize": 195769
         },
         {
-            "path": "mods/TES-fabric-1.21.1-1.8.jar",
+            "path": "mods/TES-fabric-1.21.1-1.8.1.jar",
             "hashes": {
-                "sha1": "a4404eccfd3d9771e3b89a48b76984e2f80f71a8",
-                "sha512": "bdfb5b85f149d97ab18dc65c012a12a478af1b55fc26ebcd26cfe93782a88fa65f4e0d29f82dfcddc34d89cc9743a6215371ea2202ab02e7108a8ce45583d783"
+                "sha1": "6d7b0517afeb1bec8aa73bf6631d7dcfb16b4fa1",
+                "sha512": "eaaaf090477441818afd2610c4fab186e5c5a21b4196ba79f6f76897f31a2508d78aa9f471ba6253ac278c735dae7a8198ed079d27a4361362d5310e27a57288"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4A86JsDZ/versions/pwrmPTie/TES-fabric-1.21.1-1.8.jar"
+                "https://cdn.modrinth.com/data/4A86JsDZ/versions/NPSCYfIe/TES-fabric-1.21.1-1.8.1.jar"
             ],
-            "fileSize": 205020
+            "fileSize": 205054
         },
         {
             "path": "mods/voicechat-fabric-1.21.1-2.5.27.jar",
@@ -1233,15 +1233,15 @@
             "fileSize": 218611
         },
         {
-            "path": "mods/handcrafted-fabric-1.21-4.0.1.jar",
+            "path": "mods/handcrafted-fabric-1.21.1-4.0.2.jar",
             "hashes": {
-                "sha1": "261296cfc84679a8263639ee5b8108e986c5356f",
-                "sha512": "a9aa6f895a507c8027fada3ebf04e4fc5bde83699c49ec3f7fe40b2d11585002933d4463c4a7ff6b00d213eee05a99d6294273c7863785e2c1a8271eac2c45f0"
+                "sha1": "ed62f1233a0f59c0d93848abe87bbe7c0c558110",
+                "sha512": "46897824548127a1878ac63c2a9b1332ef46444a1e44b4a26a002812076ee1c44d5b8d5ede261f840b365fd61ccb467a06cc7a981eaf0537e9679c13f4fe2a25"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/pJmCFF0p/versions/f7tGbQaE/handcrafted-fabric-1.21-4.0.1.jar"
+                "https://cdn.modrinth.com/data/pJmCFF0p/versions/yeyZ6DeE/handcrafted-fabric-1.21.1-4.0.2.jar"
             ],
-            "fileSize": 7110801
+            "fileSize": 7118771
         },
         {
             "path": "mods/HopoBetterMineshaft-[1.21.1-1.21.3]-1.2.8.jar",
@@ -1442,15 +1442,15 @@
             "fileSize": 223976
         },
         {
-            "path": "mods/nemos-woodcutter-1.11.5-1.21.1.jar",
+            "path": "mods/nemos-woodcutter-1.12.3-1.21.1.jar",
             "hashes": {
-                "sha1": "ccbd46d1d85f7212251422ccce857a2bcb96302f",
-                "sha512": "bdf0315a19bbcdafd19ba6c593a35b43ebb69fa5f4f0b79d8b1c7e87140d7e82811a0e7474a5e44f4abcea52c0dacad8ce5a250e5d020a4aa68c1d5f3d28fd82"
+                "sha1": "20ee572b2608c94d8a9bce262afa7dcee3363b2a",
+                "sha512": "dca69fb9da60fd5c65c744a70f84b93a2de05a963fddcfada306820195ff844e838c02f623ef45af3e3281de7870cc80e74caa1d0f92f1a276b59715bd7c0053"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mr1LTtgz/versions/BNifXKcE/nemos-woodcutter-1.11.5-1.21.1.jar"
+                "https://cdn.modrinth.com/data/mr1LTtgz/versions/XDslDeud/nemos-woodcutter-1.12.3-1.21.1.jar"
             ],
-            "fileSize": 970203
+            "fileSize": 970615
         },
         {
             "path": "mods/Not Enough Recipe Book-FABRIC-0.4.1.jar",
