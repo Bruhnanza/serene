@@ -940,6 +940,17 @@
             "fileSize": 217975
         },
         {
+            "path": "mods/Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1.jar",
+            "hashes": {
+                "sha1": "42202c67ef7166ffb5255ada7370b36c9d50110c",
+                "sha512": "e7209beb2b33ab98a9bb02375a78f6ea1e72226804c6e28e887a169295d0781d50a008993750a7f53eddda8bf24845162d67b781e2e8f65924d8e31cc4955e16"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/3ESR84kR/versions/OqMP9ZL0/Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1.jar"
+            ],
+            "fileSize": 29943
+        },
+        {
             "path": "mods/jamlib-fabric-1.2.2-build.2+1.21.1.jar",
             "hashes": {
                 "sha1": "5bef1c21b9444bb136cf8bec61d134a430e1106e",
@@ -1059,6 +1070,17 @@
                 "https://cdn.modrinth.com/data/fPetb5Kh/versions/9W2MUsnU/NaturesCompass-1.21.1-2.2.7-fabric.jar"
             ],
             "fileSize": 223976
+        },
+        {
+            "path": "mods/Necronomicon-Fabric-1.6.0+1.21.jar",
+            "hashes": {
+                "sha1": "b6ac70d9ecac570f56e75db81d8281976fea1357",
+                "sha512": "0deeb7ed7914994bf274547d7c665be460a27a2526adc00f3708b257bab8b51204dc6c8b3b2259440c57b3ebfeaa3d8ca9e9c4308f0265a041233dbeb5eae2af"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/P1Kv5EAO/versions/O6odCETu/Necronomicon-Fabric-1.6.0%2B1.21.jar"
+            ],
+            "fileSize": 37055
         },
         {
             "path": "mods/nemos-woodcutter-1.12.3-1.21.1.jar",
