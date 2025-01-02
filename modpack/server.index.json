@@ -1248,17 +1248,6 @@
             "fileSize": 189771
         },
         {
-            "path": "mods/soulbound-fabric-1.0.1+1.21.jar",
-            "hashes": {
-                "sha1": "72984a19cf3336a51cee6d41b12821507fef8bd0",
-                "sha512": "e2da604eeb8250849e80c82fea7146a1ad1d1b18d3cc296f6f80e45391fc701c8870526235efa2d7e46187bda78c5ef1a513960a5f0b35b7bc00bf17dfa23869"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/MmUmcwom/versions/mVmrAF9R/soulbound-fabric-1.0.1%2B1.21.jar"
-            ],
-            "fileSize": 19778
-        },
-        {
             "path": "mods/spyglass_improvements-1.5.7+mc1.21+fabric.jar",
             "hashes": {
                 "sha1": "05146c29c3004f7d61b9f3e779c577dbcc7cab4f",
@@ -1587,6 +1576,18 @@
                 "https://cdn.modrinth.com/data/t5FRdP87/versions/bdpPtvTn/YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar"
             ],
             "fileSize": 298721
+        },
+        {
+            "path": "datapacks/Serene-Datapack-1.0.zip",
+            "hashes": {
+                "sha1": "159fbb2d2f9dde9ef31f7d259404f9eef8310ace",
+                "sha512": "e14e1aa4beb8f699ee26027f33808ced920bd927bf499232e0dd5ba240d98d44f8b90587b7b222720aebc286e592386c434222d78517dc5abd891e9a025860a5"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/LMaZ44bh/versions/Y5lRurHG/Serene-Datapack-1.0.zip",
+                "https://github.com/Bruhnanza/serene/releases/download/1.0d/Serene-Datapack-1.0.zip"
+            ],
+            "fileSize": 30553
         },
         {
             "path": "resourcepacks/Stormilla-v2.11.2.zip",
