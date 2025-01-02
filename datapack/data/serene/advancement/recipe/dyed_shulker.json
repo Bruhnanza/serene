@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:shulker_shell"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "serene:black_shulker",
+      "serene:blue_shulker",
+      "serene:brown_shulker",
+      "serene:cyan_shulker",
+      "serene:gray_shulker",
+      "serene:green_shulker",
+      "serene:light_blue_shulker",
+      "serene:light_gray_shulker",
+      "serene:lime_shulker",
+      "serene:magenta_shulker",
+      "serene:orange_shulker",
+      "serene:pink_shulker",
+      "serene:purple_shulker",
+      "serene:red_shulker",
+      "serene:shulker",
+      "serene:white_shulker",
+      "serene:yellow_shulker"
+    ]
+  }
+}

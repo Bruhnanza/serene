@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:raw_gold",
+              "minecraft:raw_gold_block"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [],
+  "rewards": {
+    "recipes": [
+      "serene:gold_block_from_blasting_raw_gold_block",
+      "serene:gold_block_from_smelting_raw_gold_block"
+    ]
+  }
+}
