@@ -1,0 +1,52 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:black_wool",
+                            "minecraft:blue_wool",
+                            "minecraft:brown_wool",
+                            "minecraft:cyan_wool",
+                            "minecraft:gray_wool",
+                            "minecraft:green_wool",
+                            "minecraft:light_blue_wool",
+                            "minecraft:light_gray_wool",
+                            "minecraft:lime_wool",
+                            "minecraft:magenta_wool",
+                            "minecraft:orange_wool",
+                            "minecraft:pink_wool",
+                            "minecraft:purple_wool",
+                            "minecraft:red_wool",
+                            "minecraft:white_wool",
+                            "minecraft:yellow_wool"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "serene:black_bed",
+            "serene:blue_bed",
+            "serene:brown_bed",
+            "serene:cyan_bed",
+            "serene:gray_bed",
+            "serene:green_bed",
+            "serene:light_blue_bed",
+            "serene:light_gray_bed",
+            "serene:lime_bed",
+            "serene:magenta_bed",
+            "serene:orange_bed",
+            "serene:pink_bed",
+            "serene:purple_bed",
+            "serene:red_bed",
+            "serene:white_bed",
+            "serene:yellow_bed"
+        ]
+    }
+}

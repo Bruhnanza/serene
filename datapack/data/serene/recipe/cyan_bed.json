@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bed",
+  "pattern": [
+    "==-",
+    "XXX"
+  ],
+  "key": {
+    "=": {
+      "item": "minecraft:cyan_wool"
+    },
+    "-": {
+      "tag": "handcrafted:cushions"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "id": "minecraft:cyan_bed",
+    "count": 1
+  }
+}

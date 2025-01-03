@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "sleeping_bag",
+  "pattern": [
+    "==-"
+  ],
+  "key": {
+    "=": {
+      "item": "minecraft:magenta_wool"
+    },
+    "-": {
+      "tag": "handcrafted:cushions"
+    }
+  },
+  "result": {
+    "id": "travelersbackpack:magenta_sleeping_bag",
+    "count": 1
+  }
+}
