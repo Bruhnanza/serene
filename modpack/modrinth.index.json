@@ -1983,28 +1983,39 @@
             "fileSize": 6970917
         },
         {
-            "path": "resourcepacks/Stormilla-Modded-2.1.zip",
+            "path": "mods/StormillaDarkMode-v2.6.zip",
             "hashes": {
-                "sha1": "cefb651c7b4135bac95de97cdba151b3a7076efc",
-                "sha512": "fc1798cc7842dcc074b414e4fd27ef684a5ad3f152aef6cf9a69fec3cbc8bf7d8d4f0cd5358f954cb6ee86a4e22c5c7241e325027d468eb75bc5bf6c3836e31d"
+                "sha1": "6431a5b1e8fbff7e346da41f5fce3f331992e930",
+                "sha512": "bd56a48a0af15eb90f3860a2c33c52f086610ec63fc1cab1d1c1a416a34c7364a12bd20eff340560f580fd8f443ffb861fbb1726120165c234d9b8b36dd04e6a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/GUhItgrQ/versions/yQgvu123/Stormilla-Modded-2.1.zip",
-                "https://github.com/Bruhnanza/stormodda/releases/download/2.1/Stormilla-Modded-2.1.zip"
+                "https://cdn.modrinth.com/data/PTB4Km9g/versions/o2HnUsBC/StormillaDarkMode-v2.6.zip"
             ],
-            "fileSize": 509303
+            "fileSize": 490896
         },
         {
-            "path": "resourcepacks/Stormilla-Modded-Dark-2.1.zip",
+            "path": "resourcepacks/Stormilla-Modded-2.2.zip",
             "hashes": {
-                "sha1": "731e3d31ad61edc56f827de16bea73058c32d38f",
-                "sha512": "ec76a1513cb3efdf38d8d53731792d5fbdf6af240e2b741ae9e9df5fc5eeb54bc8ea781b06aa8d431d8da93e282399232738ff2b66d38821de11a233a8d26d9d"
+                "sha1": "08abf105c3301dff16208d424e8ee04ec37b04a3",
+                "sha512": "0c5ddbf6f5691fb06bbafe71e719914f4df4efd10a4b14ae62801decf95cc07ac0d54e86161340b340cd2a9eda3fe67f418b2bb6a0e29f7e47d50d8d18ea3652"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/GUhItgrQ/versions/yQgvu123/Stormilla-Modded-Dark-2.1.zip",
-                "https://github.com/Bruhnanza/stormodda/releases/download/2.1/Stormilla-Modded-Dark-2.1.zip"
+                "https://cdn.modrinth.com/data/GUhItgrQ/versions/KieLqujK/Stormilla-Modded-2.2.zip",
+                "https://github.com/Bruhnanza/stormodda/releases/download/2.2/Stormilla-Modded-2.2.zip"
             ],
-            "fileSize": 409073
+            "fileSize": 417280
+        },
+        {
+            "path": "resourcepacks/Stormilla-Modded-Dark-2.2.zip",
+            "hashes": {
+                "sha1": "cdf0c8df7175da0dca9797f734c0b37b94bd15fa",
+                "sha512": "4a9cbb518599faa878c636982d9edc244e22487b23cf98e82096cc3a3f6a699a86e6b5f264fee87a76689689ff2d2cca653cd96b4d3b07449f35467d9b37454e"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/GUhItgrQ/versions/KieLqujK/Stormilla-Modded-Dark-2.2.zip",
+                "https://github.com/Bruhnanza/stormodda/releases/download/2.2/Stormilla-Modded-Dark-2.2.zip"
+            ],
+            "fileSize": 315269
         },
         {
             "path": "shaderpacks/ComplementaryReimagined_r5.3.zip",
