@@ -21,6 +21,8 @@ Updates
 - Removed Common Network, Indium, Leaves Us In Peace, Lootr, M.R.U, Open Parties and Claims, Repurposed Structures, Snow Under Trees, Soulbound, Xaero's Minimap, Xaero's World Map, Yeetus Experimentus
 - Updated Fabric Loader to 0.16.9
 
+
+- Temporarily removed LibJF, Polyone Respackopts as they are stressing me out
 - Controlify, Snow Under Trees, Supplementaries, and Zoomify have been temporarily removed as they are currently incompatiable with Distant Horizons
 - Yeetus Experimentus removed as Kiwi renders it redunant
 - Common Network and M.R.U removed as they are no longer needed as dependencies
