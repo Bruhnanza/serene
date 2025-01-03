@@ -1149,17 +1149,6 @@
             "fileSize": 42620
         },
         {
-            "path": "mods/polymorph-fabric-1.0.7+1.21.1.jar",
-            "hashes": {
-                "sha1": "e6867345c86d4e5770b025e47e83e58f05a51dca",
-                "sha512": "f31ff346702d2129dabcc13c33dcbae5c7111e54ad6f6d5a152bc82e5664ce628d7baaf8e2a217de32742e74913faf7231d697b3ac264d450ba79ed8d362ab53"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/tagwiZkJ/versions/j4jPy88h/polymorph-fabric-1.0.7%2B1.21.1.jar"
-            ],
-            "fileSize": 317355
-        },
-        {
             "path": "mods/pumpkin_pie_delight-1.0.1+1.21.jar",
             "hashes": {
                 "sha1": "5fe6e3c69445d2ed64aab1e92cd479fa19868d7f",
@@ -1578,16 +1567,16 @@
             "fileSize": 298721
         },
         {
-            "path": "datapacks/Serene-Datapack-1.0.zip",
+            "path": "datapacks/Serene-Datapack-1.1.zip",
             "hashes": {
-                "sha1": "159fbb2d2f9dde9ef31f7d259404f9eef8310ace",
-                "sha512": "e14e1aa4beb8f699ee26027f33808ced920bd927bf499232e0dd5ba240d98d44f8b90587b7b222720aebc286e592386c434222d78517dc5abd891e9a025860a5"
+                "sha1": "dccb3e5171e953bb3d708428b4dbbcb046ef70b0",
+                "sha512": "25355eaa30c1c147d45df6a20bbf68581c9c78f1a0f4590316f66462322afe5849cdc5f038320e57660ded34509703ed7d19f655dc055ebe800fcc38a46a3bac"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LMaZ44bh/versions/Y5lRurHG/Serene-Datapack-1.0.zip",
-                "https://github.com/Bruhnanza/serene/releases/download/1.0d/Serene-Datapack-1.0.zip"
+                "https://cdn.modrinth.com/data/LMaZ44bh/versions/ZIToM4dO/Serene-Datapack-1.1.zip",
+                "https://github.com/Bruhnanza/serene/releases/download/1.1d/Serene-Datapack-1.1.zip"
             ],
-            "fileSize": 30553
+            "fileSize": 47417
         },
         {
             "path": "resourcepacks/Stormilla-v2.11.2.zip",
