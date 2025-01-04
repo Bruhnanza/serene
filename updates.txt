@@ -4,7 +4,16 @@
  \ \_\ \ \_\\ \_____\\ \____- \ \_\   \ \_\ \_\\ \_____\\ \_\ \_\ 
   \/_/  \/_/ \/_____/ \/____/  \/_/    \/_/\/_/ \/_____/ \/_/\/_/ 
                                                                   
+- Changed Simple Hats config to enable use in the hat slot, and significantly decrease mob drops
 
+Future Changes
+- Atlas: Replace Xaero's & OPAC with Antique Atlas Item / Map Atlases once the former is available or the latter updates
+- Custom Icon / Menu: In progress or awaiting progress
+
+Fixes
+- Leave Us In Peace: Awaiting fix for compat with Biomes O' Plenty
+- Lootr: TBD / Not explored yet
+- Snow Under Trees: Not reported yet, may ask Snow! Real Magic! to implement same feature set or other alternative
 
 
  ______   ______   ______   __   __ ______   ______    
@@ -13,18 +22,7 @@
  \/\_____\\ \_____\\ \_\ \_\\ \__|  \ \_____\\ \_\ \_\ 
   \/_____/ \/_____/ \/_/ /_/ \/_/    \/_____/ \/_/ /_/ 
                                                        
-- Added Alternate Current, Carpet, Chunky Extension, Resourceful Config, Sepals, Server Snapshot Performance Backports (temporarily disabled), ServerCore, Servux, Simple Voice Chat Enhanced Groups, Simple Voice Chat Music, Sneaky Server, Structure Layout Optimizer, ThreadTweak, TT20, Very Many Player, View Distance Fix, Voice Chat Interaction
-- Removed Animatica, AppleSkin, Better Mount HUD, Better Suggestions, Better Third Person, Bobby, Capes, cat_jam, CIT Resewn, Clean F3, Complementary Shaders, Continuity, Cubes Without Borders, Distant Horizons, Dynamic FPS, Eating Animations, Enhanced Block Entities, EMF, Enhanced Attack Indicator, ESF, ETF, e4mc, Fabric Skyboxes, Fabrishot, FastQuit, FSB Interlop, Iris, LambDynamicLights, Language Reload, MixinTrace, Model Gap Fix, Mod Menu, More Chat History, Mouse Tweaks, Not Enough Animations, OptiGUI, Paginated Advancements, Particular, Polytone, Presence Footsteps, Puzzle, Reese's Sodium Options, Remove Reloading Screen, Shulker Box Tooltip, Simple HUD Enhanced, Sound Physics Remastered, TslatEntityStatus, Wavey Capes, YDM's Weapon Master, Yeetus Experimentus, YetAnotherConfigLib, 3D Skin Layers
-
-Future Changes
-- Atlas: Replace Xaero's & OPAC with Antique Atlas Item / Map Atlases once the former is available or the latter updates
-- Custom Icon / Menu: In progress or awaiting progress
-
-Fixes
-- Charged Charms: TBD / Not explored yet
-- Leave Us In Peace: Awaiting fix for compat with Biomes O' Plenty
-- Lootr: TBD / Not explored yet
-- Snow Under Trees: Not reported yet, may ask Snow! Real Magic! to implement same feature set or other alternative
+- Added YDM's Weapon Master
 
 
  _____    ______   ______  ______   ______  ______   ______   __  __    
