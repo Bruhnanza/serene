@@ -1424,6 +1424,17 @@
             "fileSize": 853097
         },
         {
+            "path": "mods/weaponmaster_ydm-fabric-1.21-4.2.6.jar",
+            "hashes": {
+                "sha1": "5309c15c387b1bde146345d14037f878662df4c9",
+                "sha512": "2cf30ae7fe56e0951adfacc01f7b5d0198cc0c06830b1c904d145a335a22f7482a5b6d42bb10018eb7600922c1c831e1079a616a3c8b9c7a474d26846b8215fd"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qi1sj2da/versions/1WU1u1fM/weaponmaster_ydm-fabric-1.21-4.2.6.jar"
+            ],
+            "fileSize": 322628
+        },
+        {
             "path": "mods/xp_storage-1.6+1.21.jar",
             "hashes": {
                 "sha1": "6a3acb4474734f4c450bec894a95ae284f2667b3",
