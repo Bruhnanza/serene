@@ -1,8 +1,8 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.0",
-    "name": "Serene",
+    "versionId": "3.1",
+    "name": "Serene Server",
     "summary": "Kick back, relax, and enjoy a tranquil Minecraft experience.",
     "files": [
         {
@@ -830,15 +830,15 @@
             "fileSize": 631046
         },
         {
-            "path": "mods/fzzy_config-0.5.9+1.21.jar",
+            "path": "mods/fzzy_config-0.6.0+1.21.jar",
             "hashes": {
-                "sha1": "7684c03e7fd246a3af3cac4a052bc8a41fb6453a",
-                "sha512": "28979f53b9f3e9ab644ce2c2fecb4ea7d5898a37c17af71d507536c5ca84080ef4485d4f0aef21abaf00d7f78cd95f9351c6acd3e2d8f224ef12f721e7331e7a"
+                "sha1": "f4670692578f37de136a074210e39c034f997401",
+                "sha512": "8c476b7b04558c02c65dfa5ff7fdb01079920e95eea49c3850b2d9f7b850f9b327daabfe5349bb788dc20868a739fa726892504655759f8e587282745ac80bed"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/hYykXjDp/versions/yO0DsLqB/fzzy_config-0.5.9%2B1.21.jar"
+                "https://cdn.modrinth.com/data/hYykXjDp/versions/NqLg1hiI/fzzy_config-0.6.0%2B1.21.jar"
             ],
-            "fileSize": 1543977
+            "fileSize": 1855360
         },
         {
             "path": "mods/GlitchCore-fabric-1.21.1-2.1.0.0.jar",
@@ -1050,15 +1050,15 @@
             "fileSize": 1079361
         },
         {
-            "path": "mods/moredelight-24.09.27-1.21-fabric.jar",
+            "path": "mods/moredelight-25.01.06-1.21-fabric.jar",
             "hashes": {
-                "sha1": "70cf40603ad04cb7ee42259e9b3ffb76d0348c15",
-                "sha512": "b31bd577cf39133a44d7766ee6a7225db9c92b3b0d8ec4c8eb67e79681a7fc50f3c9bf0a8be5fa34def9a82db52f40c81ab695596f85af05b49869960291ac96"
+                "sha1": "9955996bcc08ba6c9f0baa56903bc5d0a615b580",
+                "sha512": "24146a18d50b1482bd1e122a3d48ca2980f0d401fbf145ce85fdc569d9a2bc2e729ef70cfcc628772df6aa90a83afab0ded9acc450584345dcc79c664bc05b73"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/znHQQtuU/versions/Pc1Zc3Db/moredelight-24.09.27-1.21-fabric.jar"
+                "https://cdn.modrinth.com/data/znHQQtuU/versions/91FZkbdt/moredelight-25.01.06-1.21-fabric.jar"
             ],
-            "fileSize": 142446
+            "fileSize": 141117
         },
         {
             "path": "mods/NaturesCompass-1.21.1-2.2.7-fabric.jar",
@@ -1457,15 +1457,15 @@
             "fileSize": 56706
         },
         {
-            "path": "mods/youre-in-grave-danger-fabric-2.4.11.jar",
+            "path": "mods/youre-in-grave-danger-fabric-2.4.12.jar",
             "hashes": {
-                "sha1": "8fd166708e500fb5b33546f9b3d9cfd3f4f3e77d",
-                "sha512": "c34c815d5fdca88eff68bd261a026a8869ba1b724f99eb7bdeaf28f3df9eba4ba88fd79daccf20d9b6cec3f227e8840f8f92edfdf8ad32ce704aa48b9f7e481e"
+                "sha1": "819cd97d8fafd0226937d523dfd5e9243c822ef0",
+                "sha512": "577641c60b0c460461e7beb6213121689b7eb960a998f0722663e7054f3f63368eeb8f3289edba9c98eb1dadb3db6fa4e472e0c8e5c615c097ab4a4e7f4ed906"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HnD1GX6e/versions/eSYXte6X/youre-in-grave-danger-fabric-2.4.11.jar"
+                "https://cdn.modrinth.com/data/HnD1GX6e/versions/FHdE89AK/youre-in-grave-danger-fabric-2.4.12.jar"
             ],
-            "fileSize": 805007
+            "fileSize": 821918
         },
         {
             "path": "mods/YungsApi-1.21.1-Fabric-5.1.3.jar",
