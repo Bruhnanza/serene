@@ -35,8 +35,10 @@ Fixes
  \ \____- \ \_\ \_\  \ \_\ \ \_\ \_\\ \_\   \ \_\ \_\\ \_____\\ \_\ \_\ 
   \/____/  \/_/\/_/   \/_/  \/_/\/_/ \/_/    \/_/\/_/ \/_____/ \/_/\/_/ 
                                                                         
-- Changed Lodestone and Snow recipes
-- Changed Shulker to drop 2 shells
+- Lodestones are crafted with an iron ingot consistent with 25w02a
+- Removed Advanced Netherite's Lodestone recipe
+- Shulkers drop 2 shulker shells on death
+- Snow blocks produce 12 snow layers as to be consistent with snowball-making mechanic
 
 - Get images for Lodestone, Snow recipes
 - Add addendums to hyerlink [25w02a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w02a) and explain compat with Snow! Real Magic!
