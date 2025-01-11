@@ -4,7 +4,7 @@
  \ \_\ \ \_\\ \_____\\ \____- \ \_\   \ \_\ \_\\ \_____\\ \_\ \_\ 
   \/_/  \/_/ \/_____/ \/____/  \/_/    \/_/\/_/ \/_____/ \/_/\/_/ 
                                                                   
-- Updated More Delight, Fzzy Config, You're in Grave Danger
+- Updated Balm, EMI, Fzzy Config, More Delight, Tom's Simple Storage, You're in Grave Danger
 - Changed Simple Hats config to enable use in the hat slot, and significantly decrease mob drops
 
 Future Changes
