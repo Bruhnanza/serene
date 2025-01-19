@@ -4,7 +4,8 @@
  \ \_\ \ \_\\ \_____\\ \____- \ \_\   \ \_\ \_\\ \_____\\ \_\ \_\ 
   \/_/  \/_/ \/_____/ \/____/  \/_/    \/_/\/_/ \/_____/ \/_/\/_/ 
                                                                   
-- Updated Balm, EMI, Fzzy Config, More Delight, Tom's Simple Storage, You're in Grave Danger
+- Updated Antique Atlas 4, Balm, ChoiceTheorem's Overhauled Village, EMI, Fzzy Config, Lithostitched, Moonlight Lib, More Delight, Not Enough Animations, Reese's Sodium Options, Surveyor Map Framework, Tom's Simple Storage, You're in Grave Danger
+- Added Tax Free Levels
 - Changed Simple Hats config to enable use in the hat slot, and significantly decrease mob drops
 
 Future Changes
@@ -20,13 +21,14 @@ Fixes
 - Snow Under Trees: Not reported yet, may ask Snow! Real Magic! to implement same feature set or other alternative
 
 
+
  ______   ______   ______   __   __ ______   ______    
 /\  ___\ /\  ___\ /\  == \ /\ \ / //\  ___\ /\  == \   
 \ \___  \\ \  __\ \ \  __< \ \ \'/ \ \  __\ \ \  __<   
  \/\_____\\ \_____\\ \_\ \_\\ \__|  \ \_____\\ \_\ \_\ 
   \/_____/ \/_____/ \/_/ /_/ \/_/    \/_____/ \/_/ /_/ 
                                                        
-- Added YDM's Weapon Master
+- Added Farsighted Mobs, YDM's Weapon Master
 
 
  _____    ______   ______  ______   ______  ______   ______   __  __    
