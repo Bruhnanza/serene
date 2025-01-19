@@ -255,6 +255,18 @@
             "fileSize": 17373
         },
         {
+            "path": "mods/antique-atlas-2.11.0+1.21.jar",
+            "hashes": {
+                "sha1": "d2c9093d8e7a3fe88fb799a0017542eb9ee3274d",
+                "sha512": "69a9045787f87ad527ac46d3b602189837e83031bfbe2955e932796001b7f9c902376d2ee8da3787e004a2f4487f1d20f6422543237947db37112a9776eca1b9"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/1oR4wCD0/antique-atlas-2.11.0%2B1.21.jar",
+                "https://github.com/sisby-folk/antique-atlas/releases/download/v2.11.0%2B1.20/antique-atlas-2.11.0+1.21.jar"
+            ],
+            "fileSize": 844631
+        },
+        {
             "path": "mods/ce-2.1.1.jar",
             "hashes": {
                 "sha1": "def43bba7ce014fa94e6f95adf87115fc5451074",
@@ -301,6 +313,17 @@
             "fileSize": 123261
         },
         {
+            "path": "mods/farsighted-mobs-fabric-1.1-1.21.2.jar",
+            "hashes": {
+                "sha1": "5724bf3c04660c3b346b110e62cbbc16a91183d9",
+                "sha512": "7abcce056a934aeda9b71d4ae8dbe28d7215f61314013f279434804c4cb4ba0b46a0722ea8d73a3bcc673b98ddd60f3652703815da3ceb884424169f5aa42833"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/eEpWUjwq/versions/eRVzXU3t/farsighted-mobs-fabric-1.1-1.21.2.jar"
+            ],
+            "fileSize": 14579
+        },
+        {
             "path": "mods/fasterrandom-5.1.0.jar",
             "hashes": {
                 "sha1": "440720daaf51d5ad88a96ed59e1f59c63fad3f73",
@@ -321,17 +344,6 @@
                 "https://cdn.modrinth.com/data/1LE7mid6/versions/PBOS7IRl/instantgroup-fabric-1.21.1-1.6.1.jar"
             ],
             "fileSize": 415348
-        },
-        {
-            "path": "mods/libjf-3.17.3.jar",
-            "hashes": {
-                "sha1": "2a08178e0ce192f209f1f230e7ff211157563734",
-                "sha512": "4c2473c544f4611969b6d78cea3cfb4c256049de21d479b49dd3aa18db244b3b871b299f854bf10ecaf573373544301eeaf9360133a447bc84821ae3078e4971"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/WKwQAwke/versions/FOFo5tY4/libjf-3.17.3.jar"
-            ],
-            "fileSize": 1283376
         },
         {
             "path": "mods/midnightlib-fabric-1.6.3.jar",
@@ -366,17 +378,6 @@
                 "https://cdn.modrinth.com/data/M1953qlQ/versions/dOnnWty6/resourcefulconfig-fabric-1.21-3.0.8.jar"
             ],
             "fileSize": 345014
-        },
-        {
-            "path": "mods/respackopts-4.11.3.jar",
-            "hashes": {
-                "sha1": "a83c7cd89fc2ac4326c45a2570cfbf8c40f4efa7",
-                "sha512": "b9e5676d0ad03cf61b0ed30e317e0fa77df9d2192d55b1817d372b226f5472995af6d7b78cd7e800979b7c2a7db9d4867d9392576f44101d0e8782bc44502c3e"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/TiF5QWZY/versions/8zp8yqFl/respackopts-4.11.3.jar"
-            ],
-            "fileSize": 530926
         },
         {
             "path": "mods/sepals-1.0.8.jar",
@@ -445,15 +446,16 @@
             "fileSize": 62572
         },
         {
-            "path": "mods/surveyor-0.6.25+1.21.jar",
+            "path": "mods/surveyor-0.6.26+1.21.jar",
             "hashes": {
-                "sha1": "84d177a76df0f692ed06f895107939ea876771ab",
-                "sha512": "5fab8bb16ef17b1629dbe1f7891bbde7cdefe2fdf1fc606e6b6e3ba94ae090911e752819fe7d6011ff30acc1e8f5a1dff539a4dde6d3f89e8659322ad984ea56"
+                "sha1": "cb25876e3ecd96e3df3be1d744d977a92bcc1fc4",
+                "sha512": "d98d45206fd86c215d1e0aee4d63c49c33dd46ee45b58d9df373cd1a5c61f6747ed9651b5a42553ad5bccd313f1cbcd04d2aba0fff9f3114f6af34c31ab7a8a5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4KjqhPc9/versions/wsC9ov9q/surveyor-0.6.25%2B1.21.jar"
+                "https://cdn.modrinth.com/data/4KjqhPc9/versions/O3tZIYTa/surveyor-0.6.26%2B1.21.jar",
+                "https://github.com/sisby-folk/surveyor/releases/download/v0.6.26%2B1.20/surveyor-0.6.26+1.21.jar"
             ],
-            "fileSize": 559251
+            "fileSize": 559672
         },
         {
             "path": "mods/surveystones-1.3.1+1.21.jar",
@@ -698,15 +700,15 @@
             "fileSize": 427923
         },
         {
-            "path": "mods/[fabric]ctov-3.5.4.jar",
+            "path": "mods/[fabric]ctov-3.5.5.jar",
             "hashes": {
-                "sha1": "76dcb5ac09e995e59ee91b3acb5cf47c6d74e594",
-                "sha512": "4f55e337abfe6d098b7b575c942ae555fd6598510e5890dd1eb6f4fb572b4e58508002104a1efa6b2e7b1fb41df50fa3cb98723b64c409f5592216ea780a6e26"
+                "sha1": "ddc6391c10c9d001bcd18c1e946368b5d0323c83",
+                "sha512": "85af2f7bf73d8e0331582b9822664132c30f992d1931a8c37105689f43616bb599550b8b0f6c265e95e0735fdc1772e1921826c98cfbd08b196063101d325131"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/fgmhI8kH/versions/bUY7KcOc/%5Bfabric%5Dctov-3.5.4.jar"
+                "https://cdn.modrinth.com/data/fgmhI8kH/versions/zS07WlzI/%5Bfabric%5Dctov-3.5.5.jar"
             ],
-            "fileSize": 5769112
+            "fileSize": 5974829
         },
         {
             "path": "mods/darkenchanting-fabric-1.3.0+1.21.jar",
@@ -995,15 +997,15 @@
             "fileSize": 526509
         },
         {
-            "path": "mods/lithostitched-fabric-1.21.1-1.3.10.jar",
+            "path": "mods/lithostitched-fabric-1.21.1-1.4.1.jar",
             "hashes": {
-                "sha1": "2255d4c6062d71f0d8393a83776ddf04776eca07",
-                "sha512": "29e58371bf9d0a084c84b8958b60d97e8f789c51e0375df7c0848b47b2c755cdc8cb3f95852117baa9546af7281f75ff4b80ce24297f37c0137ac2e945680db7"
+                "sha1": "010241134b1dde3bdd6527505765d128eda982b6",
+                "sha512": "46d2404b7c586c64050d17afcc604aba8226acda7b89f4d4cdae740315a5bfa16fcbf9ddad51a48c529cad16810ee47fb79a6b80730cf48992994fc126e314d8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/XaDC71GB/versions/agO1TqYz/lithostitched-fabric-1.21.1-1.3.10.jar"
+                "https://cdn.modrinth.com/data/XaDC71GB/versions/GwhILiJf/lithostitched-fabric-1.21.1-1.4.1.jar"
             ],
-            "fileSize": 437036
+            "fileSize": 450083
         },
         {
             "path": "mods/lukis-crazy-chambers-1.0.jar",
@@ -1039,26 +1041,26 @@
             "fileSize": 46532
         },
         {
-            "path": "mods/moonlight-1.21-2.17.12-fabric.jar",
+            "path": "mods/moonlight-1.21-2.17.16-fabric.jar",
             "hashes": {
-                "sha1": "5030abfd2ea9be57ee9bfa4b61784d0067c0bd10",
-                "sha512": "d5872e7314489e566fd7671a8aefd988a2308af72791e1e55118e1357046ef66620054a8ca1167227c57a666ebb68051ce1751aa158d81f78bc8a66c44660f18"
+                "sha1": "111adf20e2c6f0284cd2f4e4b1f5ca4c2e8b1e97",
+                "sha512": "40bebd1de39959c52610052ab992ca7ec95acc098b6124b0668520745cd830f9e68c5b208f5460f7d8007c2fa25a086649f37845f8f3b4960c37a3eae312deea"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/twkfQtEc/versions/F7VRCvQQ/moonlight-1.21-2.17.12-fabric.jar"
+                "https://cdn.modrinth.com/data/twkfQtEc/versions/7AWlZeQ6/moonlight-1.21-2.17.16-fabric.jar"
             ],
-            "fileSize": 1079361
+            "fileSize": 1092191
         },
         {
-            "path": "mods/moredelight-25.01.06-1.21-fabric.jar",
+            "path": "mods/moredelight-25.01.13-1.21-fabric.jar",
             "hashes": {
-                "sha1": "9955996bcc08ba6c9f0baa56903bc5d0a615b580",
-                "sha512": "24146a18d50b1482bd1e122a3d48ca2980f0d401fbf145ce85fdc569d9a2bc2e729ef70cfcc628772df6aa90a83afab0ded9acc450584345dcc79c664bc05b73"
+                "sha1": "bc6470fbbe4692b874c76ae79fa3b15261f41586",
+                "sha512": "b77be27f34c54fe3a36104f7c7d2d54c796a4af3f28dfe93737454f8764c3d0ca588619a154543d4057b974e79364446301238c98d2e1720accd63d018364504"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/znHQQtuU/versions/91FZkbdt/moredelight-25.01.06-1.21-fabric.jar"
+                "https://cdn.modrinth.com/data/znHQQtuU/versions/Q0nGg2Ed/moredelight-25.01.13-1.21-fabric.jar"
             ],
-            "fileSize": 141117
+            "fileSize": 190747
         },
         {
             "path": "mods/NaturesCompass-1.21.1-2.2.7-fabric.jar",
@@ -1292,6 +1294,17 @@
             "fileSize": 3641948
         },
         {
+            "path": "mods/TaxFreeLevels-1.4.6-fabric-1.21.1.jar",
+            "hashes": {
+                "sha1": "6a9fe57d84fa52388a2de56e3fd848efbdee88b9",
+                "sha512": "1fa78965e85e329c45169e018c45f83dcdd8fefc899949e54a24918403f990bd0c812fc6e47befda406751e92ccb8c6156499a9d604d8ac78312d799324f952e"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/jCBrrLTs/versions/KWAm62On/TaxFreeLevels-1.4.6-fabric-1.21.1.jar"
+            ],
+            "fileSize": 36038
+        },
+        {
             "path": "mods/tectonic-fabric-1.21.1-2.4.1a.jar",
             "hashes": {
                 "sha1": "84be79a9bbcb80c0ddb9e34f71b0064bd2e6b204",
@@ -1457,15 +1470,15 @@
             "fileSize": 56706
         },
         {
-            "path": "mods/youre-in-grave-danger-fabric-2.4.13.jar",
+            "path": "mods/youre-in-grave-danger-fabric-2.4.14.jar",
             "hashes": {
-                "sha1": "1392574ba46b0b7e901aec17e96dd18b16796969",
-                "sha512": "4af186126ce67b8eed9079fad19e5a67a4e8bce4611487044ba9e0871aa46686d2f101ace8ce45fbebcdc4a64f2b5ff0824bbf3a01352a51cd89117c02dcb4e8"
+                "sha1": "1f31ca2cb5c757b74ed1c6a97552cc964b518ff0",
+                "sha512": "9cffe6a9534b517a853aedfdb4d2494b2ff3bec791e27bfcfaf68a908a87b99853dae18e34d0b3d5c8670a67a6af68a69c8314ff375b12888895d3d75ec7a9ff"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HnD1GX6e/versions/SLGToMfh/youre-in-grave-danger-fabric-2.4.13.jar"
+                "https://cdn.modrinth.com/data/HnD1GX6e/versions/Pu0VarOT/youre-in-grave-danger-fabric-2.4.14.jar"
             ],
-            "fileSize": 821896
+            "fileSize": 825073
         },
         {
             "path": "mods/YungsApi-1.21.1-Fabric-5.1.3.jar",
