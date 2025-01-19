@@ -7,11 +7,11 @@
 - Updated Antique Atlas 4, Balm, ChoiceTheorem's Overhauled Village, EMI, Fzzy Config, Lithostitched, Moonlight Lib, More Delight, Not Enough Animations, Reese's Sodium Options, Surveyor Map Framework, Tom's Simple Storage, You're in Grave Danger
 - Added Tax Free Levels
 - Changed Simple Hats config to enable use in the hat slot, and significantly decrease mob drops
-- Updated Fabric Loader to verison 0.16.10
+- Updated Fabric Loader to version 0.16.10
 
 Future Changes
 - Awaiting subsequent change for mods dependent on Fzzy
-- Accessories update needs to be tessted and implemented into Stormilla Modded
+- Accessories update needs to be tested and implemented into Stormilla Modded
 - Add Stormilla fixes for mods be default in the Stormilla Modded pack to override
 - Atlas: Replace Xaero's & OPAC with Antique Atlas Item / Map Atlases once the former is available or the latter updates
 - Custom Icon / Menu: In progress or awaiting progress
@@ -44,4 +44,4 @@ Fixes
 - Snow blocks produce 12 snow layers as to be consistent with snowball-making mechanic
 
 - Get images for Lodestone, Snow recipes
-- Add addendums to hyerlink [25w02a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w02a) and explain compat with Snow! Real Magic!
+- Add addendums to hyperlink [25w02a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w02a) and explain compat with Snow! Real Magic!
