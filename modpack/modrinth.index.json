@@ -164,16 +164,16 @@
             "fileSize": 67575
         },
         {
-            "path": "mods/fabric-api-0.114.0+1.21.1.jar",
+            "path": "mods/fabric-api-0.115.0+1.21.1.jar",
             "hashes": {
-                "sha1": "545047b690a33a593aa999c1fe5e2216e0493d36",
-                "sha512": "714ce2e8ad3d4ca70049ae771f71794c50138af7800fdc14d2bac6b2ef632ac7ba3b09efc78e3ac425ed20ea217ed4982420792d8fe737cb3f49d0353af8af05"
+                "sha1": "41594bd81f1e60e364f76b2e2bfca10cfdcf91bd",
+                "sha512": "e5f3c3431b96b281300dd118ee523379ff6a774c0e864eab8d159af32e5425c915f8664b1cd576f20275e8baf995e016c5971fea7478c8cb0433a83663f2aea8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/biIRIp2X/fabric-api-0.114.0%2B1.21.1.jar",
-                "https://github.com/FabricMC/fabric/releases/download/0.114.0%2B1.21.1/fabric-api-0.114.0+1.21.1.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/9YVrKY0Z/fabric-api-0.115.0%2B1.21.1.jar",
+                "https://github.com/FabricMC/fabric/releases/download/0.115.0%2B1.21.1/fabric-api-0.115.0+1.21.1.jar"
             ],
-            "fileSize": 2385062
+            "fileSize": 2385171
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
@@ -542,15 +542,15 @@
             "fileSize": 863192
         },
         {
-            "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.310.jar",
+            "path": "mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.314.jar",
             "hashes": {
-                "sha1": "8e9267af712b705ab08e46c27aa27e6814f20e32",
-                "sha512": "eac8f2b3d31f296cd84d58238ac011b107ae3428f470abf50b0edf7b639ba2608ee078bf530d4846297c5c144466358578cc54623cee7efc43e7438194f85c6d"
+                "sha1": "6656aba43a6e31cb0f8ca96dc8c8199a99ae5fd8",
+                "sha512": "b5422cb81427bed57ceab2613dda69ee71dc8ae3e858d762d01e41b2d8a1178de556e5b854e7874f7d9c0109a8fa71bb68ed3079a98d924c86b2af243196548d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/VSNURh3q/versions/H5YtgA2t/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.310.jar"
+                "https://cdn.modrinth.com/data/VSNURh3q/versions/vV4AvU4E/c2me-fabric-mc1.21.1-0.3.0%2Balpha.0.314.jar"
             ],
-            "fileSize": 4660890
+            "fileSize": 4664211
         },
         {
             "path": "mods/Chunky-1.4.16.jar",
@@ -827,16 +827,16 @@
             "fileSize": 6596289
         },
         {
-            "path": "mods/waveycapes-fabric-1.4.13-mc1.21.jar",
+            "path": "mods/waveycapes-fabric-1.5.1-mc1.21.jar",
             "hashes": {
-                "sha1": "c1980143a20428bc7947a511cac519d700941fb7",
-                "sha512": "3a424727eb63879f7f235bc8393b6bd26594035cecbaf0b75bc2096ccc458a5b72a7e54901b9acb64f171f53295096e1d02572b890e8cb89bfa6c8dfa55f93a8"
+                "sha1": "1c2716e2db93546d1d63a7716357d4e72c8081e1",
+                "sha512": "d3755a4b68bd25eac34d7966a610dbeb03c7dc5fea3369ffb56af6c52de3cf70cfc173d0ce0645e28211c5c734614593d02930ff37e79a7db653166e3d23698b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/kYuIpRLv/versions/8SpVTtgU/waveycapes-fabric-1.4.13-mc1.21.jar",
-                "https://github.com/tr7zw/WaveyCapes/releases/download/1.4.13/waveycapes-fabric-1.4.13-mc1.21.jar"
+                "https://cdn.modrinth.com/data/kYuIpRLv/versions/syBhNgwF/waveycapes-fabric-1.5.1-mc1.21.jar",
+                "https://github.com/tr7zw/WaveyCapes/releases/download/1.5.1/waveycapes-fabric-1.5.1-mc1.21.jar"
             ],
-            "fileSize": 363266
+            "fileSize": 368897
         },
         {
             "path": "mods/accessories-fabric-1.1.0-beta.19+1.21.1.jar",
@@ -1334,15 +1334,15 @@
             "fileSize": 161045
         },
         {
-            "path": "mods/lavender-0.1.14+1.21.jar",
+            "path": "mods/lavender-0.1.15+1.21.jar",
             "hashes": {
-                "sha1": "faef4c20537d10c986d212f223ff81a83def868e",
-                "sha512": "e7c636f76724b5e86e72555d3f69eb6caed7bf37683374340aabbe9c08d457cefc0d2137ea572450d62b84b802e21c664af1c431dd0aaece4799be50628b2588"
+                "sha1": "a1ecb564d1cff65e34a5dd60be893bd1d55d93bf",
+                "sha512": "5fe79ac7b8c150de305b317884d32b16c5d89c3b284f0d7ea4f2ded07e44750ac6a6e1b91993706700da0bf69329552a09e7476f6ed0d7911f7d425cb187c060"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/D5h9NKNI/versions/cAWHE1fJ/lavender-0.1.14%2B1.21.jar"
+                "https://cdn.modrinth.com/data/D5h9NKNI/versions/gdB0WW0x/lavender-0.1.15%2B1.21.jar"
             ],
-            "fileSize": 530822
+            "fileSize": 539500
         },
         {
             "path": "mods/lithosphere-1.3.jar",
@@ -1389,15 +1389,15 @@
             "fileSize": 46532
         },
         {
-            "path": "mods/moonlight-1.21-2.17.16-fabric.jar",
+            "path": "mods/moonlight-1.21-2.17.17-fabric.jar",
             "hashes": {
-                "sha1": "111adf20e2c6f0284cd2f4e4b1f5ca4c2e8b1e97",
-                "sha512": "40bebd1de39959c52610052ab992ca7ec95acc098b6124b0668520745cd830f9e68c5b208f5460f7d8007c2fa25a086649f37845f8f3b4960c37a3eae312deea"
+                "sha1": "17297f6f76b0d69db612dc16be1b1f01dbf664d2",
+                "sha512": "863d310976ab930dafae227e23277318729df8afd2ad72cf40304f12602e3c3a5ad8c39a6f46b721d3f1c160c358d5e7bf4bb9b429b1f5e2dd2b3da80b033bf5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/twkfQtEc/versions/7AWlZeQ6/moonlight-1.21-2.17.16-fabric.jar"
+                "https://cdn.modrinth.com/data/twkfQtEc/versions/C2DZEJdw/moonlight-1.21-2.17.17-fabric.jar"
             ],
-            "fileSize": 1092191
+            "fileSize": 1092402
         },
         {
             "path": "mods/moredelight-25.01.13-1.21-fabric.jar",
@@ -1642,15 +1642,15 @@
             "fileSize": 3641948
         },
         {
-            "path": "mods/TaxFreeLevels-1.4.6-fabric-1.21.1.jar",
+            "path": "mods/TaxFreeLevels-1.4.7-fabric-1.21.1.jar",
             "hashes": {
-                "sha1": "6a9fe57d84fa52388a2de56e3fd848efbdee88b9",
-                "sha512": "1fa78965e85e329c45169e018c45f83dcdd8fefc899949e54a24918403f990bd0c812fc6e47befda406751e92ccb8c6156499a9d604d8ac78312d799324f952e"
+                "sha1": "3ed9d6646e5ee1bfe870cb2f9157b2d47dee1d14",
+                "sha512": "82bc601bd8151aea65a95deb0a56abdc9edbe7b41826143046894ebba48693ae21e2451ba4c1fd7398880e8fe45d1134442a304630874f99adb26449167204bf"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/jCBrrLTs/versions/KWAm62On/TaxFreeLevels-1.4.6-fabric-1.21.1.jar"
+                "https://cdn.modrinth.com/data/jCBrrLTs/versions/PJV01Pls/TaxFreeLevels-1.4.7-fabric-1.21.1.jar"
             ],
-            "fileSize": 36038
+            "fileSize": 35905
         },
         {
             "path": "mods/tectonic-fabric-1.21.1-2.4.1a.jar",
