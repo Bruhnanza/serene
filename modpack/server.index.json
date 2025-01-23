@@ -909,17 +909,6 @@
             "fileSize": 686420
         },
         {
-            "path": "mods/Improved_Anvils-1.1.1-1.21.jar",
-            "hashes": {
-                "sha1": "30b25d083088a7ed3abbe604c123e1fac12b6dbc",
-                "sha512": "9c0a07a4debaa5372d23f3808ecd55e5f7243ffcabea1129014c08432fbc5dbeed0425982c43fc8535ede74dbce3a95e374f1b71f24521bad2d70b9724e597c6"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/xjFXbsyG/versions/f1FDqfwJ/Improved_Anvils-1.1.1-1.21.jar"
-            ],
-            "fileSize": 16772
-        },
-        {
             "path": "mods/Incendium_1.21.x_v5.4.4.jar",
             "hashes": {
                 "sha1": "40da6da25ec45c4d88447733255e4281b6f22fef",
@@ -1041,15 +1030,15 @@
             "fileSize": 46532
         },
         {
-            "path": "mods/moonlight-1.21-2.17.17-fabric.jar",
+            "path": "mods/moonlight-1.21-2.17.18-fabric.jar",
             "hashes": {
-                "sha1": "17297f6f76b0d69db612dc16be1b1f01dbf664d2",
-                "sha512": "863d310976ab930dafae227e23277318729df8afd2ad72cf40304f12602e3c3a5ad8c39a6f46b721d3f1c160c358d5e7bf4bb9b429b1f5e2dd2b3da80b033bf5"
+                "sha1": "4e1e6985fc20053468875c6414067b2b3195d693",
+                "sha512": "03a11a9e1c9b42a252685815361e714869e011f7e0418eb707a0ec748e61e127860f07bf62ce1fe2d6b110c6c0185f96eee74e0309a5fac348f3396c1ac3d84b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/twkfQtEc/versions/C2DZEJdw/moonlight-1.21-2.17.17-fabric.jar"
+                "https://cdn.modrinth.com/data/twkfQtEc/versions/S1m4zDYR/moonlight-1.21-2.17.18-fabric.jar"
             ],
-            "fileSize": 1092402
+            "fileSize": 1092627
         },
         {
             "path": "mods/moredelight-25.01.13-1.21-fabric.jar",
