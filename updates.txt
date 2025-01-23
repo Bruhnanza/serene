@@ -4,8 +4,9 @@
  \ \_\ \ \_\\ \_____\\ \____- \ \_\   \ \_\ \_\\ \_____\\ \_\ \_\ 
   \/_/  \/_/ \/_____/ \/____/  \/_/    \/_/\/_/ \/_____/ \/_/\/_/ 
                                                                   
-- Updated Antique Atlas 4, Balm, ChoiceTheorem's Overhauled Village, Concurrent Chunk Management Engine, EMI, Fabric API, Fzzy Config, Lavender, Lithostitched, Moonlight Lib, More Delight, Not Enough Animations, Reese's Sodium Options, Surveyor Map Framework, Tom's Simple Storage, Wavey Capes, You're in Grave Danger
+- Updated Antique Atlas 4, Balm, ChoiceTheorem's Overhauled Village, Concurrent Chunk Management Engine, Controlify, EMI, Fabric API, Fzzy Config, Lavender, Lithostitched, Moonlight Lib, More Delight, Not Enough Animations, Reese's Sodium Options, Surveyor Map Framework, Tom's Simple Storage, Wavey Capes, You're in Grave Danger
 - Added Tax Free Levels
+- Removed Improved Anvils
 - Changed Simple Hats config to enable use in the hat slot, and disabled mob drops
 - Created config for YDM's Weaponmaster to disable shield, quiver, main & off hand slots by default.
 - Updated Fabric Loader to version 0.16.10
@@ -21,7 +22,6 @@ Fixes
 - Leave Us In Peace: Awaiting fix for compat with Biomes O' Plenty
 - Lootr: TBD / Not explored yet
 - Snow Under Trees: Not reported yet, may ask Snow! Real Magic! to implement same feature set or other alternative
-
 
  ______   ______   ______   __   __ ______   ______    
 /\  ___\ /\  ___\ /\  == \ /\ \ / //\  ___\ /\  == \   
