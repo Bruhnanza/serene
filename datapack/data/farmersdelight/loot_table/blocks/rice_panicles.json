@@ -1,0 +1,82 @@
+{
+    "type": "minecraft:block",
+    "functions": [
+        {
+            "function": "minecraft:explosion_decay"
+        }
+    ],
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:alternatives",
+                    "children": [
+                        {
+                            "type": "minecraft:item",
+                            "conditions": [
+                                {
+                                    "block": "farmersdelight:rice_panicles",
+                                    "condition": "minecraft:block_state_property",
+                                    "properties": {
+                                        "age": "3"
+                                    }
+                                },
+                                {
+                                    "condition": "minecraft:match_tool",
+                                    "predicate": {
+                                        "items": "#farmersdelight:tools/knives"
+                                    }
+                                }
+                            ],
+                            "name": "farmersdelight:rice"
+                        },
+                        {
+                            "type": "minecraft:item",
+                            "conditions": [
+                                {
+                                    "block": "farmersdelight:rice_panicles",
+                                    "condition": "minecraft:block_state_property",
+                                    "properties": {
+                                        "age": "3"
+                                    }
+                                }
+                            ],
+                            "name": "farmersdelight:rice_panicle"
+                        }
+                    ]
+                }
+            ],
+            "rolls": 1.0
+        },
+        {
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "block": "farmersdelight:rice_panicles",
+                    "condition": "minecraft:block_state_property",
+                    "properties": {
+                        "age": "3"
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_data": {
+                                    "serene.indicator": 1
+                                }
+                            }
+                        }
+                    ],
+                    "name": "farmersdelight:rice_panicle"
+                }
+            ],
+            "rolls": 1.0
+        }
+    ]
+}

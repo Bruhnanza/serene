@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "farmersdelight:cabbage_seeds"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_cabbage": {
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:cabbage"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cabbage"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "farmersdelight:cabbage_seeds"
+    ]
+  }
+}

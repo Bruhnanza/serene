@@ -1,0 +1,120 @@
+{
+    "type": "minecraft:block",
+    "functions": [
+        {
+            "function": "minecraft:explosion_decay"
+        }
+    ],
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "block": "farmersdelight:tomatoes",
+                    "condition": "minecraft:block_state_property",
+                    "properties": {
+                        "age": "3"
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 1.0,
+                                "max": 2.0,
+                                "type": "minecraft:uniform"
+                            }
+                        },
+                        {
+                            "enchantment": "minecraft:fortune",
+                            "formula": "minecraft:uniform_bonus_count",
+                            "function": "minecraft:apply_bonus",
+                            "parameters": {
+                                "bonusMultiplier": 1
+                            }
+                        }
+                    ],
+                    "name": "farmersdelight:tomato"
+                }
+            ],
+            "rolls": 1.0
+        },
+        {
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "block": "farmersdelight:tomatoes",
+                    "condition": "minecraft:block_state_property",
+                    "properties": {
+                        "ropelogged": "false"
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "farmersdelight:tomato_seeds"
+                }
+            ],
+            "rolls": 1.0
+        },
+        {
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "block": "farmersdelight:tomatoes",
+                    "condition": "minecraft:block_state_property",
+                    "properties": {
+                        "age": "3"
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "conditions": [
+                        {
+                            "chance": 0.05,
+                            "condition": "minecraft:random_chance"
+                        }
+                    ],
+                    "name": "farmersdelight:rotten_tomato"
+                }
+            ],
+            "rolls": 1.0
+        },
+        {
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "block": "farmersdelight:tomatoes",
+                    "condition": "minecraft:block_state_property",
+                    "properties": {
+                        "age": "3"
+                    }
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:custom_data": {
+                                    "serene.indicator": 1
+                                }
+                            }
+                        }
+                    ],
+                    "name": "farmersdelight:tomato"
+                }
+            ],
+            "rolls": 1.0
+        }
+    ]
+}
