@@ -4,7 +4,7 @@
  \ \_\ \ \_\\ \_____\\ \____- \ \_\   \ \_\ \_\\ \_____\\ \_\ \_\ 
   \/_/  \/_/ \/_____/ \/____/  \/_/    \/_/\/_/ \/_____/ \/_/\/_/ 
                                                                   
-- Updated Antique Atlas 4, Balm, ChoiceTheorem's Overhauled Village, Concurrent Chunk Management Engine, Controlify, EMI, Fabric API, Fzzy Config, Lavender, Lithostitched, Moonlight Lib, More Delight, Not Enough Animations, Reese's Sodium Options, Surveyor Map Framework, Tom's Simple Storage, Wavey Capes, You're in Grave Danger
+- Updated Antique Atlas 4, Balm, ChoiceTheorem's Overhauled Village, Concurrent Chunk Management Engine, EMI, Fabric API, Fzzy Config, Lavender, Lithostitched, Moonlight Lib, More Delight, Not Enough Animations, Reese's Sodium Options, Surveyor Map Framework, Tom's Simple Storage, Wavey Capes, You're in Grave Danger
 - Added Tax Free Levels
 - Removed Improved Anvils
 - Changed Simple Hats config to enable use in the hat slot, and disabled mob drops
@@ -12,7 +12,8 @@
 - Updated Fabric Loader to version 0.16.10
 
 Future Changes
-- Awaiting subsequent change for mods dependent on Fzzy
+- Controlify, Snow Under Trees, Supplementaries, & Zoomify: Incompatiable with Distant Horizons currently
+- LibJF, Polyone & Respackopts: Temporary compatability issues
 - Accessories update needs to be tested and implemented into Stormilla Modded
 - Add Stormilla fixes for mods be default in the Stormilla Modded pack to override
 - Atlas: Replace Xaero's & OPAC with Antique Atlas Item / Map Atlases once the former is available or the latter updates
@@ -41,7 +42,9 @@ Fixes
 - Lodestones are crafted with an iron ingot consistent with 25w02a
 - Removed Advanced Netherite's Lodestone recipe
 - Shulkers drop 2 shulker shells on death
-- Snow blocks produce 12 snow layers as to be consistent with snowball-making mechanic
+- Snow blocks produce 12 snow layers as to be consistent with snowball-making mechanic from Snow! Real Magic!
+- Added recipe to turn Cabbage into Cabbage seeds
+- You now collect experience when harvesting wheat, potatoes, carrots, and crops from Farmer's Delight
 
 - Get images for Lodestone, Snow recipes
 - Add addendums to hyperlink [25w02a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w02a) and explain compat with Snow! Real Magic!
