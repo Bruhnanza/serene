@@ -44,7 +44,8 @@ Fixes
 - Shulkers drop 2 shulker shells on death
 - Snow blocks produce 12 snow layers as to be consistent with snowball-making mechanic from Snow! Real Magic!
 - Added recipe to turn Cabbage into Cabbage seeds
-- You now collect experience when harvesting wheat, potatoes, carrots, and crops from Farmer's Delight
+- You now collect experience when harvesting wheat, potatoes, carrots, beetroots, and crops from Farmer's Delight!
+- It does this by modifying the crop loot tables to summon an XP orb every time you harvest a crop at full maturity.
 
 - Get images for Lodestone, Snow recipes
 - Add addendums to hyperlink [25w02a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w02a) and explain compat with Snow! Real Magic!
