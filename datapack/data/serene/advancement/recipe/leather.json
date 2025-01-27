@@ -1,0 +1,24 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:rotten_flesh"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "serene:leather_smelting",
+            "serene:leather_smoking",
+            "serene:leather_campfire"
+        ]
+    }
+}

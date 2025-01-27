@@ -1,0 +1,23 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:leather",
+                            "minecraft:iron_ingot"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+            "serene:iron_horse_armor"
+        ]
+    }
+}
