@@ -47,6 +47,7 @@ Fixes
 - You now collect experience when harvesting wheat, potatoes, carrots, beetroots, and crops from Farmer's Delight!
 - It does this by modifying the crop loot tables to summon an XP orb every time you harvest a crop at full maturity.
 - Frost walker now works properly on horse armor and has an increased radius to allow sprint-jumping
+- Added recipes for nametags, minecart variations, horse armor, dyes continuity, string from wool, & leather from rotten flesh
 
 - Get images for Lodestone, Snow recipes
 - Add addendums to hyperlink [25w02a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w02a) and explain compat with Snow! Real Magic!
