@@ -154,15 +154,15 @@
             "fileSize": 435763
         },
         {
-            "path": "mods/moreculling-fabric-1.21.1-1.0.3.jar",
+            "path": "mods/moreculling-fabric-1.21.1-1.0.4.jar",
             "hashes": {
-                "sha1": "301ba2e2a2652fd2e13d4dac8af781fc9c713603",
-                "sha512": "1caa434c79ad86c70dfc9493900181636781cb8853cb89d9bf4b3f53ccdfb65d155da18f5f68692e7d9ec4e56df9c5490b19131f486bb770d1211bf14d2a3f52"
+                "sha1": "14a208ac26ad6cf4005871fbc687e2a8913c67d6",
+                "sha512": "64a76c724af4c1c70d6034b09f394826d408c79f35b00861aa455a83021ddae3afdf952d65ab639666bd4d6fea6180207e2a3dab01f035e3475dee7692be4d33"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/mNRCywqI/moreculling-fabric-1.21.1-1.0.3.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/ZfHcTTZR/moreculling-fabric-1.21.1-1.0.4.jar"
             ],
-            "fileSize": 345711
+            "fileSize": 344762
         },
         {
             "path": "mods/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
@@ -211,15 +211,15 @@
             "fileSize": 373661
         },
         {
-            "path": "mods/sodium-fabric-0.6.5+mc1.21.1.jar",
+            "path": "mods/sodium-fabric-0.6.7+mc1.21.1.jar",
             "hashes": {
-                "sha1": "68469cfbcb1b7fcdb0d11c8b984a657adfac5684",
-                "sha512": "d8979d318af75def36d60e823b50063a8f83bb22db602f04e4112a891eb564abd85c6c87a2ee6fad312c11703b3f586c6ca72f2ee13883a76ea3f655525603ee"
+                "sha1": "48287c010aa75817b23334ef964c30d37a90f2e0",
+                "sha512": "14158717891d458927bc7c04ac9fd425efc4b2dcc24c6388351ee4872c9aacbcaf2de2952704e70553f08f0c05a4e19c7ddbe3f86f0961842e96423e65666b4f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/AANobbMI/versions/EoNKHoLH/sodium-fabric-0.6.5%2Bmc1.21.1.jar"
+                "https://cdn.modrinth.com/data/AANobbMI/versions/AxSdcDcP/sodium-fabric-0.6.7%2Bmc1.21.1.jar"
             ],
-            "fileSize": 1289453
+            "fileSize": 1293429
         },
         {
             "path": "mods/threadtweak-fabric-0.1.5+mc1.21.1.jar",
