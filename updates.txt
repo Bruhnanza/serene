@@ -49,5 +49,11 @@ Fixes
 - Frost walker now works properly on horse armor and has an increased radius to allow sprint-jumping
 - Added recipes for nametags, minecart variations, horse armor, dyes continuity, string from wool, & leather from rotten flesh
 
+- Added healing campfires!!!
+- Added rooted dirt recipe
+- Added additioner snow recipes to make it consistent and interoperabile
+- Added datapack reload indicator
+- Added chain and iron bars to climable blocks
+
 - Get images for Lodestone, Snow recipes
 - Add addendums to hyperlink [25w02a](https://www.minecraft.net/en-us/article/minecraft-snapshot-25w02a) and explain compat with Snow! Real Magic!
