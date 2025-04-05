@@ -1,5 +1,6 @@
 {
     "values": [
-        "serene:load"
+        "serene:campfire/load",
+        "serene:harvest/main"
     ]
 }
