@@ -1,6 +1,7 @@
 {
     "values": [
         "serene:campfire/load",
-        "serene:harvest/main"
+        "serene:harvest/main",
+        "serene:reload"
     ]
 }
